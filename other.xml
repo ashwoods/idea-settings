@@ -1,0 +1,251 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="EXT_CONFIGURATION">
+      <value>
+        <option name="CVS_RSH" value="ssh" />
+        <option name="PRIVATE_KEY_FILE" value="" />
+        <option name="ADDITIONAL_PARAMETERS" value="" />
+        <option name="USE_INTERNAL_SSH_IMPLEMENTATION" value="false" />
+      </value>
+    </option>
+    <option name="SSH_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+      </value>
+    </option>
+    <option name="LOCAL_CONFIGURATION">
+      <value>
+        <option name="PATH_TO_CVS_CLIENT" value="cvs" />
+      </value>
+    </option>
+    <option name="PROXY_SETTINGS">
+      <value>
+        <option name="USE_PROXY" value="false" />
+        <option name="PROXY_HOST" value="" />
+        <option name="PROXY_PORT" value="8080" />
+        <option name="TYPE" value="0" />
+        <option name="LOGIN" value="" />
+        <option name="PASSWORD" value="" />
+      </value>
+    </option>
+    <option name="SSH_FOR_EXT_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+      </value>
+    </option>
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+    <option name="TIMEOUT" value="10" />
+    <option name="MAKE_CHECKED_OUT_FILES_READONLY" value="false" />
+    <option name="CHECKOUT_PRUNE_EMPTY_DIRECTORIES" value="true" />
+    <option name="CHECKOUT_KEYWORD_SUBSTITUTION" />
+    <option name="SHOW_RESTORE_DIRECTORIES_CONFIRMATION" value="true" />
+    <option name="ENCODING" value="Default" />
+    <option name="USE_GZIP" value="false" />
+    <option name="DO_OUTPUT" value="false" />
+    <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
+    <option name="SHOW_PATH" value="true" />
+  </component>
+  <component name="NativeNeighbourhoodPlugin">
+    <iconsDir value="macosx" />
+    <executeWithDefaultAppCommand value="/usr/bin/open|$FilePath$" tokenizerDelims="|" />
+    <showInFileManagerCommand value="/bin/sh|$PluginsHome$/NativeNeighbourhood/classes/org/intellij/plugins/nativeNeighbourhood/icons/macosx/reveal.sh|$FilePath$" tokenizerDelims="|" />
+    <openCommandShellInCommand value="/bin/sh|$PluginsHome$/NativeNeighbourhood/classes/org/intellij/plugins/nativeNeighbourhood/icons/macosx/terminal.sh|$FileDir$" tokenizerDelims="|" />
+    <selectInFileManagerName value="MacOSX Finder" />
+    <nativeExtensions value="" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/0.10.22/bin/node" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/.pyenv/versions/2.7.9/bin/python" value="false" />
+        <entry key="$USER_HOME$/.pyenv/versions/3.5.1/bin/python" value="false" />
+        <entry key="$USER_HOME$/.pyenv/versions/cinema_3.5.2/bin/python" value="true" />
+        <entry key="$USER_HOME$/.pyenv/versions/flowjs/bin/python" value="false" />
+        <entry key="$USER_HOME$/.pyenv/versions/formulator/bin/python" value="false" />
+        <entry key="$USER_HOME$/.pyenv/versions/perfectgift/bin/python" value="true" />
+        <entry key="docker-compose:///Users/ashwoods/code/docker-pywhale/test/src/docker-compose.yml:django//app/pyenv/versions/project" value="false" />
+        <entry key="vagrant:///Users/ashwoods/Work/submitz-nemesis/home/vagrant/.virtualenvs/nemesis/bin/python" value="false" />
+        <entry key="vagrant:///Users/ashwoods/Work/submitz-nemesis/home/vagrant/nemesis/bin/python" value="false" />
+        <entry key="vagrant:///Users/ashwoods/code/Bildrecht_backend/home/vagrant/.pyenv/versions/brecht-2.7/bin/python" value="false" />
+        <entry key="vagrant:///Users/ashwoods/code/Bildrecht_backend/home/vagrant/.pyenv/versions/brecht/bin/python" value="true" />
+        <entry key="vagrant:///Users/ashwoods/code/nemesis/home/vagrant/.pyenv/versions/nemesis#dev#master/bin/python" value="true" />
+        <entry key="vagrant:///Users/ashwoods/code/nemesis/home/vagrant/.pyenv/versions/nemesis#dev#uprgrade/bin/python" value="true" />
+        <entry key="vagrant:///Users/ashwoods/code/nemesis/home/vagrant/.pyenv/versions/nemesis#dev/bin/python" value="true" />
+        <entry key="vagrant:///Users/ashwoods/code/nemesis/home/vagrant/.pyenv/versions/nemesis-3.4.3/bin/python" value="true" />
+        <entry key="vagrant:///Users/ashwoods/code/oliphaunts/home/vagrant/.pyenv/versions/oliphaunts/bin/python" value="true" />
+        <entry key="vagrant:///Users/ashwoods/code/opera.core/home/vagrant/pyenv/versions/3.5.1/envs/opli/bin/python" value="true" />
+        <entry key="vagrant:///Users/ashwoods/code/submitto-phoenix/home/vagrant/.virtualenvs/phoenix/bin/python" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/.pyenv/versions/2.7.9/bin/python" value="false" />
+        <entry key="$USER_HOME$/.pyenv/versions/cinema_3.5.2/bin/python" value="false" />
+        <entry key="$USER_HOME$/.pyenv/versions/flowjs/bin/python" value="false" />
+        <entry key="$USER_HOME$/.pyenv/versions/formulator/bin/python" value="false" />
+        <entry key="$USER_HOME$/.pyenv/versions/perfectgift/bin/python" value="false" />
+        <entry key="docker-compose:///Users/ashwoods/code/docker-pywhale/test/src/docker-compose.yml:django//app/pyenv/versions/project" value="false" />
+        <entry key="ssh://vagrant@127.0.0.1:2222/home/vagrant/.virtualenvs/nemesis/bin/python" value="true" />
+        <entry key="vagrant:///Users/ashwoods/Work/submitz-nemesis/home/vagrant/.virtualenvs/nemesis/bin/python" value="false" />
+        <entry key="vagrant:///Users/ashwoods/Work/submitz-nemesis/home/vagrant/nemesis/bin/python" value="true" />
+        <entry key="vagrant:///Users/ashwoods/code/Bildrecht_backend/home/vagrant/.pyenv/versions/brecht-2.7/bin/python" value="false" />
+        <entry key="vagrant:///Users/ashwoods/code/Bildrecht_backend/home/vagrant/.pyenv/versions/brecht/bin/python" value="false" />
+        <entry key="vagrant:///Users/ashwoods/code/nemesis/home/vagrant/.pyenv/versions/nemesis#dev#master/bin/python" value="false" />
+        <entry key="vagrant:///Users/ashwoods/code/nemesis/home/vagrant/.pyenv/versions/nemesis#dev#uprgrade/bin/python" value="false" />
+        <entry key="vagrant:///Users/ashwoods/code/nemesis/home/vagrant/.pyenv/versions/nemesis#dev/bin/python" value="false" />
+        <entry key="vagrant:///Users/ashwoods/code/nemesis/home/vagrant/.pyenv/versions/nemesis-3.4.3/bin/python" value="false" />
+        <entry key="vagrant:///Users/ashwoods/code/oliphaunts/home/vagrant/.pyenv/versions/oliphaunts/bin/python" value="false" />
+        <entry key="vagrant:///Users/ashwoods/code/opera.core/home/vagrant/pyenv/versions/3.5.1/envs/opli/bin/python" value="false" />
+        <entry key="vagrant:///Users/ashwoods/code/submitto-phoenix/home/vagrant/.virtualenvs/phoenix/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="$USER_HOME$/.pyenv/versions/2.7.9/bin/python" value="false" />
+        <entry key="$USER_HOME$/.pyenv/versions/cinema_3.5.2/bin/python" value="false" />
+        <entry key="$USER_HOME$/.pyenv/versions/flowjs/bin/python" value="false" />
+        <entry key="$USER_HOME$/.pyenv/versions/formulator/bin/python" value="false" />
+        <entry key="$USER_HOME$/.pyenv/versions/perfectgift/bin/python" value="false" />
+        <entry key="docker-compose:///Users/ashwoods/code/docker-pywhale/test/src/docker-compose.yml:django//app/pyenv/versions/project" value="false" />
+        <entry key="vagrant:///Users/ashwoods/Work/submitz-nemesis/home/vagrant/.virtualenvs/nemesis/bin/python" value="false" />
+        <entry key="vagrant:///Users/ashwoods/Work/submitz-nemesis/home/vagrant/nemesis/bin/python" value="false" />
+        <entry key="vagrant:///Users/ashwoods/code/Bildrecht_backend/home/vagrant/.pyenv/versions/brecht-2.7/bin/python" value="false" />
+        <entry key="vagrant:///Users/ashwoods/code/Bildrecht_backend/home/vagrant/.pyenv/versions/brecht/bin/python" value="false" />
+        <entry key="vagrant:///Users/ashwoods/code/nemesis/home/vagrant/.pyenv/versions/nemesis#dev#master/bin/python" value="false" />
+        <entry key="vagrant:///Users/ashwoods/code/nemesis/home/vagrant/.pyenv/versions/nemesis#dev#uprgrade/bin/python" value="false" />
+        <entry key="vagrant:///Users/ashwoods/code/nemesis/home/vagrant/.pyenv/versions/nemesis#dev/bin/python" value="false" />
+        <entry key="vagrant:///Users/ashwoods/code/nemesis/home/vagrant/.pyenv/versions/nemesis-3.4.3/bin/python" value="false" />
+        <entry key="vagrant:///Users/ashwoods/code/oliphaunts/home/vagrant/.pyenv/versions/oliphaunts/bin/python" value="false" />
+        <entry key="vagrant:///Users/ashwoods/code/opera.core/home/vagrant/pyenv/versions/3.5.1/envs/opli/bin/python" value="false" />
+        <entry key="vagrant:///Users/ashwoods/code/submitto-phoenix/home/vagrant/.virtualenvs/phoenix/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="true" url="https://elephants.atlassian.net">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>dfd9dfdedf9adfc4df9edf9adf9ddfc1</password>
+      <option name="jiraVersion" value="7.0.0-OD-08-005" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>ashley</username>
+    </JIRA>
+    <Redmine shared="false" url="http://pm.creativesociety.com">
+      <option name="APIKey" value="b3177baf3897455d2d17e24ce259cecf21a19b0c" />
+      <option name="assignedToMe" value="true" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentProject" />
+      <password>dfd9dfdedf9adfc4df9edf9adf9ddfc1</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>ashwoods</username>
+    </Redmine>
+    <Redmine shared="false" url="http://pm.submit.to">
+      <option name="APIKey" value="b3177baf3897455d2d17e24ce259cecf21a19b0c" />
+      <option name="assignedToMe" value="true" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentProject" />
+      <password>dfd9dfdedf9adfc4df9edf9adf9ddfc1</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>ashwoods</username>
+    </Redmine>
+  </component>
+  <component name="SystemNotifications">
+    <option name="NOTIFICATIONS">
+      <set>
+        <option value="TestRunner" />
+      </set>
+    </option>
+  </component>
+  <component name="TeamCityHistory">
+    <option name="HISTORY" value="https://ci.nousdigital.net&amp;^%$#@acamba@#$%^&amp;https://ci.submit.to&amp;^%$#@ashwoods@#$%^&amp;http://ci.submit.to&amp;^%$#@ashwoods@#$%^&amp;http://ci.creativesociety.com&amp;^%$#@ashwoods" />
+  </component>
+  <component name="VFSTestFrameworkListener">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/.pyenv/versions/2.7.5/bin/python2.7" value="false" />
+        <entry key="$USER_HOME$/.pyenv/versions/3.2.2/bin/python3" value="false" />
+        <entry key="$USER_HOME$/Virtualenvs/django-formulator/bin/python" value="false" />
+        <entry key="ssh://vagrant@127.0.0.1:2222/home/vagrant/.pyenv/versions/3.3.3/bin/python" value="false" />
+        <entry key="ssh://vagrant@127.0.0.1:2222/home/vagrant/.virtualenvs/nemesis/bin/python" value="false" />
+        <entry key="ssh://vagrant@127.0.0.1:2222/home/vagrant/.virtualenvs/projy/bin/python" value="false" />
+        <entry key="ssh://vagrant@127.0.0.1:2222/home/vagrant/.virtualenvs/submitz/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/.pyenv/versions/2.7.5/bin/python2.7" value="false" />
+        <entry key="$USER_HOME$/.pyenv/versions/3.2.2/bin/python3" value="false" />
+        <entry key="$USER_HOME$/Virtualenvs/django-formulator/bin/python" value="false" />
+        <entry key="ssh://vagrant@127.0.0.1:2222/home/vagrant/.pyenv/versions/3.3.3/bin/python" value="false" />
+        <entry key="ssh://vagrant@127.0.0.1:2222/home/vagrant/.virtualenvs/nemesis/bin/python" value="true" />
+        <entry key="ssh://vagrant@127.0.0.1:2222/home/vagrant/.virtualenvs/submitz/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="$USER_HOME$/.pyenv/versions/2.7.5/bin/python2.7" value="false" />
+        <entry key="$USER_HOME$/.pyenv/versions/3.2.2/bin/python3" value="false" />
+        <entry key="$USER_HOME$/Virtualenvs/django-formulator/bin/python" value="false" />
+        <entry key="ssh://vagrant@127.0.0.1:2222/home/vagrant/.pyenv/versions/3.3.3/bin/python" value="false" />
+        <entry key="ssh://vagrant@127.0.0.1:2222/home/vagrant/.virtualenvs/nemesis/bin/python" value="false" />
+        <entry key="ssh://vagrant@127.0.0.1:2222/home/vagrant/.virtualenvs/submitz/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="Django Model " />
+          </list>
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+</application>

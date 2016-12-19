@@ -1,0 +1,462 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Remote Python 2.7.3 (vagrant:///Users/ashwoods/Work/submitz-nemesis/home/vagrant/nemesis/bin/python) (1)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.3" />
+      <homePath value="vagrant:///Users/ashwoods/Work/submitz-nemesis/home/vagrant/nemesis/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/python_stubs/1337111963" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/-403861400" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/534602306" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/448274539" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/711499724" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/-1225840389" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/697618672" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/-912238667" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/1232796085" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/201544331" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/-2145795944" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/-1437984459" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/1938423501" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/-129395239" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/1454266281" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/-696053003" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/-1180210223" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/809744127" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/-1790152761" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/1789590940" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/1291849655" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/-237800501" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional VAGRANT_FOLDER="$USER_HOME$/Work/submitz-nemesis" INTERPRETER_PATH="/home/vagrant/nemesis/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/809744127" remote-root="/home/vagrant/nemesis/src/django-officium" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/-403861400" remote-root="/home/vagrant/nemesis/src/floppy-charcount-master" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/534602306" remote-root="/vagrant" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/1291849655" remote-root="/home/vagrant/nemesis/src/django-formulator-master" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/-237800501" remote-root="/home/vagrant/nemesis/src/django-resumable" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/1232796085" remote-root="/home/vagrant/nemesis/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/-2145795944" remote-root="/usr/lib/python2.7/plat-linux2" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/-1437984459" remote-root="/home/vagrant/nemesis/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/-696053003" remote-root="/home/vagrant/nemesis/local/lib/python2.7/site-packages/newrelic-2.40.0.34" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/-129395239" remote-root="/home/vagrant/nemesis/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/1337111963/-1180210223" remote-root="/home/vagrant/nemesis/lib/python2.7/site-packages/newrelic-2.40.0.34" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.6 (vagrant:///Users/ashwoods/Work/submitz-nemesis/home/vagrant/.virtualenvs/nemesis/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="vagrant:///Users/ashwoods/Work/submitz-nemesis/home/vagrant/.virtualenvs/nemesis/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/python_stubs/-1336684741" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1336684741/928333625" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1336684741/-794645190" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1336684741/534602306" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1336684741/-1547354841" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1336684741/448274539" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1336684741/-40169977" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1336684741/201544331" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1336684741/724150857" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1336684741/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1336684741/177655943" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1336684741/-53762461" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1336684741/-520179029" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1336684741/419867071" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional VAGRANT_FOLDER="$USER_HOME$/Work/submitz-nemesis" INTERPRETER_PATH="/home/vagrant/.virtualenvs/nemesis/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1336684741/928333625" remote-root="/home/vagrant/.virtualenvs/nemesis/src/django-resumable" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1336684741/-794645190" remote-root="/home/vagrant/.virtualenvs/nemesis/src/floppy-charcount-master" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1336684741/534602306" remote-root="/vagrant" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1336684741/-1547354841" remote-root="/home/vagrant/.virtualenvs/nemesis/src/django-fsm" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1336684741/448274539" remote-root="/vagrant/src/django-formulator" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1336684741/-40169977" remote-root="/home/vagrant/.virtualenvs/nemesis/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1336684741/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1336684741/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1336684741/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1336684741/177655943" remote-root="/home/vagrant/.virtualenvs/nemesis/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1336684741/-53762461" remote-root="/home/vagrant/.virtualenvs/nemesis/local/lib/python2.7/site-packages/newrelic-2.40.0.34" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1336684741/-520179029" remote-root="/home/vagrant/.virtualenvs/nemesis/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-1336684741/419867071" remote-root="/home/vagrant/.virtualenvs/nemesis/lib/python2.7/site-packages/newrelic-2.40.0.34" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.4.3 Vagrant VM at ~/code/oliphaunts (/home/vagrant/.pyenv/versions/oliphaunts/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="vagrant:///Users/ashwoods/code/oliphaunts/home/vagrant/.pyenv/versions/oliphaunts/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/python_stubs/-1752464033" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional VAGRANT_FOLDER="$USER_HOME$/code/oliphaunts" INTERPRETER_PATH="/home/vagrant/.pyenv/versions/oliphaunts/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="" />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.6 Vagrant VM at ~/code/submitto-phoenix (/home/vagrant/.virtualenvs/phoenix/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="vagrant:///Users/ashwoods/code/submitto-phoenix/home/vagrant/.virtualenvs/phoenix/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-462707636/2138544715" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-462707636/534602306" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-462707636/-1761674008" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-462707636/201544331" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-462707636/724150857" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-462707636/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-462707636/1529316584" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-462707636/991240965" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-462707636/-943553588" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-462707636/588272033" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-462707636/-2044667481" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-462707636/448274539" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-462707636/1163015874" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-462707636/760046942" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/-462707636" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional VAGRANT_FOLDER="$USER_HOME$/code/submitto-phoenix" INTERPRETER_PATH="/home/vagrant/.virtualenvs/phoenix/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.6">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-462707636/2138544715" remote-root="/home/vagrant/.virtualenvs/phoenix/src/django-formulator" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-462707636/534602306" remote-root="/vagrant" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-462707636/-1761674008" remote-root="/home/vagrant/.virtualenvs/phoenix/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-462707636/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-462707636/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-462707636/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-462707636/1529316584" remote-root="/home/vagrant/.virtualenvs/phoenix/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-462707636/991240965" remote-root="/home/vagrant/.virtualenvs/phoenix/local/lib/python2.7/site-packages/newrelic-2.60.0.46" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-462707636/-943553588" remote-root="/home/vagrant/.virtualenvs/phoenix/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-462707636/588272033" remote-root="/home/vagrant/.virtualenvs/phoenix/lib/python2.7/site-packages/newrelic-2.60.0.46" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-462707636/-2044667481" remote-root="/vagrant/src/airavata" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-462707636/448274539" remote-root="/vagrant/src/django-formulator" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-462707636/1163015874" remote-root="/home/vagrant/.virtualenvs/phoenix/local/lib/python2.7/site-packages/newrelic-2.66.0.49" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-462707636/760046942" remote-root="/home/vagrant/.virtualenvs/phoenix/lib/python2.7/site-packages/newrelic-2.66.0.49" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.11 virtualenv at ~/.pyenv/versions/flowjs" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="$USER_HOME$/.pyenv/versions/flowjs/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/code/django-flowjs" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/flowjs/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/flowjs/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7/plat-mac" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/flowjs/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/-45373832" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.1 (~/.pyenv/versions/3.5.1/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1" />
+      <homePath value="$USER_HOME$/.pyenv/versions/3.5.1/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/code/opli.pyclient" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.1/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.1/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.1/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.1/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/1737157306" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.5.1 Vagrant VM at ~/code/opera.core (/home/vagrant/pyenv/versions/3.5.1/envs/opli/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1" />
+      <homePath value="vagrant:///Users/ashwoods/code/opera.core/home/vagrant/pyenv/versions/3.5.1/envs/opli/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/1739311486/534602306" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/1739311486/1543193816" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/1739311486/25503341" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/1739311486/-1542920428" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/1739311486/716336406" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/1739311486" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional VAGRANT_FOLDER="$USER_HOME$/code/opera.core" INTERPRETER_PATH="/home/vagrant/pyenv/versions/3.5.1/envs/opli/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 3.5.1">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/1739311486/534602306" remote-root="/vagrant" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/1739311486/1543193816" remote-root="/home/vagrant/pyenv/versions/3.5.1/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/1739311486/25503341" remote-root="/home/vagrant/pyenv/versions/3.5.1/lib/python3.5/plat-linux" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/1739311486/-1542920428" remote-root="/home/vagrant/pyenv/versions/3.5.1/envs/opli/lib/python3.5/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/1739311486/716336406" remote-root="/home/vagrant/pyenv/versions/3.5.1/envs/opli/lib/python3.5/site-packages/newrelic-2.66.0.49" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.5.1 Vagrant VM at ~/code/Bildrecht_backend (/home/vagrant/.pyenv/versions/brecht/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1" />
+      <homePath value="vagrant:///Users/ashwoods/code/Bildrecht_backend/home/vagrant/.pyenv/versions/brecht/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-757177731/-2079154077" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-757177731/534602306" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-757177731/1257274408" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-757177731/695942429" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-757177731/387986557" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-757177731/-1711862893" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-757177731/-2079154077" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-757177731/534602306" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-757177731/-1711862893" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-757177731/1257274408" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-757177731/695942429" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-757177731/387986557" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-757177731/193450221" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-757177731/1377143959" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/-757177731" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional VAGRANT_FOLDER="$USER_HOME$/code/Bildrecht_backend" INTERPRETER_PATH="/home/vagrant/.pyenv/versions/brecht/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 3.5.1">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-757177731/-2079154077" remote-root="/home/vagrant/.pyenv/versions/3.5.1/envs/brecht/src/django-weasyprint" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-757177731/534602306" remote-root="/vagrant" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-757177731/1257274408" remote-root="/home/vagrant/.pyenv/versions/3.5.1/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-757177731/695942429" remote-root="/home/vagrant/.pyenv/versions/3.5.1/lib/python3.5/plat-linux" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-757177731/387986557" remote-root="/home/vagrant/.pyenv/versions/brecht/lib/python3.5/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-757177731/-1711862893" remote-root="/home/vagrant/.pyenv/versions/3.5.1/envs/brecht/src/django-fsm-admin" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-757177731/-2079154077" remote-root="/home/vagrant/.pyenv/versions/3.5.1/envs/brecht/src/django-weasyprint" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-757177731/534602306" remote-root="/vagrant" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-757177731/-1711862893" remote-root="/home/vagrant/.pyenv/versions/3.5.1/envs/brecht/src/django-fsm-admin" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-757177731/1257274408" remote-root="/home/vagrant/.pyenv/versions/3.5.1/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-757177731/695942429" remote-root="/home/vagrant/.pyenv/versions/3.5.1/lib/python3.5/plat-linux" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-757177731/387986557" remote-root="/home/vagrant/.pyenv/versions/brecht/lib/python3.5/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-757177731/193450221" remote-root="/vagrant/src/Remuneration" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-757177731/1377143959" remote-root="/vagrant/src" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.11 virtualenv at ~/.pyenv/versions/formulator" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="$USER_HOME$/.pyenv/versions/formulator/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/code/django-formulator" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/formulator/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/formulator/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7/plat-mac" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/formulator/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/-1742639874" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 virtualenv at ~/.pyenv/versions/cinema_3.5.2" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/.pyenv/versions/cinema_3.5.2/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/code/AustriaCinemaServicePlatform/src/django-oscar-opp" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/520672543" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 virtualenv at ~/.pyenv/versions/perfectgift" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/.pyenv/versions/perfectgift/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/perfectgift/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/code/perfect_gift_backend_neu" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.2/envs/perfectgift/src/django-fsm-admin" />
+            <root type="simple" url="file://$USER_HOME$/code/django-coupons" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/230898042" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.11 Vagrant VM at ~/code/Bildrecht_backend (/home/vagrant/.pyenv/versions/brecht-2.7/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="vagrant:///Users/ashwoods/code/Bildrecht_backend/home/vagrant/.pyenv/versions/brecht-2.7/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/516292239/1007437640" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/516292239/2060257491" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/516292239/1155287776" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/516292239/1360469883" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/516292239/823010860" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/516292239/-1319457029" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/516292239/129574208" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/516292239/534602306" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/516292239/996205793" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/516292239" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional VAGRANT_FOLDER="$USER_HOME$/code/Bildrecht_backend" INTERPRETER_PATH="/home/vagrant/.pyenv/versions/brecht-2.7/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.11">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/516292239/1007437640" remote-root="/home/vagrant/.pyenv/versions/brecht-2.7/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/516292239/2060257491" remote-root="/home/vagrant/.pyenv/versions/2.7.11/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/516292239/1155287776" remote-root="/home/vagrant/.pyenv/versions/2.7.11/lib/python2.7/plat-linux2" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/516292239/1360469883" remote-root="/home/vagrant/.pyenv/versions/2.7.11/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/516292239/823010860" remote-root="/home/vagrant/.pyenv/versions/brecht-2.7/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/516292239/-1319457029" remote-root="/home/vagrant/.pyenv/versions/2.7.11/envs/brecht-2.7/src/django-weasyprint" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/516292239/129574208" remote-root="/home/vagrant/.pyenv/versions/2.7.11/envs/brecht-2.7/src/remuneration" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/516292239/534602306" remote-root="/vagrant" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/516292239/996205793" remote-root="/vagrant/src/django-monkeytranslate" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.5.2 Docker Compose (django at [/Users/ashwoods/code/AustriaCinemaServicePlatform/docker-compose.yml])" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="docker-compose://[/Users/ashwoods/code/AustriaCinemaServicePlatform/docker-compose.yml]:django/python" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker for mac" DOCKER_COMPOSE_SERVICE_NAME="django" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <dockerComposeConfigurationPaths>
+          <item value="$USER_HOME$/code/AustriaCinemaServicePlatform/docker-compose.yml" />
+        </dockerComposeConfigurationPaths>
+        <envs />
+      </additional>
+    </jdk>
+  </component>
+</application>

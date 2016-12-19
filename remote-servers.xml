@@ -1,0 +1,17 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="Vagrant docker" type="docker">
+      <configuration>
+        <option name="apiUrl" value="https://10.0.0.10:2376" />
+        <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/default" />
+        <option name="machine" value="default" />
+      </configuration>
+    </remote-server>
+    <remote-server name="Docker for mac" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://localhost:2376" />
+        <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/default" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>
