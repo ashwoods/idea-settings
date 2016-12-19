@@ -312,7 +312,7 @@
         <mark key="^" line="27" column="75" />
         <mark key="." line="27" column="75" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/static/js/app.js" timestamp="1482144223130">
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/static/js/app.js" timestamp="1482161053320">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="87" column="6" />
         <mark key="." line="87" column="6" />
@@ -748,8 +748,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/base/base.html" timestamp="1482144159209">
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/base/base.html" timestamp="1482161199288">
         <mark key="'" line="16" column="8" />
+        <mark key="[" line="41" column="67" />
+        <mark key="]" line="41" column="62" />
+        <mark key="^" line="41" column="62" />
+        <mark key="." line="41" column="62" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitz/apps/carton/urls.py" timestamp="1441892454641">
         <mark key="[" line="2" column="19" />
