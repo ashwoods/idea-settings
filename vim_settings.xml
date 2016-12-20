@@ -42,7 +42,6 @@
         <mark key="^" line="72" column="24" />
         <mark key="." line="72" column="24" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/base/home.html" timestamp="1482165725715" />
       <file name="$USER_HOME$/code/nemesis/submitto/core/clients/admin.py" timestamp="1446458996629">
         <mark key="[" line="9" column="102" />
         <mark key="]" line="9" column="104" />
@@ -742,6 +741,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/base/base.html" timestamp="1482242280375">
+        <mark key="'" line="16" column="8" />
+        <mark key="[" line="43" column="49" />
+        <mark key="]" line="41" column="66" />
+        <mark key="^" line="41" column="66" />
+        <mark key="." line="41" column="66" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitz/apps/carton/urls.py" timestamp="1441892454641">
         <mark key="[" line="2" column="19" />
@@ -2238,6 +2244,12 @@
         <mark key="^" line="45" column="47" />
         <mark key="." line="45" column="47" />
       </file>
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/contrib/users/urls.py" timestamp="1482242245975">
+        <mark key="[" line="8" column="48" />
+        <mark key="]" line="9" column="57" />
+        <mark key="." line="9" column="57" />
+        <mark key="^" line="9" column="57" />
+      </file>
       <file name="$USER_HOME$/Work/submitz-nemesis/submitz/conf/15-sessions.py" timestamp="1423232875875">
         <mark key="[" line="2" column="35" />
         <mark key="]" line="3" column="45" />
@@ -3109,11 +3121,8 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/urls.py" timestamp="1482241306777">
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/urls.py" timestamp="1482242143797">
         <mark key="[" line="28" column="4" />
-        <mark key="]" line="50" column="3" />
-        <mark key="^" line="50" column="3" />
-        <mark key="." line="50" column="3" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitto/contrib/siteusers/management/commands/createsuperuser.py" timestamp="1454337083715">
         <mark key="[" line="141" column="0" />
@@ -6223,8 +6232,8 @@
       <jump line="54" column="15" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/project.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IyB1cmwocideYWNjb3VudHMvcmVzZXQvcmVjb3Zlci8kJywKIyAgICAnYWNzcC5jb250cmliLnVzZXJzLnZpZXdzLnJlY292ZXInLAojICAgIG5hbWU9J3Bhc3N3b3JkX3Jlc2V0X3JlY292ZXInKSwKCnVybChyJ15hY2NvdW50cy9yZXNldC8nLCBpbmNsdWRlKCdwYXNzd29yZF9yZXNldC51cmxzJykpLAoKdXJsKHInXmFjY291bnRzL2xvZ291dC8kJywKICAgICdkamFuZ28uY29udHJpYi5hdXRoLnZpZXdzLmxvZ291dCcsCiAgICB7J25leHRfcGFnZSc6IHNldHRpbmdzLkxPR0lOX1JFRElSRUNUX1VSTH0pLAoKdXJsKHInXmFjY291bnRzL2xvZ2luLyQnLAogICAgJ2RqYW5nby5jb250cmliLmF1dGgudmlld3MubG9naW4nLAogICAgeydhdXRoZW50aWNhdGlvbl9mb3JtJzogU2l0ZUF1dGhlbnRpY2F0aW9uRm9ybX0pLAoKdXJsKHInXmFjY291bnRzL3JlZ2lzdGVyLyQnLAogICAgJ2Fjc3AuY29udHJpYi51c2Vycy52aWV3cy5yZWdpc3RlcicsCiAgICBuYW1lPSdyZWdpc3RyYXRpb25fcmVnaXN0ZXInKSwKCnVybChyJ15hY2NvdW50cy9hY3RpdmF0ZS8oP1A8YWN0aXZhdGlvbl9rZXk+Wy06XHddKykvJCcsCiAgICAnYWNzcC5jb250cmliLnVzZXJzLnZpZXdzLmFjdGl2YXRlJywKICAgIG5hbWU9J3JlZ2lzdHJhdGlvbl9hY3RpdmF0ZScpLAoKdXJsKHInXmFjY291bnRzLycsIGluY2x1ZGUoJ3JlZ2lzdHJhdGlvbi5iYWNrZW5kcy5obWFjLnVybHMnKSks</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PC9tYWluPg==</text>
@@ -6235,17 +6244,17 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHVybChyJ14kJywgc2l0ZV9ob21lX3ZpZXcsIG5hbWU9J3NpdGVfaG9tZScpLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IyB1cmwocideYWNjb3VudHMvcmVzZXQvcmVjb3Zlci8kJywKIyAgICAnYWNzcC5jb250cmliLnVzZXJzLnZpZXdzLnJlY292ZXInLAojICAgIG5hbWU9J3Bhc3N3b3JkX3Jlc2V0X3JlY292ZXInKSwKCnVybChyJ15hY2NvdW50cy9yZXNldC8nLCBpbmNsdWRlKCdwYXNzd29yZF9yZXNldC51cmxzJykpLAoKdXJsKHInXmFjY291bnRzL2xvZ291dC8kJywKICAgICdkamFuZ28uY29udHJpYi5hdXRoLnZpZXdzLmxvZ291dCcsCiAgICB7J25leHRfcGFnZSc6IHNldHRpbmdzLkxPR0lOX1JFRElSRUNUX1VSTH0pLAoKdXJsKHInXmFjY291bnRzL2xvZ2luLyQnLAogICAgJ2RqYW5nby5jb250cmliLmF1dGgudmlld3MubG9naW4nLAogICAgeydhdXRoZW50aWNhdGlvbl9mb3JtJzogU2l0ZUF1dGhlbnRpY2F0aW9uRm9ybX0pLAoKdXJsKHInXmFjY291bnRzL3JlZ2lzdGVyLyQnLAogICAgJ2Fjc3AuY29udHJpYi51c2Vycy52aWV3cy5yZWdpc3RlcicsCiAgICBuYW1lPSdyZWdpc3RyYXRpb25fcmVnaXN0ZXInKSwKCnVybChyJ15hY2NvdW50cy9hY3RpdmF0ZS8oP1A8YWN0aXZhdGlvbl9rZXk+Wy06XHddKykvJCcsCiAgICAnYWNzcC5jb250cmliLnVzZXJzLnZpZXdzLmFjdGl2YXRlJywKICAgIG5hbWU9J3JlZ2lzdHJhdGlvbl9hY3RpdmF0ZScpLAoKdXJsKHInXmFjY291bnRzLycsIGluY2x1ZGUoJ3JlZ2lzdHJhdGlvbi5iYWNrZW5kcy5obWFjLnVybHMnKSks</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICdkamFuZ28tZ3JhcHBlbGxpJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VE9ETzogVXNlIHRveAo=</text>
+        <text encoding="base64">ICAgICdkamFuZ28tZ3JhcHBlbGxpJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VE9ETzogVXNlIHRveAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -6254,13 +6263,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PT09PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">SG93IHRvIHJ1biB0ZXN0cwo=</text>
+        <text encoding="base64">PT09PT09PT09PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SG93IHRvIHJ1biB0ZXN0cwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
