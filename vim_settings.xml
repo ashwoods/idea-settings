@@ -247,11 +247,11 @@
         <mark key="^" line="25" column="16" />
         <mark key="." line="25" column="16" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/Vagrantfile" timestamp="1482227579029">
-        <mark key="[" line="49" column="111" />
-        <mark key="]" line="49" column="114" />
-        <mark key="." line="49" column="114" />
-        <mark key="^" line="49" column="114" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/Vagrantfile" timestamp="1482239084568">
+        <mark key="[" line="11" column="60" />
+        <mark key="]" line="12" column="58" />
+        <mark key="." line="12" column="58" />
+        <mark key="^" line="12" column="58" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitto/core/entries/mixins/forms.py" timestamp="1456754741955">
         <mark key="[" line="23" column="0" />
@@ -1051,6 +1051,11 @@
         <mark key="]" line="194" column="11" />
         <mark key="^" line="194" column="11" />
         <mark key="." line="194" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/README.rst" timestamp="1482239406242">
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
+        <mark key="." line="156" column="0" />
       </file>
       <file name="$USER_HOME$/Work/submitz-nemesis/submitz/apps/entries/models.py" timestamp="1423999666332">
         <mark key="[" line="236" column="43" />
@@ -3843,6 +3848,9 @@
         <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/models/shared.py" timestamp="1482238704744">
+        <mark key="[" line="80" column="15" />
+      </file>
       <file name="$USER_HOME$/code/submitto-phoenix/submitto/conf/02-databases.py" timestamp="1460129480746">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -4029,7 +4037,6 @@
         <mark key="^" line="11" column="38" />
         <mark key="." line="11" column="38" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/static/js/serviceworker.js" timestamp="1481988505313" />
       <file name="$USER_HOME$/code/nemesis/submitto/core/clients/models/awards.py" timestamp="1454485563370">
         <mark key="[" line="16" column="14" />
         <mark key="]" line="17" column="26" />
@@ -5788,11 +5795,11 @@
         <mark key="^" line="30" column="66" />
         <mark key="." line="30" column="66" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/utils/bootstrap.py" timestamp="1481625968715">
-        <mark key="[" line="63" column="9" />
-        <mark key="]" line="63" column="13" />
-        <mark key="." line="63" column="13" />
-        <mark key="^" line="63" column="13" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/utils/bootstrap.py" timestamp="1482238953858">
+        <mark key="[" line="203" column="36" />
+        <mark key="]" line="204" column="45" />
+        <mark key="." line="204" column="45" />
+        <mark key="^" line="204" column="45" />
       </file>
       <file name="$USER_HOME$/code/opera.core/pytest.ini" timestamp="1466595187857">
         <mark key="[" line="1" column="31" />
@@ -6151,7 +6158,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGh0dHBzOi8vZ2lzdC5naXRodWJ1c2VyY29udGVudC5jb20vYXNod29vZHMvZDZkNjcxYTA4YTkwNGZkZmZjOWYwYWE1NmQ0ZDRmMzQvcmF3L3Byb3Zpc2lvbi5zaAo=</text>
+        <text encoding="base64">VE9ETzogVXNlIHRveAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PC9tYWluPg==</text>
@@ -6163,31 +6170,55 @@
         <text encoding="base64">ICAgIHVybChyJ14kJywgc2l0ZV9ob21lX3ZpZXcsIG5hbWU9J3NpdGVfaG9tZScpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGh0dHBzOi8vZ2lzdC5naXRodWJ1c2VyY29udGVudC5jb20vYXNod29vZHMvZDZkNjcxYTA4YTkwNGZkZmZjOWYwYWE1NmQ0ZDRmMzQvcmF3L3Byb3Zpc2lvbi5zaAo=</text>
+        <text encoding="base64">VE9ETzogVXNlIHRveAo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICA8L21haW4+CgogIDwhLS0gRm9vdGVyIC0tPgogIDxmb290ZXIgY2xhc3M9ImZvb3RlciI+CiAgICA8ZGl2IGNsYXNzPSJzaXRlLXdpZHRoIj4KICAgICAgPG5hdiBjbGFzcz0iZm9vdGVyLW5hdiI+CiAgICAgICAgPHVsIGNsYXNzPSJmb290ZXItbmF2X19saXN0Ij4KICAgICAgICAgIDxsaSBjbGFzcz0iZm9vdGVyLW5hdl9faXRlbSI+CiAgICAgICAgICAgIDxhIGNsYXNzPSJmb290ZXItbmF2X19lbGVtZW50IGFjY2VudCIgaHJlZj0iIyI+WnVtIEtpbm88L2E+CiAgICAgICAgICA8L2xpPgogICAgICAgICAgPGxpIGNsYXNzPSJmb290ZXItbmF2X19pdGVtIj4KICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImZvb3Rlci1uYXZfX2VsZW1lbnQgYWNjZW50Ij4mY29weTsgMjAxNyBBdXN0cmlhbiBDaW5lbWEgU2VydmljZSBQbGF0Zm9ybTwvc3Bhbj4KICAgICAgICAgIDwvbGk+CiAgICAgICAgICA8bGkgY2xhc3M9ImZvb3Rlci1uYXZfX2l0ZW0iPgogICAgICAgICAgICA8YSBjbGFzcz0iZm9vdGVyLW5hdl9fZWxlbWVudCBhY2NlbnQiIGhyZWY9IiMiPkZBUTwvYT4KICAgICAgICAgIDwvbGk+CiAgICAgICAgICA8bGkgY2xhc3M9ImZvb3Rlci1uYXZfX2l0ZW0iPgogICAgICAgICAgICA8YSBjbGFzcz0iZm9vdGVyLW5hdl9fZWxlbWVudCBhY2NlbnQiIGhyZWY9IiMiPkRhdGVuc2NodXR6PC9hPgogICAgICAgICAgPC9saT4KICAgICAgICAgIDxsaSBjbGFzcz0iZm9vdGVyLW5hdl9faXRlbSI+CiAgICAgICAgICAgIDxhIGNsYXNzPSJmb290ZXItbmF2X19lbGVtZW50IGFjY2VudCIgaHJlZj0iIyI+V2lkZXJydWZzYmVsZWhydW5nPC9hPgogICAgICAgICAgPC9saT4KICAgICAgICAgIDxsaSBjbGFzcz0iZm9vdGVyLW5hdl9faXRlbSI+CiAgICAgICAgICAgIDxhIGNsYXNzPSJmb290ZXItbmF2X19lbGVtZW50IGFjY2VudCIgaHJlZj0iIyI+QUdCPC9hPgogICAgICAgICAgPC9saT4KICAgICAgICAgIDxsaSBjbGFzcz0iZm9vdGVyLW5hdl9faXRlbSI+CiAgICAgICAgICAgIDxhIGNsYXNzPSJmb290ZXItbmF2X19lbGVtZW50IGFjY2VudCIgaHJlZj0iIyI+SW1wcmVzc3VtPC9hPgogICAgICAgICAgPC9saT4KICAgICAgICA8L3VsPgogICAgICA8L25hdj4KICAgIDwvZGl2PgogIDwvZm9vdGVyPgogIDwhLS0gRW5kIEZvb3RlciAtLT4KCjw8PDw8PDwgSEVBRDphY3NwL3RlbXBsYXRlcy9odG1sL3JlZ2lzdGVyLmh0bWwKPT09PT09PQogIDwhLS0gU2NyaXB0cyAtLT4KICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jb2RlLmpxdWVyeS5jb20vanF1ZXJ5LTIuMi40Lm1pbi5qcyI+PC9zY3JpcHQ+CiAgPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iLy9jZG4uanNkZWxpdnIubmV0L2pxdWVyeS5zbGljay8xLjYuMC9zbGljay5taW4uanMiPjwvc2NyaXB0PgogIDxzY3JpcHQgc3JjPSIuL2pzL3NlbGVjdDIubWluLmpzIj48L3NjcmlwdD4KCiAgPHNjcmlwdCBzcmM9Ii4vanMvc2NyaXB0cy5qcyI+PC9zY3JpcHQ+Cj4+Pj4+Pj4gc3RhdGljLXRlbXBsYXRlczpodG1sL3JlZ2lzdGVyLmh0bWwKPC9ib2R5Pgo8L2h0bWw+</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImRlIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0idXRmLTgiPgogIDxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgsIGluaXRpYWwtc2NhbGU9MSI+CiAgPHRpdGxlPkxvZ2luPC90aXRsZT4KPC9oZWFkPgo8Ym9keT4KCiAgPGhlYWRlciBjbGFzcz0iaGVhZGVyIj4KICAgIDxkaXYgY2xhc3M9ImhlYWRlcl9fY29udGFpbmVyIHNpdGUtd2lkdGgiPgogICAgICA8ZGl2IGNsYXNzPSJsb2dvIj4KICAgICAgICA8aW1nIHNyYz0iLi9pbWcvbG9nby5wbmciIC8+CiAgICAgIDwvZGl2PgogICAgICA8bmF2IGNsYXNzPSJuYXYiPgogICAgICAgIDx1bCBjbGFzcz0ibmF2X19saXN0Ij4KICAgICAgICAgIDxsaSBjbGFzcz0ibmF2X19pdGVtIj4KICAgICAgICAgICAgPGEgY2xhc3M9Im5hdl9fYW5jaG9yIGFjY2VudCIgaHJlZj0iIyI+U28gZnVua3Rpb25pZXJ04oCYczwvYT4KICAgICAgICAgIDwvbGk+CiAgICAgICAgICA8bGkgY2xhc3M9Im5hdl9faXRlbSI+CiAgICAgICAgICAgIDxhIGNsYXNzPSJuYXZfX2FuY2hvciBhY2NlbnQiIGhyZWY9IiMiPlNvIGZ1bmt0aW9uaWVydOKAmHM8L2E+CiAgICAgICAgICA8L2xpPgogICAgICAgICAgPGxpIGNsYXNzPSJuYXZfX2l0ZW0iPgogICAgICAgICAgICA8YSBjbGFzcz0ibmF2X19hbmNob3ItLWNhcnQgYWNjZW50IiBocmVmPSIjIj4xNTwvYT4KICAgICAgICAgIDwvbGk+CiAgICAgICAgPC91bD4KICAgICAgPC9uYXY+CiAgICA8L2Rpdj4KICA8L2hlYWRlcj4KCgogIDxtYWluIGNsYXNzPSJibG9jay1tYWluIj4=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICA8L21haW4+CgogIDwhLS0gRm9vdGVyIC0tPgogIDxmb290ZXIgY2xhc3M9ImZvb3RlciI+CiAgICA8ZGl2IGNsYXNzPSJzaXRlLXdpZHRoIj4KICAgICAgPG5hdiBjbGFzcz0iZm9vdGVyLW5hdiI+CiAgICAgICAgPHVsIGNsYXNzPSJmb290ZXItbmF2X19saXN0Ij4KICAgICAgICAgIDxsaSBjbGFzcz0iZm9vdGVyLW5hdl9faXRlbSI+CiAgICAgICAgICAgIDxhIGNsYXNzPSJmb290ZXItbmF2X19lbGVtZW50IGFjY2VudCIgaHJlZj0iIyI+WnVtIEtpbm88L2E+CiAgICAgICAgICA8L2xpPgogICAgICAgICAgPGxpIGNsYXNzPSJmb290ZXItbmF2X19pdGVtIj4KICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImZvb3Rlci1uYXZfX2VsZW1lbnQgYWNjZW50Ij4mY29weTsgMjAxNyBBdXN0cmlhbiBDaW5lbWEgU2VydmljZSBQbGF0Zm9ybTwvc3Bhbj4KICAgICAgICAgIDwvbGk+CiAgICAgICAgICA8bGkgY2xhc3M9ImZvb3Rlci1uYXZfX2l0ZW0iPgogICAgICAgICAgICA8YSBjbGFzcz0iZm9vdGVyLW5hdl9fZWxlbWVudCBhY2NlbnQiIGhyZWY9IiMiPkZBUTwvYT4KICAgICAgICAgIDwvbGk+CiAgICAgICAgICA8bGkgY2xhc3M9ImZvb3Rlci1uYXZfX2l0ZW0iPgogICAgICAgICAgICA8YSBjbGFzcz0iZm9vdGVyLW5hdl9fZWxlbWVudCBhY2NlbnQiIGhyZWY9IiMiPkRhdGVuc2NodXR6PC9hPgogICAgICAgICAgPC9saT4KICAgICAgICAgIDxsaSBjbGFzcz0iZm9vdGVyLW5hdl9faXRlbSI+CiAgICAgICAgICAgIDxhIGNsYXNzPSJmb290ZXItbmF2X19lbGVtZW50IGFjY2VudCIgaHJlZj0iIyI+V2lkZXJydWZzYmVsZWhydW5nPC9hPgogICAgICAgICAgPC9saT4KICAgICAgICAgIDxsaSBjbGFzcz0iZm9vdGVyLW5hdl9faXRlbSI+CiAgICAgICAgICAgIDxhIGNsYXNzPSJmb290ZXItbmF2X19lbGVtZW50IGFjY2VudCIgaHJlZj0iIyI+QUdCPC9hPgogICAgICAgICAgPC9saT4KICAgICAgICAgIDxsaSBjbGFzcz0iZm9vdGVyLW5hdl9faXRlbSI+CiAgICAgICAgICAgIDxhIGNsYXNzPSJmb290ZXItbmF2X19lbGVtZW50IGFjY2VudCIgaHJlZj0iIyI+SW1wcmVzc3VtPC9hPgogICAgICAgICAgPC9saT4KICAgICAgICA8L3VsPgogICAgICA8L25hdj4KICAgIDwvZGl2PgogIDwvZm9vdGVyPgogIDwhLS0gRW5kIEZvb3RlciAtLT4KCjw8PDw8PDwgSEVBRDphY3NwL3RlbXBsYXRlcy9odG1sL2xvZ2luLmh0bWwKPT09PT09PQogIDwhLS0gU2NyaXB0cyAtLT4KICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jb2RlLmpxdWVyeS5jb20vanF1ZXJ5LTIuMi40Lm1pbi5qcyI+PC9zY3JpcHQ+CiAgPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iLy9jZG4uanNkZWxpdnIubmV0L2pxdWVyeS5zbGljay8xLjYuMC9zbGljay5taW4uanMiPjwvc2NyaXB0PgogIDxzY3JpcHQgc3JjPSIuL2pzL3NlbGVjdDIubWluLmpzIj48L3NjcmlwdD4KCiAgPHNjcmlwdCBzcmM9Ii4vanMvc2NyaXB0cy5qcyI+PC9zY3JpcHQ+Cj4+Pj4+Pj4gc3RhdGljLXRlbXBsYXRlczpodG1sL2xvZ2luLmh0bWwKPC9ib2R5Pgo8L2h0bWw+</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8bWFpbiBjbGFzcz0iYmxvY2stbWFpbiI+Cg==</text>
+        <text encoding="base64">PT09PT09PT09PT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SG93IHRvIHJ1biB0ZXN0cwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImRlIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0idXRmLTgiPgogIDxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgsIGluaXRpYWwtc2NhbGU9MSI+CiAgPHRpdGxlPkxvZ2luPC90aXRsZT4KPC9oZWFkPgo8Ym9keT4KCiAgPGhlYWRlciBjbGFzcz0iaGVhZGVyIj4KICAgIDxkaXYgY2xhc3M9ImhlYWRlcl9fY29udGFpbmVyIHNpdGUtd2lkdGgiPgogICAgICA8ZGl2IGNsYXNzPSJsb2dvIj4KICAgICAgICA8aW1nIHNyYz0iLi9pbWcvbG9nby5wbmciIC8+CiAgICAgIDwvZGl2PgogICAgICA8bmF2IGNsYXNzPSJuYXYiPgogICAgICAgIDx1bCBjbGFzcz0ibmF2X19saXN0Ij4KICAgICAgICAgIDxsaSBjbGFzcz0ibmF2X19pdGVtIj4KICAgICAgICAgICAgPGEgY2xhc3M9Im5hdl9fYW5jaG9yIGFjY2VudCIgaHJlZj0iIyI+U28gZnVua3Rpb25pZXJ04oCYczwvYT4KICAgICAgICAgIDwvbGk+CiAgICAgICAgICA8bGkgY2xhc3M9Im5hdl9faXRlbSI+CiAgICAgICAgICAgIDxhIGNsYXNzPSJuYXZfX2FuY2hvciBhY2NlbnQiIGhyZWY9IiMiPlNvIGZ1bmt0aW9uaWVydOKAmHM8L2E+CiAgICAgICAgICA8L2xpPgogICAgICAgICAgPGxpIGNsYXNzPSJuYXZfX2l0ZW0iPgogICAgICAgICAgICA8YSBjbGFzcz0ibmF2X19hbmNob3ItLWNhcnQgYWNjZW50IiBocmVmPSIjIj4xNTwvYT4KICAgICAgICAgIDwvbGk+CiAgICAgICAgPC91bD4KICAgICAgPC9uYXY+CiAgICA8L2Rpdj4KICA8L2hlYWRlcj4=</text>
+        <text>Manual setup for advanced users
+===============================
+
+This has probably already changed.
+
+You might want to run python and/or the services in your local machine. We recommend using pyenv (https://github.com/yyuu/pyenv)
+for managing virtualenvs and python versions.
+
+Make sure you have all the necesary headers for building python and the projects dependencies.
+
+- Install requirements `pip install -r requirements/local.txt`
+- Install the project package `pip install -e ./`
+- Set a development primary domain `manage.py setprimarydomain`
+- Create a superuser `manage.py createsuperuser`
+- Migrate db `manage.py migrate`
+- Runserver `manage.py runserver`
+- Run `manage.py bootsrap_fixtures`
+- Add the following lines to `/etc/hosts`
+
+    127.0.0.1 local1.acsp.box
+    127.0.0.1 local2.acsp.box
+    127.0.0.1 local3.acsp.box
+    127.0.0.1 kaernten.acsp.box
+    127.0.0.1 tirol.acsp.box
+    127.0.0.1 wien.acsp.box</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
