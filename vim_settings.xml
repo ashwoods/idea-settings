@@ -247,7 +247,7 @@
         <mark key="^" line="25" column="16" />
         <mark key="." line="25" column="16" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/Vagrantfile" timestamp="1481878960143">
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/Vagrantfile" timestamp="1482225071960">
         <mark key="[" line="38" column="2" />
         <mark key="]" line="38" column="2" />
         <mark key="^" line="53" column="2" />
@@ -391,21 +391,11 @@
         <mark key="^" line="24" column="32" />
         <mark key="." line="24" column="32" />
       </file>
-      <file name="$USER_HOME$/code/nousbot/nousbot/urls.py" timestamp="1481484454629">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/code/ansible-fullstack-django/README.rst" timestamp="1479119496024">
         <mark key="[" line="36" column="39" />
         <mark key="]" line="36" column="68" />
         <mark key="." line="36" column="68" />
         <mark key="^" line="36" column="68" />
-      </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/contrib/assets/models.py" timestamp="1481820904307">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitz/conf/local.py" timestamp="1436368648840">
         <mark key="[" line="31" column="0" />
@@ -887,11 +877,6 @@
         <mark key="]" line="5" column="29" />
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
-      </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/html/login-variation.html" timestamp="1481642090501">
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitz/templates/account/password_reset.haml" timestamp="1433944162526">
         <mark key="[" line="24" column="6" />
@@ -1583,11 +1568,6 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="$USER_HOME$/code/Bildrecht_backend/brecht/core/claims/factories.py" timestamp="1481042725097">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/code/nemesis/submitto/templates/core/voting/round_list.html" timestamp="1453136193145">
         <mark key="[" line="5" column="52" />
         <mark key="]" line="5" column="52" />
@@ -1737,11 +1717,6 @@
         <mark key="]" line="61" column="36" />
         <mark key="^" line="61" column="36" />
         <mark key="." line="61" column="36" />
-      </file>
-      <file name="$USER_HOME$/code/Bildrecht_backend/brecht/templates/base.html" timestamp="1481036989068">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitz/apps/invoices/admin.py" timestamp="1441893584800">
         <mark key="[" line="68" column="18" />
@@ -2000,11 +1975,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="^" line="17" column="29" />
         <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/html/register-variation.html" timestamp="1481642081359">
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="0" />
-        <mark key="." line="134" column="0" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitz/apps/entries/migrations/0019_auto_20150915_1218.py" timestamp="1442312544262">
         <mark key="[" line="18" column="8" />
@@ -2336,11 +2306,6 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/html/detail-trailer.html" timestamp="1481642197973">
-        <mark key="[" line="218" column="0" />
-        <mark key="]" line="218" column="0" />
-        <mark key="." line="218" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/submitz-nemesis/submitz/apps/wizards/views.py" timestamp="1423148635698">
         <mark key="[" line="107" column="56" />
         <mark key="]" line="107" column="73" />
@@ -2400,11 +2365,6 @@
         <mark key="]" line="21" column="27" />
         <mark key="^" line="21" column="27" />
         <mark key="." line="21" column="27" />
-      </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/html/basket-variation.html" timestamp="1481899660934">
-        <mark key="[" line="339" column="0" />
-        <mark key="]" line="339" column="0" />
-        <mark key="." line="339" column="0" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitz/core/clients/admin.py" timestamp="1442323913299">
         <mark key="[" line="14" column="0" />
@@ -2850,11 +2810,6 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/src/django-oscar-opp/oscar_opp/__init__.py" timestamp="1481279082575">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/perfect_gift_backend_neu/requirements/vagrant.txt" timestamp="1479296174972">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="45" column="71" />
@@ -2896,11 +2851,6 @@
         <mark key="]" line="22" column="50" />
         <mark key="^" line="22" column="50" />
         <mark key="." line="22" column="50" />
-      </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/html/detail-variation.html" timestamp="1481642171780">
-        <mark key="[" line="248" column="0" />
-        <mark key="]" line="248" column="0" />
-        <mark key="." line="248" column="0" />
       </file>
       <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/site.yml" timestamp="1480965882521">
         <mark key="[" line="16" column="62" />
@@ -3334,11 +3284,6 @@
         <mark key="^" line="19" column="4" />
         <mark key="." line="19" column="4" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/html/index-variation.html" timestamp="1481642157003">
-        <mark key="[" line="322" column="0" />
-        <mark key="]" line="322" column="0" />
-        <mark key="." line="322" column="0" />
-      </file>
       <file name="$USER_HOME$/code/ansible-uwsgi-emperor/tasks/install-pip3.yml" timestamp="1478858122834">
         <mark key="[" line="6" column="12" />
         <mark key="]" line="20" column="26" />
@@ -3746,11 +3691,6 @@
         <mark key="]" line="4" column="26" />
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
-      </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/.gitignore" timestamp="1480931145822">
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="." line="159" column="0" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitto/core/entries/migrations/0004_auto_20150122_1416.py" timestamp="1442484637005">
         <mark key="[" line="24" column="56" />
@@ -4593,11 +4533,6 @@
         <mark key="^" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/.python-version" timestamp="1480609164630">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/code/nemesis/submitto/templates/core/clients/edition_detail.html" timestamp="1455111677007">
         <mark key="[" line="62" column="4" />
         <mark key="]" line="62" column="24" />
@@ -4621,11 +4556,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/roles/app/templates/local.py.j2" timestamp="1481557558812">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/code/airavata/setup.py" timestamp="1442305016730">
         <mark key="[" line="17" column="104" />
@@ -4806,11 +4736,6 @@
         <mark key="]" line="32" column="18" />
         <mark key="^" line="32" column="18" />
         <mark key="." line="32" column="18" />
-      </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/contrib/devstrap/management/commands/bootstrap_fixtures.py" timestamp="1480701111793">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitto/templates/core/entries/snippets/entry_list.haml" timestamp="1444929526370">
         <mark key="[" line="5" column="41" />
