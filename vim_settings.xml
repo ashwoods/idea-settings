@@ -3509,12 +3509,12 @@
         <mark key="^" line="25" column="26" />
         <mark key="." line="25" column="26" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/project.py" timestamp="1482312688761">
-        <mark key="'" line="57" column="15" />
-        <mark key="[" line="30" column="24" />
-        <mark key="]" line="31" column="15" />
-        <mark key="." line="31" column="15" />
-        <mark key="^" line="31" column="15" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/project.py" timestamp="1482337316518">
+        <mark key="'" line="58" column="15" />
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="20" column="4" />
+        <mark key="." line="20" column="4" />
+        <mark key="^" line="20" column="4" />
       </file>
       <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/roles/app/main.yml" timestamp="1478788676296">
         <mark key="[" line="46" column="0" />
@@ -3858,11 +3858,11 @@
         <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/models/shared.py" timestamp="1482329772361">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="85" column="4" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/models/shared.py" timestamp="1482337070893">
+        <mark key="[" line="80" column="23" />
+        <mark key="]" line="88" column="17" />
+        <mark key="." line="88" column="17" />
+        <mark key="^" line="88" column="17" />
       </file>
       <file name="$USER_HOME$/code/submitto-phoenix/submitto/conf/02-databases.py" timestamp="1460129480746">
         <mark key="[" line="1" column="0" />
