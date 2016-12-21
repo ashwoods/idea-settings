@@ -611,6 +611,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/contrib/auth/admin.py" timestamp="1482312902176" />
       <file name="$USER_HOME$/code/django-polla/tests/test_app/manage.py" timestamp="1436452169050">
         <mark key="[" line="5" column="53" />
         <mark key="]" line="5" column="67" />
@@ -2071,6 +2072,7 @@
         <mark key="^" line="9" column="85" />
         <mark key="." line="9" column="85" />
       </file>
+      <file name="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/authtools/admin.py" timestamp="1482312936011" />
       <file name="$USER_HOME$/code/submitto-phoenix/submitto/contrib/siteusers/auth_backends.py" timestamp="1465667338560">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -2251,12 +2253,6 @@
         <mark key="]" line="45" column="47" />
         <mark key="^" line="45" column="47" />
         <mark key="." line="45" column="47" />
-      </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/contrib/users/urls.py" timestamp="1482242245975">
-        <mark key="[" line="8" column="48" />
-        <mark key="]" line="9" column="57" />
-        <mark key="." line="9" column="57" />
-        <mark key="^" line="9" column="57" />
       </file>
       <file name="$USER_HOME$/Work/submitz-nemesis/submitz/conf/15-sessions.py" timestamp="1423232875875">
         <mark key="[" line="2" column="35" />
@@ -3577,11 +3573,12 @@
         <mark key="^" line="25" column="26" />
         <mark key="." line="25" column="26" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/project.py" timestamp="1482241538443">
-        <mark key="'" line="56" column="15" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/project.py" timestamp="1482312688761">
+        <mark key="'" line="57" column="15" />
+        <mark key="[" line="30" column="24" />
+        <mark key="]" line="31" column="15" />
+        <mark key="." line="31" column="15" />
+        <mark key="^" line="31" column="15" />
       </file>
       <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/roles/app/main.yml" timestamp="1478788676296">
         <mark key="[" line="46" column="0" />
@@ -5043,6 +5040,12 @@
         <mark key="]" line="61" column="32" />
         <mark key="^" line="61" column="32" />
         <mark key="." line="61" column="32" />
+      </file>
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/contrib/users/admin.py" timestamp="1482313063081">
+        <mark key="[" line="10" column="77" />
+        <mark key="]" line="11" column="64" />
+        <mark key="^" line="11" column="64" />
+        <mark key="." line="11" column="64" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitz/apps/profiles/factories.py" timestamp="1441894385976">
         <mark key="[" line="48" column="0" />
