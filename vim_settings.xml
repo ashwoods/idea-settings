@@ -601,7 +601,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/contrib/auth/admin.py" timestamp="1482312902176" />
+      <file name="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/contrib/auth/admin.py" timestamp="1482334914802" />
       <file name="$USER_HOME$/code/django-polla/tests/test_app/manage.py" timestamp="1436452169050">
         <mark key="[" line="5" column="53" />
         <mark key="]" line="5" column="67" />
@@ -2036,7 +2036,7 @@
         <mark key="^" line="9" column="85" />
         <mark key="." line="9" column="85" />
       </file>
-      <file name="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/authtools/admin.py" timestamp="1482312936011" />
+      <file name="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/authtools/admin.py" timestamp="1482334762802" />
       <file name="$USER_HOME$/code/submitto-phoenix/submitto/contrib/siteusers/auth_backends.py" timestamp="1465667338560">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -2818,6 +2818,7 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/contrib/admin/options.py" timestamp="1482333464608" />
       <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/registration/login.html" timestamp="1482243644812">
         <mark key="[" line="11" column="8" />
         <mark key="]" line="9" column="21" />
@@ -2932,6 +2933,7 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/authtools/forms.py" timestamp="1482333835803" />
       <file name="$USER_HOME$/code/django-polla/tests/app/apps.py" timestamp="1436463701680">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="11" />
@@ -4961,11 +4963,11 @@
         <mark key="^" line="61" column="32" />
         <mark key="." line="61" column="32" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/contrib/users/admin.py" timestamp="1482313063081">
-        <mark key="[" line="10" column="77" />
-        <mark key="]" line="11" column="64" />
-        <mark key="^" line="11" column="64" />
-        <mark key="." line="11" column="64" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/contrib/users/admin.py" timestamp="1482335229188">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="54" />
+        <mark key="." line="3" column="54" />
+        <mark key="^" line="3" column="54" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitz/apps/profiles/factories.py" timestamp="1441894385976">
         <mark key="[" line="48" column="0" />
@@ -6175,10 +6177,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28gaW1wb3J0IGZvcm1zCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9tYWluPg==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -6187,31 +6189,42 @@
         <text encoding="base64">ICAgIHVybChyJ14kJywgc2l0ZV9ob21lX3ZpZXcsIG5hbWU9J3NpdGVfaG9tZScpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28gaW1wb3J0IGZvcm1zCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAoU0VUX1RZUEVfRURHRV9DT0xPUiwgXygnRWRnZWZhcmJlbicpKSwK</text>
+      <register name="2" type="4">
+        <text>def get_form(self, request, obj=None, **kwargs):
+        &quot;&quot;&quot;
+        Use special form during user creation
+        &quot;&quot;&quot;
+        defaults = {}
+        import ipdb; ipdb.set_trace()
+        if obj is None:
+            defaults['form'] = self.add_form
+        
+        defaults.update(kwargs)
+        
+        return super(UserAdmin, self).get_form(request, obj, **defaults)</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAoU0VUX1RZUEVfTU9WSUVfQk9YLCBfKCdGaWxtYm94JykpLAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGRlZiBnZXRfZm9ybShzZWxmLCByZXF1ZXN0LCBvYmo9Tm9uZSwgKiprd2FyZ3MpOgogICAgICAgICIiIgogICAgICAgIFVzZSBzcGVjaWFsIGZvcm0gZHVyaW5nIHVzZXIgY3JlYXRpb24KICAgICAgICAiIiIKICAgICAgICBkZWZhdWx0cyA9IHt9CiAgICAgICAgaWYgb2JqIGlzIE5vbmU6CiAgICAgICAgICAgIGRlZmF1bHRzWydmb3JtJ10gPSBzZWxmLmFkZF9mb3JtCiAgICAgICAgICAgIGRlZmF1bHRzWydmaWVsZHMnXSA9IChVc2VyLlVTRVJOQU1FX0ZJRUxELCkgKyB0dXBsZShVc2VyLlJFUVVJUkVEX0ZJRUxEUykgKyAoJ3NpdGUnLCAnaXNfc3RhZmYnKQogICAgICAgIGRlZmF1bHRzLnVwZGF0ZShrd2FyZ3MpCiAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkKICAgICAgICByZXR1cm4gc3VwZXIoVXNlckFkbWluLCBzZWxmKS5nZXRfZm9ybShyZXF1ZXN0LCBvYmosICoqZGVmYXVsdHMp</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAoU0VUX1RZUEVfSEVBRExJTkUsIF8oJ0hlYWRsaW5lJykpLAo=</text>
+        <text encoding="base64">ZnJvbSBhdXRodG9vbHMuYWRtaW4gaW1wb3J0IFVzZXJBZG1pbiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAoU0VUX1RZUEVfQkFDS0dST1VORCwgXygnSGludGVyZ3J1bmQnKSksCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIFNFVF9UWVBFUyA9ICgK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIFNFVF9UWVBFX0VER0VfQ09MT1IgPSAnZWRnZWNvbG9yJwo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">IGRlZiBnZXRfZm9ybShzZWxmLCByZXF1ZXN0LCBvYmo9Tm9uZSwgKiprd2FyZ3MpOgogICAgICAgICIiIgogICAgICAgIFVzZSBzcGVjaWFsIGZvcm0gZHVyaW5nIHVzZXIgY3JlYXRpb24KICAgICAgICAiIiIKICAgICAgICBkZWZhdWx0cyA9IHt9CiAgICAgICAgaWYgb2JqIGlzIE5vbmU6CiAgICAgICAgICAgIGRlZmF1bHRzWydmaWVsZHMnXSA9IChVc2VyLlVTRVJOQU1FX0ZJRUxELCkgKyB0dXBsZShVc2VyLlJFUVVJUkVEX0ZJRUxEUykgKyAoJ3NpdGUnLCAnaXNfc3RhZmYnKQogICAgICAgIGRlZmF1bHRzLnVwZGF0ZShrd2FyZ3MpCiAgICAgICAgcmV0dXJuIHN1cGVyKFVzZXJBZG1pbiwgc2VsZikuZ2V0X2Zvcm0ocmVxdWVzdCwgb2JqLCAqKmRlZmF1bHRzKQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFNFVF9UWVBFX01PVklFX0JPWCA9ICdtb3ZpZWJveCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -6267,8 +6280,8 @@
         <entry>%s/__version__/VERSION/gc</entry>
         <entry>%s/__title__/TITLE/gc</entry>
         <entry>wq</entry>
-        <entry>qw</entry>
         <entry>W</entry>
+        <entry>qw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
