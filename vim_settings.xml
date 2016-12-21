@@ -847,6 +847,12 @@
         <mark key="^" line="21" column="56" />
         <mark key="." line="21" column="56" />
       </file>
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/requirements/local.txt" timestamp="1482328909688">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/code/submitto-phoenix/submitto/templates/base/footer.html" timestamp="1467980847678">
         <mark key="[" line="26" column="84" />
         <mark key="]" line="27" column="66" />
@@ -1074,11 +1080,6 @@
         <mark key="^" line="194" column="11" />
         <mark key="." line="194" column="11" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/README.rst" timestamp="1482239406242">
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="156" column="0" />
-        <mark key="." line="156" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/submitz-nemesis/submitz/apps/entries/models.py" timestamp="1423999666332">
         <mark key="[" line="236" column="43" />
         <mark key="]" line="236" column="51" />
@@ -1127,11 +1128,11 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/views.py" timestamp="1482248097844">
-        <mark key="[" line="61" column="18" />
-        <mark key="]" line="62" column="27" />
-        <mark key="^" line="62" column="27" />
-        <mark key="." line="62" column="27" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/views.py" timestamp="1482329147680">
+        <mark key="[" line="241" column="4" />
+        <mark key="]" line="241" column="3" />
+        <mark key="^" line="241" column="3" />
+        <mark key="." line="241" column="3" />
       </file>
       <file name="$USER_HOME$/Work/pywhale/image/devheaders.sh" timestamp="1403706304802">
         <mark key="[" line="2" column="42" />
@@ -1229,11 +1230,11 @@
         <mark key="." line="5" column="44" />
         <mark key="^" line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/urls.py" timestamp="1482166368016">
-        <mark key="[" line="23" column="15" />
-        <mark key="]" line="27" column="18" />
-        <mark key="^" line="27" column="18" />
-        <mark key="." line="27" column="18" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/urls.py" timestamp="1482329205668">
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="20" column="1" />
+        <mark key="^" line="20" column="1" />
+        <mark key="." line="20" column="1" />
       </file>
       <file name="$USER_HOME$/code/perfect_gift_backend_neu/README.rst" timestamp="1478959026733">
         <mark key="[" line="46" column="0" />
@@ -1750,12 +1751,6 @@
         <mark key="]" line="61" column="36" />
         <mark key="^" line="61" column="36" />
         <mark key="." line="61" column="36" />
-      </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/requirements/project.txt" timestamp="1482229518845">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="25" />
-        <mark key="^" line="66" column="25" />
-        <mark key="." line="66" column="25" />
       </file>
       <file name="$USER_HOME$/code/Bildrecht_backend/brecht/templates/base.html" timestamp="1481036989068">
         <mark key="[" line="1" column="0" />
@@ -5902,12 +5897,6 @@
         <mark key="]" line="17" column="37" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/utils/bootstrap.py" timestamp="1482238953858">
-        <mark key="[" line="203" column="36" />
-        <mark key="]" line="204" column="45" />
-        <mark key="." line="204" column="45" />
-        <mark key="^" line="204" column="45" />
-      </file>
       <file name="$USER_HOME$/code/opera.core/pytest.ini" timestamp="1466595187857">
         <mark key="[" line="1" column="31" />
         <mark key="]" line="1" column="26" />
@@ -6162,7 +6151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="291" column="0" filename="$USER_HOME$/code/Bildrecht_backend/brecht/core/schoolbooks/models.py" />
       <jump line="304" column="36" filename="$USER_HOME$/code/Bildrecht_backend/brecht/core/schoolbooks/models.py" />
       <jump line="334" column="47" filename="$USER_HOME$/code/Bildrecht_backend/brecht/core/schoolbooks/models.py" />
       <jump line="11" column="26" filename="$USER_HOME$/code/Bildrecht_backend/brecht/core/schoolbooks/models.py" />
@@ -6262,43 +6250,44 @@
       <jump line="17" column="8" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/base/base.html" />
       <jump line="74" column="5" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/project.py" />
       <jump line="54" column="15" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/project.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/requirements/local.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmFjdG9yeS1ib3k9PTIuNy4wICAgICAgICAjIHZpYSBkamFuZ28tb3NjYXIsIHB5dGVzdC1mYWN0b3J5Ym95Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PC9tYWluPg==</text>
       </register>
       <register name="/" type="4">
-        <text>LOGIN</text>
+        <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHVybChyJ14kJywgc2l0ZV9ob21lX3ZpZXcsIG5hbWU9J3NpdGVfaG9tZScpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmFjdG9yeS1ib3k9PTIuNy4wICAgICAgICAjIHZpYSBkamFuZ28tb3NjYXIsIHB5dGVzdC1mYWN0b3J5Ym95Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhciB1cmwgPSByZXEudXJsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciB1cmwgPSByZXEudXJsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PG1haW4gY2xhc3M9ImJsb2NrLW1haW4iPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">PG1haW4gY2xhc3M9ImJsb2NrLW1haW4iPgo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICA8L21haW4+CgogIDwhLS0gRm9vdGVyIC0tPgogIDxmb290ZXIgY2xhc3M9ImZvb3RlciI+CiAgICA8ZGl2IGNsYXNzPSJzaXRlLXdpZHRoIj4KICAgICAgPG5hdiBjbGFzcz0iZm9vdGVyLW5hdiI+CiAgICAgICAgPHVsIGNsYXNzPSJmb290ZXItbmF2X19saXN0Ij4KICAgICAgICAgIDxsaSBjbGFzcz0iZm9vdGVyLW5hdl9faXRlbSI+CiAgICAgICAgICAgIDxhIGNsYXNzPSJmb290ZXItbmF2X19lbGVtZW50IGFjY2VudCIgaHJlZj0iIyI+WnVtIEtpbm88L2E+CiAgICAgICAgICA8L2xpPgogICAgICAgICAgPGxpIGNsYXNzPSJmb290ZXItbmF2X19pdGVtIj4KICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImZvb3Rlci1uYXZfX2VsZW1lbnQgYWNjZW50Ij4mY29weTsgMjAxNyBBdXN0cmlhbiBDaW5lbWEgU2VydmljZSBQbGF0Zm9ybTwvc3Bhbj4KICAgICAgICAgIDwvbGk+CiAgICAgICAgICA8bGkgY2xhc3M9ImZvb3Rlci1uYXZfX2l0ZW0iPgogICAgICAgICAgICA8YSBjbGFzcz0iZm9vdGVyLW5hdl9fZWxlbWVudCBhY2NlbnQiIGhyZWY9IiMiPkZBUTwvYT4KICAgICAgICAgIDwvbGk+CiAgICAgICAgICA8bGkgY2xhc3M9ImZvb3Rlci1uYXZfX2l0ZW0iPgogICAgICAgICAgICA8YSBjbGFzcz0iZm9vdGVyLW5hdl9fZWxlbWVudCBhY2NlbnQiIGhyZWY9IiMiPkRhdGVuc2NodXR6PC9hPgogICAgICAgICAgPC9saT4KICAgICAgICAgIDxsaSBjbGFzcz0iZm9vdGVyLW5hdl9faXRlbSI+CiAgICAgICAgICAgIDxhIGNsYXNzPSJmb290ZXItbmF2X19lbGVtZW50IGFjY2VudCIgaHJlZj0iIyI+V2lkZXJydWZzYmVsZWhydW5nPC9hPgogICAgICAgICAgPC9saT4KICAgICAgICAgIDxsaSBjbGFzcz0iZm9vdGVyLW5hdl9faXRlbSI+CiAgICAgICAgICAgIDxhIGNsYXNzPSJmb290ZXItbmF2X19lbGVtZW50IGFjY2VudCIgaHJlZj0iIyI+QUdCPC9hPgogICAgICAgICAgPC9saT4KICAgICAgICAgIDxsaSBjbGFzcz0iZm9vdGVyLW5hdl9faXRlbSI+CiAgICAgICAgICAgIDxhIGNsYXNzPSJmb290ZXItbmF2X19lbGVtZW50IGFjY2VudCIgaHJlZj0iIyI+SW1wcmVzc3VtPC9hPgogICAgICAgICAgPC9saT4KICAgICAgICA8L3VsPgogICAgICA8L25hdj4KICAgIDwvZGl2PgogIDwvZm9vdGVyPgogIDwhLS0gRW5kIEZvb3RlciAtLT4KCiAgPCEtLSBTY3JpcHRzIC0tPgogIDxzY3JpcHQgc3JjPSJodHRwczovL2NvZGUuanF1ZXJ5LmNvbS9qcXVlcnktMi4yLjQubWluLmpzIj48L3NjcmlwdD4KICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSIvL2Nkbi5qc2RlbGl2ci5uZXQvanF1ZXJ5LnNsaWNrLzEuNi4wL3NsaWNrLm1pbi5qcyI+PC9zY3JpcHQ+CiAgPHNjcmlwdCBzcmM9Ii4vanMvc2VsZWN0Mi5taW4uanMiPjwvc2NyaXB0PgoKICA8c2NyaXB0IHNyYz0iLi9qcy9zY3JpcHRzLmpzIj48L3NjcmlwdD4KPC9ib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImRlIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0idXRmLTgiPgogIDxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgsIGluaXRpYWwtc2NhbGU9MSI+CiAgPHRpdGxlPkhvbWVwYWdlPC90aXRsZT4KICA8bGluayByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiBocmVmPSIvL2Nkbi5qc2RlbGl2ci5uZXQvanF1ZXJ5LnNsaWNrLzEuNi4wL3NsaWNrLmNzcyIvPgogIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIGhyZWY9Ii4vY3NzL21haW4uY3NzIj4KPC9oZWFkPgo8Ym9keT4KCiAgPGhlYWRlciBjbGFzcz0iaGVhZGVyIj4KICAgIDxkaXYgY2xhc3M9ImhlYWRlcl9fY29udGFpbmVyIHNpdGUtd2lkdGgiPgogICAgICA8ZGl2IGNsYXNzPSJsb2dvIj4KICAgICAgICA8aW1nIHNyYz0iLi9pbWcvbG9nby5wbmciIC8+CiAgICAgIDwvZGl2PgogICAgICA8bmF2IGNsYXNzPSJuYXYiPgogICAgICAgIDx1bCBjbGFzcz0ibmF2X19saXN0Ij4KICAgICAgICAgIDxsaSBjbGFzcz0ibmF2X19pdGVtIj4KICAgICAgICAgICAgPGEgY2xhc3M9Im5hdl9fYW5jaG9yIGFjY2VudCIgaHJlZj0iIyI+U28gZnVua3Rpb25pZXJ04oCYczwvYT4KICAgICAgICAgIDwvbGk+CiAgICAgICAgICA8bGkgY2xhc3M9Im5hdl9faXRlbSI+CiAgICAgICAgICAgIDxhIGNsYXNzPSJuYXZfX2FuY2hvciBhY2NlbnQiIGhyZWY9IiMiPlNvIGZ1bmt0aW9uaWVydOKAmHM8L2E+CiAgICAgICAgICA8L2xpPgogICAgICAgICAgPGxpIGNsYXNzPSJuYXZfX2l0ZW0iPgogICAgICAgICAgICA8YSBjbGFzcz0ibmF2X19hbmNob3ItLWNhcnQgYWNjZW50IiBocmVmPSIjIj4xNTwvYT4KICAgICAgICAgIDwvbGk+CiAgICAgICAgPC91bD4KICAgICAgPC9uYXY+CiAgICA8L2Rpdj4KICA8L2hlYWRlcj4K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -6308,21 +6297,19 @@
       </register>
     </registers>
     <search>
-      <last-search>LOGIN</last-search>
+      <last-search encoding="base64">XDx9XD4=</last-search>
       <last-offset />
-      <last-pattern>LOGIN</last-pattern>
+      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
       <last-replace>TITLE</last-replace>
       <last-substitute>__title__</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>kwargs</entry>
         <entry>SITE_ROOT</entry>
         <entry>root</entry>
         <entry>oscar</entry>
-        <entry>factory</entry>
         <entry>movie</entry>
         <entry>python-version</entry>
         <entry>CELERY</entry>
@@ -6338,6 +6325,8 @@
         <entry>self.object</entry>
         <entry>session</entry>
         <entry>LOGIN</entry>
+        <entry>factory</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>3</entry>
