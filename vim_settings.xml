@@ -205,6 +205,7 @@
         <mark key="." line="33" column="75" />
         <mark key="^" line="33" column="75" />
       </file>
+      <file name="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/registration/views.py" timestamp="1482419579201" />
       <file name="$USER_HOME$/code/compensation/compensation/v10/tests/conftest.py" timestamp="1468399783169">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="15" />
@@ -840,12 +841,6 @@
         <mark key="^" line="21" column="56" />
         <mark key="." line="21" column="56" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/requirements/local.txt" timestamp="1482328909688">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
       <file name="$USER_HOME$/code/submitto-phoenix/submitto/templates/base/footer.html" timestamp="1467980847678">
         <mark key="[" line="26" column="84" />
         <mark key="]" line="27" column="66" />
@@ -1198,6 +1193,9 @@
         <mark key="]" line="21" column="14" />
         <mark key="^" line="21" column="14" />
         <mark key="." line="21" column="14" />
+      </file>
+      <file name="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" timestamp="1482419210430">
+        <mark key="'" line="69" column="18" />
       </file>
       <file name="$USER_HOME$/code/Bildrecht_backend/brecht/settings/test.py" timestamp="1471534006185">
         <mark key="[" line="7" column="7" />
@@ -1786,11 +1784,6 @@
         <mark key="^" line="100" column="7" />
         <mark key="." line="100" column="7" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/base/serviceworker.js" timestamp="1482327422828">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/code/nemesis/submitz/conf/groups/93_amazon.py" timestamp="1436355763399">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="0" />
@@ -2096,6 +2089,12 @@
         <mark key="]" line="6" column="15" />
         <mark key="." line="6" column="15" />
         <mark key="^" line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/registration/activation_email_subject.txt" timestamp="1482420185798">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitz/apps/profiles/views.py" timestamp="1441893830722">
         <mark key="[" line="149" column="152" />
@@ -3115,6 +3114,12 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/urls.py" timestamp="1482420346192">
+        <mark key="[" line="34" column="78" />
+        <mark key="]" line="34" column="77" />
+        <mark key="." line="34" column="77" />
+        <mark key="^" line="34" column="77" />
+      </file>
       <file name="$USER_HOME$/code/nemesis/submitto/contrib/siteusers/management/commands/createsuperuser.py" timestamp="1454337083715">
         <mark key="[" line="141" column="0" />
         <mark key="]" line="141" column="0" />
@@ -3252,6 +3257,12 @@
         <mark key="]" line="1" column="11" />
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/registration/activation_email.txt" timestamp="1482420354953">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+        <mark key="." line="4" column="26" />
       </file>
       <file name="$USER_HOME$/Work/submitz-nemesis/submitz/apps/profiles/edition_urls.py" timestamp="1423514253044">
         <mark key="[" line="7" column="0" />
@@ -5476,11 +5487,10 @@
         <mark key="." line="79" column="53" />
         <mark key="^" line="79" column="53" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/contrib/users/views.py" timestamp="1482408054541">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="76" column="10" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/contrib/users/views.py" timestamp="1482420425309">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/code/Bildrecht_backend/brecht/core/accounts/factories.py" timestamp="1480426926494">
         <mark key="[" line="38" column="35" />
@@ -5488,11 +5498,11 @@
         <mark key="^" line="38" column="28" />
         <mark key="." line="38" column="28" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/contrib/users/models.py" timestamp="1482408000837">
-        <mark key="[" line="82" column="53" />
-        <mark key="]" line="79" column="18" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/contrib/users/models.py" timestamp="1482418565514">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
         <mark key="^" line="79" column="18" />
-        <mark key="." line="79" column="18" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitto/templates/core/voting/collectionentry_list.html" timestamp="1453136180298">
         <mark key="[" line="9" column="63" />
@@ -5590,11 +5600,11 @@
         <mark key="^" line="100" column="90" />
         <mark key="." line="100" column="90" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/registration/registration_form.html" timestamp="1482407784428">
-        <mark key="[" line="10" column="31" />
-        <mark key="]" line="10" column="31" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/registration/registration_form.html" timestamp="1482418472109">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
         <mark key="^" line="10" column="31" />
-        <mark key="." line="10" column="31" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/code/judgingmachine/roles/nginx/templates/submitto" timestamp="1437598354690">
         <mark key="[" line="34" column="22" />
@@ -5643,11 +5653,6 @@
         <mark key="]" line="16" column="12" />
         <mark key="." line="16" column="12" />
         <mark key="^" line="16" column="12" />
-      </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/html/index.html" timestamp="1482248796136">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Work/submitz-nemesis/submitz/apps/accounts/templatetags/payment.py" timestamp="1406803327855">
         <mark key="[" line="110" column="25" />
@@ -5895,10 +5900,11 @@
         <mark key="^" line="30" column="66" />
         <mark key="." line="30" column="66" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/contrib/users/forms.py" timestamp="1482407560142">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/contrib/users/forms.py" timestamp="1482420442421">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
+        <mark key="^" line="101" column="54" />
       </file>
       <file name="$USER_HOME$/code/opera.core/pytest.ini" timestamp="1466595187857">
         <mark key="[" line="1" column="31" />
@@ -6157,50 +6163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="304" column="36" filename="$USER_HOME$/code/Bildrecht_backend/brecht/core/schoolbooks/models.py" />
-      <jump line="334" column="47" filename="$USER_HOME$/code/Bildrecht_backend/brecht/core/schoolbooks/models.py" />
-      <jump line="11" column="26" filename="$USER_HOME$/code/Bildrecht_backend/brecht/core/schoolbooks/models.py" />
-      <jump line="28" column="14" filename="$USER_HOME$/code/Bildrecht_backend/brecht/core/schoolbooks/models.py" />
-      <jump line="22" column="31" filename="$USER_HOME$/code/docker-pywhale/test/src/project/settings.py" />
-      <jump line="30" column="36" filename="$USER_HOME$/code/docker-pywhale/test/src/project/settings.py" />
-      <jump line="44" column="52" filename="$USER_HOME$/code/docker-pywhale/test/src/project/settings.py" />
-      <jump line="78" column="49" filename="$USER_HOME$/code/docker-pywhale/test/src/project/settings.py" />
-      <jump line="83" column="21" filename="$USER_HOME$/code/docker-pywhale/test/src/project/settings.py" />
-      <jump line="84" column="52" filename="$USER_HOME$/code/docker-pywhale/test/src/project/settings.py" />
-      <jump line="93" column="17" filename="$USER_HOME$/code/docker-pywhale/test/src/project/settings.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/code/docker-pywhale/test/src/project/settings.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/code/docker-pywhale/image/rc.local" />
-      <jump line="25" column="4" filename="$USER_HOME$/code/docker-pywhale/test/src/docker-compose.yml" />
-      <jump line="14" column="4" filename="$USER_HOME$/code/perfect_gift_backend_neu/perfectgift/api/v1/urls.py" />
-      <jump line="14" column="22" filename="$USER_HOME$/code/perfect_gift_backend_neu/perfectgift/api/v1/locations/views.py" />
-      <jump line="51" column="51" filename="$USER_HOME$/code/perfect_gift_backend_neu/perfectgift/api/v1/tests/test_inventories.py" />
-      <jump line="78" column="24" filename="$USER_HOME$/code/perfect_gift_backend_neu/perfectgift/apps/payments/models.py" />
-      <jump line="61" column="47" filename="$USER_HOME$/code/perfect_gift_backend_neu/perfectgift/api/v1/tests/test_payments.py" />
-      <jump line="53" column="45" filename="$USER_HOME$/code/perfect_gift_backend_neu/perfectgift/api/v1/payments/views.py" />
-      <jump line="60" column="23" filename="$USER_HOME$/code/perfect_gift_backend_neu/perfectgift/api/v1/payments/views.py" />
-      <jump line="41" column="41" filename="$USER_HOME$/code/perfect_gift_backend_neu/perfectgift/apps/payments/models.py" />
-      <jump line="62" column="29" filename="$USER_HOME$/code/ansible-fullstack-django/provisioning/roles/app/tasks/main.yml" />
-      <jump line="20" column="37" filename="$USER_HOME$/code/ansible-fullstack-django/provisioning/site.yml" />
-      <jump line="17" column="5" filename="$USER_HOME$/code/ansible-fullstack-django/provisioning/site.yml" />
-      <jump line="55" column="11" filename="$USER_HOME$/code/ansible-fullstack-django/provisioning/site.yml" />
-      <jump line="1" column="0" filename="$USER_HOME$/code/perfect_gift_backend_neu/perfectgift/wsgi.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/code/ansible-fullstack-django/deploy.sh" />
-      <jump line="88" column="39" filename="$USER_HOME$/code/perfect_gift_backend_neu/perfectgift/api/v1/tests/test_payments.py" />
-      <jump line="141" column="37" filename="$USER_HOME$/code/perfect_gift_backend_neu/perfectgift/apps/payments/models.py" />
-      <jump line="60" column="37" filename="$USER_HOME$/code/perfect_gift_backend_neu/perfectgift/apps/payments/admin.py" />
-      <jump line="66" column="46" filename="$USER_HOME$/code/perfect_gift_backend_neu/perfectgift/apps/payments/admin.py" />
-      <jump line="109" column="12" filename="$USER_HOME$/code/perfect_gift_backend_neu/perfectgift/api/v1/tests/test_payments.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/code/perfect_gift_backend_neu/perfectgift/api/v1/tests/test_payments.py" />
-      <jump line="70" column="73" filename="$USER_HOME$/code/perfect_gift_backend_neu/perfectgift/api/v1/tests/test_payments.py" />
-      <jump line="45" column="26" filename="$USER_HOME$/code/django-coupons/coupons/models.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/tox.ini" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Bildrecht_backend/brecht/frontend/views/membership.py" />
-      <jump line="111" column="20" filename="$USER_HOME$/code/Bildrecht_backend/brecht/frontend/views/membership.py" />
-      <jump line="180" column="36" filename="$USER_HOME$/code/Bildrecht_backend/brecht/frontend/forms/membership.py" />
-      <jump line="22" column="11" filename="$USER_HOME$/code/Bildrecht_backend/brecht/templates/frontend/account/profile_personal.html" />
-      <jump line="93" column="13" filename="$USER_HOME$/code/Bildrecht_backend/brecht/frontend/views/membership.py" />
-      <jump line="33" column="28" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/base.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/base.py" />
       <jump line="294" column="21" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/base.py" />
       <jump line="23" column="0" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/base.py" />
       <jump line="104" column="12" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/base.py" />
@@ -6257,16 +6219,60 @@
       <jump line="74" column="5" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/project.py" />
       <jump line="54" column="15" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/project.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/requirements/local.txt" />
+      <jump line="435" column="8" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="437" column="30" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="438" column="70" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="439" column="60" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="444" column="25" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="445" column="38" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="449" column="38" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="450" column="17" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="456" column="20" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="590" column="20" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="591" column="46" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="592" column="20" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="621" column="41" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="624" column="34" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="625" column="47" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="629" column="37" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="634" column="69" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="635" column="46" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="659" column="46" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="671" column="31" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="746" column="14" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="749" column="23" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="760" column="22" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="763" column="21" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="791" column="59" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="798" column="46" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="801" column="73" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="810" column="50" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="814" column="31" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="858" column="46" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="860" column="11" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="861" column="17" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="863" column="17" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="35" column="29" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="37" column="35" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="38" column="53" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="42" column="11" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="47" column="31" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="56" column="13" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="59" column="29" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="62" column="25" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="64" column="11" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
+      <jump line="69" column="18" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>The form isn't currently used in the HTML templates.</text>
       </register>
       <register name="/" type="4">
-        <text>ipdb</text>
+        <text>instance</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHVybChyJ14kJywgc2l0ZV9ob21lX3ZpZXcsIG5hbWU9J3NpdGVfaG9tZScpLAo=</text>
@@ -6275,37 +6281,37 @@
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5wdXQgaWQ9InRlcm1zIiB0eXBlPSJjaGVja2JveCIgbmFtZT0idGVybXMiPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5wdXQgaWQ9Im5ld3NsZXR0ZXIiIHR5cGU9ImNoZWNrYm94IiBuYW1lPSJuZXdzbGV0dGVyIj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5wdXQgaWQ9InRlcm1zIiB0eXBlPSJjaGVja2JveCIgbmFtZT0idGVybXMiPgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIGRlZiBmb3JtX3ZhbGlkKHNlbGYsIGZvcm0pOgogICAgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCiAgICAgICAgbmV3X3VzZXIgPSBzZWxmLnJlZ2lzdGVyKGZvcm0pCiAgICAgICAgc3VjY2Vzc191cmwgPSBzZWxmLmdldF9zdWNjZXNzX3VybChuZXdfdXNlcikKCiAgICAgICAgIyBzdWNjZXNzX3VybCBtYXkgYmUgYSBzaW1wbGUgc3RyaW5nLCBvciBhIHR1cGxlIHByb3ZpZGluZyB0aGUKICAgICAgICAjIGZ1bGwgYXJndW1lbnQgc2V0IGZvciByZWRpcmVjdCgpLiBBdHRlbXB0aW5nIHRvIHVucGFjayBpdAogICAgICAgICMgdGVsbHMgdXMgd2hpY2ggb25lIGl0IGlzLgogICAgICAgICMgdHJ5OgogICAgICAgICMgICAgIHRvLCBhcmdzLCBrd2FyZ3MgPSBzdWNjZXNzX3VybAogICAgICAgICMgICAgIHJldHVybiByZWRpcmVjdCh0bywgKmFyZ3MsICoqa3dhcmdzKQogICAgICAgICMgZXhjZXB0IFZhbHVlRXJyb3I6CiAgICAgICAgIyAgICAgcmV0dXJuIHJlZGlyZWN0KHN1Y2Nlc3NfdXJsKQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxpbnB1dCB0eXBlPSJwYXNzd29yZCIgbmFtZT0icGFzc3dvcmQyIiBwbGFjZWhvbGRlcj0iUGFzc3dvcnQgYmVzdMOkdGlnZW4qIiBjbGFzcz0iZm9ybV9faW5wdXQiIHJlcXVpcmVkPgo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxpbnB1dCB0eXBlPSJwYXNzd29yZCIgbmFtZT0icGFzc293cmQxIiBwbGFjZWhvbGRlcj0iUGFzc3dvcnQqIiBjbGFzcz0iZm9ybV9faW5wdXQiIHJlcXVpcmVkPgo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxpbnB1dCB0eXBlPSJlbWFpbCIgbmFtZT0iZW1haWwiIHBsYWNlaG9sZGVyPSJFLU1haWwqIiBjbGFzcz0iZm9ybV9faW5wdXQiIHJlcXVpcmVkPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgICAgICAgICByYWlzZSBWYWxpZGF0aW9uRXJyb3IoJ09ubHkgc3RhZmYgdXNlcnMgY2FuIGhhdmUgbm8gc2l0ZSBhc3NpZ25lZC4nKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ipdb</last-search>
+      <last-search>instance</last-search>
       <last-offset />
-      <last-pattern>ipdb</last-pattern>
+      <last-pattern>instance</last-pattern>
       <last-replace>TITLE</last-replace>
       <last-substitute>__title__</last-substitute>
       <last-dir>1</last-dir>
@@ -6313,8 +6319,6 @@
     </search>
     <history>
       <history-search>
-        <entry>SITE_ROOT</entry>
-        <entry>root</entry>
         <entry>oscar</entry>
         <entry>movie</entry>
         <entry>python-version</entry>
@@ -6333,6 +6337,8 @@
         <entry>factory</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>ipdb</entry>
+        <entry>self.instance4</entry>
+        <entry>instance</entry>
       </history-search>
       <history-cmd>
         <entry>3</entry>
