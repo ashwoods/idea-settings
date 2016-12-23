@@ -5522,11 +5522,12 @@
         <mark key="^" line="100" column="90" />
         <mark key="." line="100" column="90" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/registration/registration_form.html" timestamp="1482486086695">
-        <mark key="[" line="14" column="14" />
-        <mark key="]" line="18" column="17" />
-        <mark key="^" line="18" column="17" />
-        <mark key="." line="18" column="17" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/registration/registration_form.html" timestamp="1482487523783">
+        <mark key="'" line="12" column="75" />
+        <mark key="[" line="33" column="35" />
+        <mark key="]" line="42" column="37" />
+        <mark key="^" line="42" column="37" />
+        <mark key="." line="42" column="37" />
       </file>
       <file name="$USER_HOME$/code/judgingmachine/roles/nginx/templates/submitto" timestamp="1437598354690">
         <mark key="[" line="34" column="22" />
@@ -6086,7 +6087,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/base.py" />
       <jump line="104" column="12" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/base.py" />
       <jump line="154" column="4" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/base.py" />
       <jump line="239" column="5" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/base.py" />
@@ -6186,10 +6186,11 @@
       <jump line="64" column="11" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
       <jump line="69" column="18" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
       <jump line="70" column="0" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/contrib/users/views.py" />
+      <jump line="12" column="75" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/registration/registration_form.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>The form isn't currently used in the HTML templates.</text>
@@ -6201,31 +6202,31 @@
         <text encoding="base64">ICAgIHVybChyJ14kJywgc2l0ZV9ob21lX3ZpZXcsIG5hbWU9J3NpdGVfaG9tZScpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAge3sgZm9ybS5lbWFpbC5lcnJvcnMgfX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLXt7IGZvcm0ucGFzc3dvcmQyfGFkZF9jbGFzczoiZm9ybV9faW5wdXQifGF0dHI6InJlcXVpcmVkIiB9fS0tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLXt7IGZvcm0ucGFzc3dvcmQxfGFkZF9jbGFzczoiZm9ybV9faW5wdXQifGF0dHI6InJlcXVpcmVkIiB9fS0tPgo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIGRlZiBmb3JtX3ZhbGlkKHNlbGYsIGZvcm0pOgogICAgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCiAgICAgICAgbmV3X3VzZXIgPSBzZWxmLnJlZ2lzdGVyKGZvcm0pCiAgICAgICAgc3VjY2Vzc191cmwgPSBzZWxmLmdldF9zdWNjZXNzX3VybChuZXdfdXNlcikKCiAgICAgICAgIyBzdWNjZXNzX3VybCBtYXkgYmUgYSBzaW1wbGUgc3RyaW5nLCBvciBhIHR1cGxlIHByb3ZpZGluZyB0aGUKICAgICAgICAjIGZ1bGwgYXJndW1lbnQgc2V0IGZvciByZWRpcmVjdCgpLiBBdHRlbXB0aW5nIHRvIHVucGFjayBpdAogICAgICAgICMgdGVsbHMgdXMgd2hpY2ggb25lIGl0IGlzLgogICAgICAgICMgdHJ5OgogICAgICAgICMgICAgIHRvLCBhcmdzLCBrd2FyZ3MgPSBzdWNjZXNzX3VybAogICAgICAgICMgICAgIHJldHVybiByZWRpcmVjdCh0bywgKmFyZ3MsICoqa3dhcmdzKQogICAgICAgICMgZXhjZXB0IFZhbHVlRXJyb3I6CiAgICAgICAgIyAgICAgcmV0dXJuIHJlZGlyZWN0KHN1Y2Nlc3NfdXJsKQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLXt7IGZvcm0uZW1haWx8YWRkX2NsYXNzOiJmb3JtX19pbnB1dCJ8YXR0cjoicmVxdWlyZWQiIH19LS0+Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgICAgICAgICByYWlzZSBWYWxpZGF0aW9uRXJyb3IoJ09ubHkgc3RhZmYgdXNlcnMgY2FuIGhhdmUgbm8gc2l0ZSBhc3NpZ25lZC4nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
