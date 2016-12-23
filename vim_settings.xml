@@ -3503,12 +3503,12 @@
         <mark key="^" line="25" column="26" />
         <mark key="." line="25" column="26" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/project.py" timestamp="1482422227965">
-        <mark key="'" line="59" column="15" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="129" column="3" />
-        <mark key="." line="129" column="3" />
-        <mark key="^" line="129" column="3" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/project.py" timestamp="1482498802546">
+        <mark key="'" line="58" column="15" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="128" column="3" />
       </file>
       <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/roles/app/main.yml" timestamp="1478788676296">
         <mark key="[" line="46" column="0" />
@@ -6190,7 +6190,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdmbG9wcHlmb3JtcycsCg==</text>
       </register>
       <register name="-" type="4">
         <text>The form isn't currently used in the HTML templates.</text>
@@ -6202,25 +6202,25 @@
         <text encoding="base64">ICAgIHVybChyJ14kJywgc2l0ZV9ob21lX3ZpZXcsIG5hbWU9J3NpdGVfaG9tZScpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdmbG9wcHlmb3JtcycsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3sgZm9ybS5lbWFpbC5lcnJvcnMgfX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLXt7IGZvcm0ucGFzc3dvcmQyfGFkZF9jbGFzczoiZm9ybV9faW5wdXQifGF0dHI6InJlcXVpcmVkIiB9fS0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAge3sgZm9ybS5lbWFpbC5lcnJvcnMgfX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLXt7IGZvcm0ucGFzc3dvcmQxfGFkZF9jbGFzczoiZm9ybV9faW5wdXQifGF0dHI6InJlcXVpcmVkIiB9fS0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLXt7IGZvcm0ucGFzc3dvcmQyfGFkZF9jbGFzczoiZm9ybV9faW5wdXQifGF0dHI6InJlcXVpcmVkIiB9fS0tPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLXt7IGZvcm0uZW1haWx8YWRkX2NsYXNzOiJmb3JtX19pbnB1dCJ8YXR0cjoicmVxdWlyZWQiIH19LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLXt7IGZvcm0ucGFzc3dvcmQxfGFkZF9jbGFzczoiZm9ybV9faW5wdXQifGF0dHI6InJlcXVpcmVkIiB9fS0tPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLXt7IGZvcm0uZW1haWx8YWRkX2NsYXNzOiJmb3JtX19pbnB1dCJ8YXR0cjoicmVxdWlyZWQiIH19LS0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
