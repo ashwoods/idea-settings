@@ -5522,11 +5522,11 @@
         <mark key="^" line="100" column="90" />
         <mark key="." line="100" column="90" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/registration/registration_form.html" timestamp="1482423618810">
-        <mark key="[" line="17" column="69" />
-        <mark key="]" line="20" column="17" />
-        <mark key="^" line="20" column="17" />
-        <mark key="." line="20" column="17" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/registration/registration_form.html" timestamp="1482486086695">
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="18" column="17" />
+        <mark key="^" line="18" column="17" />
+        <mark key="." line="18" column="17" />
       </file>
       <file name="$USER_HOME$/code/judgingmachine/roles/nginx/templates/submitto" timestamp="1437598354690">
         <mark key="[" line="34" column="22" />
@@ -5823,8 +5823,11 @@
         <mark key="^" line="30" column="66" />
         <mark key="." line="30" column="66" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/contrib/users/forms.py" timestamp="1482423766139">
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/contrib/users/forms.py" timestamp="1482485865613">
+        <mark key="[" line="61" column="6" />
+        <mark key="]" line="62" column="3" />
+        <mark key="^" line="62" column="3" />
+        <mark key="." line="62" column="3" />
       </file>
       <file name="$USER_HOME$/code/opera.core/pytest.ini" timestamp="1466595187857">
         <mark key="[" line="1" column="31" />
