@@ -1098,12 +1098,6 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/views.py" timestamp="1482329147680">
-        <mark key="[" line="241" column="4" />
-        <mark key="]" line="241" column="3" />
-        <mark key="^" line="241" column="3" />
-        <mark key="." line="241" column="3" />
-      </file>
       <file name="$USER_HOME$/Work/pywhale/image/devheaders.sh" timestamp="1403706304802">
         <mark key="[" line="2" column="42" />
         <mark key="]" line="2" column="65" />
@@ -1203,11 +1197,8 @@
         <mark key="." line="5" column="44" />
         <mark key="^" line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/urls.py" timestamp="1482329205668">
-        <mark key="[" line="5" column="1" />
-        <mark key="]" line="20" column="1" />
-        <mark key="^" line="20" column="1" />
-        <mark key="." line="20" column="1" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/urls.py" timestamp="1483981036894">
+        <mark key="[" line="11" column="5" />
       </file>
       <file name="$USER_HOME$/code/perfect_gift_backend_neu/README.rst" timestamp="1478959026733">
         <mark key="[" line="46" column="0" />
@@ -2908,10 +2899,10 @@
         <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/html/detail.html" timestamp="1482248052655">
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="13" />
-        <mark key="." line="150" column="13" />
-        <mark key="^" line="150" column="13" />
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="13" />
+        <mark key="." line="156" column="13" />
+        <mark key="^" line="156" column="13" />
       </file>
       <file name="$USER_HOME$/Work/submitz-nemesis/submitz/apps/dashboards/templates/dashboard/admin_awards_list.haml" timestamp="1406891892851">
         <mark key="[" line="9" column="0" />
@@ -3057,11 +3048,11 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/urls.py" timestamp="1482420346192">
-        <mark key="[" line="34" column="78" />
-        <mark key="]" line="34" column="77" />
-        <mark key="." line="34" column="77" />
-        <mark key="^" line="34" column="77" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/urls.py" timestamp="1483981665457">
+        <mark key="[" line="31" column="80" />
+        <mark key="]" line="31" column="20" />
+        <mark key="." line="31" column="20" />
+        <mark key="^" line="31" column="20" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitto/contrib/siteusers/management/commands/createsuperuser.py" timestamp="1454337083715">
         <mark key="[" line="141" column="0" />
@@ -3502,11 +3493,10 @@
         <mark key="." line="25" column="26" />
       </file>
       <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/project.py" timestamp="1482498802546">
-        <mark key="'" line="58" column="15" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
-        <mark key="^" line="128" column="3" />
+        <mark key="^" line="19" column="3" />
       </file>
       <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/roles/app/main.yml" timestamp="1478788676296">
         <mark key="[" line="46" column="0" />
@@ -3849,12 +3839,6 @@
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="30" />
-      </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/models/shared.py" timestamp="1482337070893">
-        <mark key="[" line="80" column="23" />
-        <mark key="]" line="88" column="17" />
-        <mark key="." line="88" column="17" />
-        <mark key="^" line="88" column="17" />
       </file>
       <file name="$USER_HOME$/code/submitto-phoenix/submitto/conf/02-databases.py" timestamp="1460129480746">
         <mark key="[" line="1" column="0" />
@@ -5405,11 +5389,10 @@
         <mark key="^" line="79" column="53" />
       </file>
       <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/contrib/users/views.py" timestamp="1482422338459">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="110" column="34" />
-        <mark key="]" line="86" column="35" />
-        <mark key="." line="86" column="35" />
-        <mark key="^" line="86" column="35" />
+        <mark key="[" line="113" column="34" />
+        <mark key="]" line="89" column="35" />
+        <mark key="." line="89" column="35" />
+        <mark key="^" line="89" column="35" />
       </file>
       <file name="$USER_HOME$/code/Bildrecht_backend/brecht/core/accounts/factories.py" timestamp="1480426926494">
         <mark key="[" line="38" column="35" />
@@ -5520,11 +5503,9 @@
         <mark key="." line="100" column="90" />
       </file>
       <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/registration/registration_form.html" timestamp="1482487523783">
-        <mark key="'" line="12" column="75" />
-        <mark key="[" line="33" column="35" />
-        <mark key="]" line="42" column="37" />
-        <mark key="^" line="42" column="37" />
-        <mark key="." line="42" column="37" />
+        <mark key="]" line="43" column="37" />
+        <mark key="^" line="43" column="37" />
+        <mark key="." line="43" column="37" />
       </file>
       <file name="$USER_HOME$/code/judgingmachine/roles/nginx/templates/submitto" timestamp="1437598354690">
         <mark key="[" line="34" column="22" />
