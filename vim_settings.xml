@@ -402,6 +402,12 @@
         <mark key="^" line="24" column="32" />
         <mark key="." line="24" column="32" />
       </file>
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/shop/checkout/views.py" timestamp="1484059634407">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="5" column="53" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/code/ansible-fullstack-django/README.rst" timestamp="1479119496024">
         <mark key="[" line="36" column="39" />
         <mark key="]" line="36" column="68" />
@@ -834,16 +840,13 @@
         <mark key="^" line="21" column="56" />
         <mark key="." line="21" column="56" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/requirements/local.txt" timestamp="1484040263284">
-        <mark key="'" line="27" column="7" />
-        <mark key="[" line="27" column="7" />
-      </file>
       <file name="$USER_HOME$/code/submitto-phoenix/submitto/templates/base/footer.html" timestamp="1467980847678">
         <mark key="[" line="26" column="84" />
         <mark key="]" line="27" column="66" />
         <mark key="^" line="27" column="66" />
         <mark key="." line="27" column="66" />
       </file>
+      <file name="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/oscar/apps/basket/views.py" timestamp="1484059078767" />
       <file name="$USER_HOME$/Work/submitz-nemesis/submitz/apps/carton/templates/getpaid_paymill_backend/paymill_form.html" timestamp="1422270999302">
         <mark key="[" line="5" column="32" />
         <mark key="]" line="5" column="35" />
@@ -1024,7 +1027,7 @@
         <mark key="^" line="219" column="0" />
         <mark key="." line="219" column="0" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/html/basket.html" timestamp="1482165876754">
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/html/basket.html" timestamp="1484059693181">
         <mark key="[" line="241" column="0" />
         <mark key="]" line="241" column="0" />
         <mark key="." line="241" column="0" />
@@ -1204,9 +1207,6 @@
         <mark key="]" line="5" column="44" />
         <mark key="." line="5" column="44" />
         <mark key="^" line="5" column="44" />
-      </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/urls.py" timestamp="1483981036894">
-        <mark key="[" line="11" column="5" />
       </file>
       <file name="$USER_HOME$/code/perfect_gift_backend_neu/README.rst" timestamp="1478959026733">
         <mark key="[" line="46" column="0" />
@@ -2082,11 +2082,11 @@
         <mark key="^" line="18" column="81" />
         <mark key="." line="18" column="81" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/shop/checkout/app.py" timestamp="1484042600244">
-        <mark key="[" line="1" column="5" />
-        <mark key="]" line="1" column="10" />
-        <mark key="." line="1" column="10" />
-        <mark key="^" line="1" column="10" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/shop/checkout/app.py" timestamp="1484059532544">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+        <mark key="^" line="1" column="5" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitto/templates/contrib/profiles/profile_edit.html" timestamp="1458652980574">
         <mark key="[" line="19" column="56" />
@@ -2130,11 +2130,11 @@
         <mark key="^" line="209" column="17" />
         <mark key="." line="209" column="17" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/shop/basket/views.py" timestamp="1484043949784">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="0" column="27" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/shop/basket/views.py" timestamp="1484059181916">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="1" column="43" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitz/apps/carton/tests/test_transitions.py" timestamp="1440490265928">
         <mark key="[" line="1" column="5" />
@@ -2717,6 +2717,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="^" line="12" column="39" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/src/django-oscar-opp/oscar_opp/templates/oscar_opp/payment_details.html" timestamp="1484058890433">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/submitz-nemesis/src/django-positions/positions/fields.py" timestamp="1407932217444">
         <mark key="[" line="70" column="50" />
@@ -4020,11 +4025,10 @@
         <mark key="^" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/src/django-oscar-opp/oscar_opp/templates/oscar_opp/preview.html" timestamp="1481311901883">
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/src/django-oscar-opp/oscar_opp/templates/oscar_opp/preview.html" timestamp="1484059017621">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/submitz-nemesis/submitz/apps/invoices/admin.py" timestamp="1413797476069">
         <mark key="[" line="15" column="0" />
@@ -4175,6 +4179,13 @@
         <mark key="]" line="6" column="16" />
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/shop/checkout_detail.html" timestamp="1484060398127">
+        <mark key="'" line="21" column="15" />
+        <mark key="[" line="214" column="30" />
+        <mark key="]" line="221" column="51" />
+        <mark key="^" line="221" column="51" />
+        <mark key="." line="221" column="51" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitz/apps/wizards/templates/wizards/base.haml" timestamp="1424177318183">
         <mark key="[" line="1" column="18" />
@@ -5528,11 +5539,6 @@
         <mark key="^" line="100" column="90" />
         <mark key="." line="100" column="90" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/registration/registration_form.html" timestamp="1482487523783">
-        <mark key="]" line="43" column="37" />
-        <mark key="^" line="43" column="37" />
-        <mark key="." line="43" column="37" />
-      </file>
       <file name="$USER_HOME$/code/judgingmachine/roles/nginx/templates/submitto" timestamp="1437598354690">
         <mark key="[" line="34" column="22" />
         <mark key="]" line="38" column="22" />
@@ -5640,6 +5646,12 @@
         <mark key="]" line="4" column="1" />
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
+      </file>
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/contrib/profiles/models.py" timestamp="1484060304966">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="16" column="3" />
+        <mark key="^" line="16" column="3" />
+        <mark key="." line="16" column="3" />
       </file>
       <file name="$USER_HOME$/code/Bildrecht_backend/src/django-monkeytranslate/monkeytranslate/apps.py" timestamp="1479746400052">
         <mark key="[" line="5" column="0" />
@@ -6093,7 +6105,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="255" column="4" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/base.py" />
       <jump line="260" column="11" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/base.py" />
       <jump line="270" column="13" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/base.py" />
       <jump line="277" column="11" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/base.py" />
@@ -6193,55 +6204,56 @@
       <jump line="6" column="0" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/tasks.py" />
       <jump line="25" column="23" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/requirements/local.txt" />
       <jump line="27" column="7" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/requirements/local.txt" />
+      <jump line="21" column="15" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/shop/checkout_detail.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>fsm</text>
+        <text>visa</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHVybChyJ14kJywgc2l0ZV9ob21lX3ZpZXcsIG5hbWU9J3NpdGVfaG9tZScpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">QU5ZTUFJTCA9IHsKICAgICAgICAiTUFJTEdVTl9BUElfS0VZIjogImtleS0yNzcyZDQxY2I1OTI5MmMwYTEyOTJmMDUyMDQ3ZWI1YyIsCiAgICAgICAgIlNFTkRfREVGQVVMVFMiOiB7CiAgICAgICAgICAgICJ0YWdzIjogWyJhY3NwIl0KICAgICAgICB9LAogICAgJ1dFQkhPT0tfQVVUSE9SSVpBVElPTic6ICc8YSByYW5kb20gc3RyaW5nPg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBvc2Nhci5hcHBzLmJhc2tldCBpbXBvcnQgdmlld3MgYXMgb3NjYXJfdmlld3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHBvc3RfdXJsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBheW1lbnRfZGV0YWlsc192aWVkZHcgPSB2aWV3cy5QYXltZW50RGV0YWlsc1ZpZXcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHBvc3RfdXJsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBwb3N0X3VybCBhbmQgaXNfc2FmZV91cmwocG9zdF91cmwsIHNlbGYucmVxdWVzdC5nZXRfaG9zdCgpKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICdmbG9wcHlmb3JtcycsCg==</text>
+        <text encoding="base64">ICAgICAgICBwb3N0X3VybCA9IHNlbGYucmVxdWVzdC5QT1NULmdldCgnbmV4dCcpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3sgZm9ybS5lbWFpbC5lcnJvcnMgfX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLXt7IGZvcm0ucGFzc3dvcmQyfGFkZF9jbGFzczoiZm9ybV9faW5wdXQifGF0dHI6InJlcXVpcmVkIiB9fS0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>fsm</last-search>
+      <last-search>visa</last-search>
       <last-offset />
-      <last-pattern>fsm</last-pattern>
+      <last-pattern>visa</last-pattern>
       <last-replace>TITLE</last-replace>
       <last-substitute>__title__</last-substitute>
       <last-dir>1</last-dir>
@@ -6249,7 +6261,6 @@
     </search>
     <history>
       <history-search>
-        <entry>python-version</entry>
         <entry>CELERY</entry>
         <entry>ALLOWED</entry>
         <entry>send</entry>
@@ -6269,6 +6280,7 @@
         <entry>instance</entry>
         <entry>SITE</entry>
         <entry>fsm</entry>
+        <entry>visa</entry>
       </history-search>
       <history-cmd>
         <entry>3</entry>
