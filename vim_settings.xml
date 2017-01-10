@@ -42,6 +42,12 @@
         <mark key="^" line="72" column="24" />
         <mark key="." line="72" column="24" />
       </file>
+      <file name="/a.dummy" timestamp="1484057277668">
+        <mark key="e" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/nemesis/submitto/core/clients/admin.py" timestamp="1446458996629">
         <mark key="[" line="9" column="102" />
         <mark key="]" line="9" column="104" />
@@ -1274,11 +1280,11 @@
         <mark key="." line="35" column="2" />
         <mark key="^" line="35" column="2" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/src/django-oscar-opp/oscar_opp/templates/oscar_opp/form.html" timestamp="1481312080358">
-        <mark key="[" line="31" column="28" />
-        <mark key="]" line="31" column="41" />
-        <mark key="." line="31" column="41" />
-        <mark key="^" line="31" column="41" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/src/django-oscar-opp/oscar_opp/templates/oscar_opp/form.html" timestamp="1484058657856">
+        <mark key="[" line="31" column="31" />
+        <mark key="]" line="31" column="51" />
+        <mark key="." line="31" column="51" />
+        <mark key="^" line="31" column="51" />
       </file>
       <file name="$USER_HOME$/code/nemesis/src/django-formulator/formulator/models.py" timestamp="1456829752164">
         <mark key="[" line="36" column="0" />
@@ -1717,11 +1723,10 @@
         <mark key="^" line="505" column="49" />
         <mark key="." line="505" column="49" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/src/django-oscar-opp/oscar_opp/views.py" timestamp="1481558934089">
-        <mark key="[" line="61" column="8" />
-        <mark key="]" line="61" column="36" />
-        <mark key="^" line="61" column="36" />
-        <mark key="." line="61" column="36" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/src/django-oscar-opp/oscar_opp/views.py" timestamp="1484058377549">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitz/apps/invoices/admin.py" timestamp="1441893584800">
         <mark key="[" line="68" column="18" />
@@ -3061,11 +3066,11 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/urls.py" timestamp="1483981665457">
-        <mark key="[" line="31" column="80" />
-        <mark key="]" line="31" column="20" />
-        <mark key="." line="31" column="20" />
-        <mark key="^" line="31" column="20" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/urls.py" timestamp="1484057912955">
+        <mark key="[" line="32" column="45" />
+        <mark key="]" line="33" column="24" />
+        <mark key="." line="33" column="24" />
+        <mark key="^" line="33" column="24" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitto/contrib/siteusers/management/commands/createsuperuser.py" timestamp="1454337083715">
         <mark key="[" line="141" column="0" />
@@ -3505,11 +3510,11 @@
         <mark key="^" line="25" column="26" />
         <mark key="." line="25" column="26" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/project.py" timestamp="1482498802546">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="19" column="3" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/project.py" timestamp="1484057844278">
+        <mark key="[" line="164" column="30" />
+        <mark key="]" line="164" column="30" />
+        <mark key="." line="164" column="30" />
+        <mark key="^" line="157" column="41" />
       </file>
       <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/roles/app/main.yml" timestamp="1478788676296">
         <mark key="[" line="46" column="0" />
@@ -3577,11 +3582,11 @@
         <mark key="^" line="47" column="11" />
         <mark key="." line="47" column="11" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/requirements/project.in" timestamp="1484040359475">
-        <mark key="[" line="22" column="16" />
-        <mark key="]" line="23" column="22" />
-        <mark key="^" line="23" column="22" />
-        <mark key="." line="23" column="22" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/requirements/project.in" timestamp="1484058094141">
+        <mark key="[" line="23" column="22" />
+        <mark key="]" line="24" column="18" />
+        <mark key="^" line="24" column="18" />
+        <mark key="." line="24" column="18" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitto/core/voting/models/votes.py" timestamp="1453913310920">
         <mark key="[" line="27" column="61" />
@@ -6191,10 +6196,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBvc2Nhci5hcHBzLmJhc2tldCBpbXBvcnQgdmlld3MgYXMgb3NjYXJfdmlld3MK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>The form isn't currently used in the HTML templates.</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>fsm</text>
@@ -6203,31 +6208,31 @@
         <text encoding="base64">ICAgIHVybChyJ14kJywgc2l0ZV9ob21lX3ZpZXcsIG5hbWU9J3NpdGVfaG9tZScpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBvc2Nhci5hcHBzLmJhc2tldCBpbXBvcnQgdmlld3MgYXMgb3NjYXJfdmlld3MK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHBheW1lbnRfZGV0YWlsc192aWVkZHcgPSB2aWV3cy5QYXltZW50RGV0YWlsc1ZpZXcK</text>
+      <register name="2" type="4">
+        <text encoding="base64">QU5ZTUFJTCA9IHsKICAgICAgICAiTUFJTEdVTl9BUElfS0VZIjogImtleS0yNzcyZDQxY2I1OTI5MmMwYTEyOTJmMDUyMDQ3ZWI1YyIsCiAgICAgICAgIlNFTkRfREVGQVVMVFMiOiB7CiAgICAgICAgICAgICJ0YWdzIjogWyJhY3NwIl0KICAgICAgICB9LAogICAgJ1dFQkhPT0tfQVVUSE9SSVpBVElPTic6ICc8YSByYW5kb20gc3RyaW5nPg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ZnJvbSBvc2Nhci5hcHBzLmJhc2tldCBpbXBvcnQgdmlld3MgYXMgb3NjYXJfdmlld3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdmbG9wcHlmb3JtcycsCg==</text>
+        <text encoding="base64">ICAgIHBheW1lbnRfZGV0YWlsc192aWVkZHcgPSB2aWV3cy5QYXltZW50RGV0YWlsc1ZpZXcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3sgZm9ybS5lbWFpbC5lcnJvcnMgfX0K</text>
+        <text encoding="base64">ICAgICdmbG9wcHlmb3JtcycsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLXt7IGZvcm0ucGFzc3dvcmQyfGFkZF9jbGFzczoiZm9ybV9faW5wdXQifGF0dHI6InJlcXVpcmVkIiB9fS0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLXt7IGZvcm0ucGFzc3dvcmQxfGFkZF9jbGFzczoiZm9ybV9faW5wdXQifGF0dHI6InJlcXVpcmVkIiB9fS0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAge3sgZm9ybS5lbWFpbC5lcnJvcnMgfX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLXt7IGZvcm0uZW1haWx8YWRkX2NsYXNzOiJmb3JtX19pbnB1dCJ8YXR0cjoicmVxdWlyZWQiIH19LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLXt7IGZvcm0ucGFzc3dvcmQyfGFkZF9jbGFzczoiZm9ybV9faW5wdXQifGF0dHI6InJlcXVpcmVkIiB9fS0tPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
