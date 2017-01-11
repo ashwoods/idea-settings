@@ -3084,11 +3084,11 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/urls.py" timestamp="1484066720293">
-        <mark key="[" line="33" column="78" />
-        <mark key="]" line="33" column="79" />
-        <mark key="." line="33" column="79" />
-        <mark key="^" line="33" column="79" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/urls.py" timestamp="1484139755660">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="3" />
+        <mark key="." line="31" column="3" />
+        <mark key="^" line="31" column="3" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitto/contrib/siteusers/management/commands/createsuperuser.py" timestamp="1454337083715">
         <mark key="[" line="141" column="0" />
@@ -3533,11 +3533,11 @@
         <mark key="^" line="25" column="26" />
         <mark key="." line="25" column="26" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/project.py" timestamp="1484127824184">
-        <mark key="[" line="33" column="23" />
-        <mark key="]" line="34" column="27" />
-        <mark key="." line="34" column="27" />
-        <mark key="^" line="34" column="27" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/project.py" timestamp="1484139305226">
+        <mark key="[" line="37" column="15" />
+        <mark key="]" line="38" column="4" />
+        <mark key="." line="38" column="4" />
+        <mark key="^" line="38" column="4" />
       </file>
       <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/roles/app/main.yml" timestamp="1478788676296">
         <mark key="[" line="46" column="0" />
@@ -3581,11 +3581,11 @@
         <mark key="^" line="14" column="17" />
         <mark key="." line="14" column="17" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/contrib/profiles/forms.py" timestamp="1484131412953">
-        <mark key="[" line="15" column="18" />
-        <mark key="]" line="16" column="24" />
-        <mark key="." line="16" column="24" />
-        <mark key="^" line="16" column="24" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/contrib/profiles/forms.py" timestamp="1484138961369">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="25" column="43" />
+        <mark key="." line="25" column="43" />
+        <mark key="^" line="25" column="43" />
       </file>
       <file name="$USER_HOME$/code/nemesis/src/django-allauth/allauth/account/models.py" timestamp="1427403112487">
         <mark key="[" line="28" column="37" />
@@ -4879,6 +4879,12 @@
         <mark key="." line="160" column="0" />
         <mark key="^" line="161" column="25" />
       </file>
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/contrib/profiles/widgets.py" timestamp="1484139913675">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="15" column="25" />
+        <mark key="^" line="15" column="25" />
+        <mark key="." line="15" column="25" />
+      </file>
       <file name="$USER_HOME$/code/nemesis/submitto/core/entries/factories.py" timestamp="1459880862541">
         <mark key="[" line="24" column="45" />
         <mark key="]" line="23" column="40" />
@@ -5715,9 +5721,9 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/shop/partials/basket_form.html" timestamp="1484131333058">
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/shop/partials/basket_form.html" timestamp="1484139107984">
         <mark key="'" line="43" column="6" />
-        <mark key="[" line="37" column="44" />
+        <mark key="[" line="38" column="40" />
         <mark key="]" line="38" column="38" />
         <mark key="." line="38" column="38" />
         <mark key="^" line="38" column="38" />
