@@ -234,10 +234,11 @@
         <mark key="^" line="315" column="54" />
         <mark key="." line="315" column="54" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/core/movie_detail.html" timestamp="1484583938973">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/core/movie_detail.html" timestamp="1484586259949">
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/code/submitto-phoenix/submitto/contrib/forms/forms.py" timestamp="1464351431719">
         <mark key="[" line="89" column="0" />
@@ -3545,7 +3546,11 @@
         <mark key="^" line="25" column="26" />
         <mark key="." line="25" column="26" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/project.py" timestamp="1484567606038" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/project.py" timestamp="1484586601890">
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="." line="177" column="0" />
+      </file>
       <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/roles/app/main.yml" timestamp="1478788676296">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="51" column="0" />
@@ -6250,7 +6255,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgancuZ2V0UGx1Z2luKCJkaXNwbGF5IikuaGlkZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -6262,31 +6267,31 @@
         <text encoding="base64">ICAgICAgICAgc2VsZi5maWVsZHNbJ2JpcnRoX2RhdGUnXS5yZXF1aXJlZCA9IFRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgancuZ2V0UGx1Z2luKCJkaXNwbGF5IikuaGlkZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpY29uczogZmFsc2UsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eyMgICAgICAgIDwvZmlndXJlPiN9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">eyMgICAgICAgICAgeyUgZW5kaWYgJX0jfQo=</text>
+        <text encoding="base64">ICB7JSBlbmRpZiAlfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">eyMgICAgICAgICAgICA8aW1nIHNyYz0ieyUgc3RhdGljIG1vdmllLnByZXZpZXdfaW1hZ2UuZmlsZS51cmwgJX0iIC8+I30K</text>
+        <text encoding="base64">ICB7JSBpZiB1c2VyLmlzX2F1dGhlbnRpY2F0ZWQgJX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">eyMgICAgICAgICAgeyUgaWYgbW92aWUucHJldmlld19pbWFnZSAlfSN9Cg==</text>
+        <text encoding="base64">ICAgICAgancuZ2V0UGx1Z2luKCJkaXNwbGF5IikuaGlkZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">eyMgICAgICAgIDxmaWd1cmU+I30K</text>
+        <text encoding="base64">ICAgICAgICBpY29uczogZmFsc2UsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">eyMgICAgICAgIDwvZmlndXJlPiN9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgeyUgaW5jbHVkZSAnY29yZS9wYXJ0aWFscy9tb3ZpZV9hY3Rpb25zLmh0bWwnICV9Cg==</text>
+        <text encoding="base64">eyMgICAgICAgICAgeyUgZW5kaWYgJX0jfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
