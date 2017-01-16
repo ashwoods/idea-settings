@@ -234,11 +234,11 @@
         <mark key="^" line="315" column="54" />
         <mark key="." line="315" column="54" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/core/movie_detail.html" timestamp="1484045220497">
-        <mark key="[" line="7" column="12" />
-        <mark key="]" line="7" column="15" />
-        <mark key="^" line="7" column="15" />
-        <mark key="." line="7" column="15" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/core/movie_detail.html" timestamp="1484581370904">
+        <mark key="[" line="37" column="8" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="8" column="7" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/code/submitto-phoenix/submitto/contrib/forms/forms.py" timestamp="1464351431719">
         <mark key="[" line="89" column="0" />
@@ -844,9 +844,6 @@
         <mark key="]" line="21" column="56" />
         <mark key="^" line="21" column="56" />
         <mark key="." line="21" column="56" />
-      </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/requirements/local.txt" timestamp="1484068072128">
-        <mark key="'" line="29" column="16" />
       </file>
       <file name="$USER_HOME$/code/submitto-phoenix/submitto/templates/base/footer.html" timestamp="1467980847678">
         <mark key="[" line="26" column="84" />
@@ -3562,6 +3559,12 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/core/partials/movie_details.html" timestamp="1484580562691">
+        <mark key="[" line="41" column="9" />
+        <mark key="]" line="41" column="29" />
+        <mark key="^" line="41" column="29" />
+        <mark key="." line="41" column="29" />
+      </file>
       <file name="$USER_HOME$/Work/submitz-nemesis/submitz/apps/judging/urls/mobile_urls.py" timestamp="1418906178219">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -3711,9 +3714,6 @@
         <mark key="]" line="3" column="1" />
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
-      </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/873869026/-1836821748/oscar/apps/basket/views.py" timestamp="1484127643487">
-        <mark key="'" line="216" column="20" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitto/core/clients/views/voting.py" timestamp="1459945928357">
         <mark key="[" line="24" column="6" />
@@ -6249,7 +6249,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBrd2FyZ3NbJ3VzZXInXQo=</text>
+        <text encoding="base64">ICAgICAgeyUgaW5jbHVkZSAnY29yZS9wYXJ0aWFscy9tb3ZpZV9hY3Rpb25zLmh0bWwnICV9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -6261,31 +6261,31 @@
         <text encoding="base64">ICAgICAgICAgc2VsZi5maWVsZHNbJ2JpcnRoX2RhdGUnXS5yZXF1aXJlZCA9IFRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBrd2FyZ3NbJ3VzZXInXQo=</text>
+        <text encoding="base64">ICAgICAgeyUgaW5jbHVkZSAnY29yZS9wYXJ0aWFscy9tb3ZpZV9hY3Rpb25zLmh0bWwnICV9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgeyUgaW5jbHVkZSAnY29yZS9wYXJ0aWFscy9zb2NpYWxfc2hhcmUuaHRtbCcgJX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgIHslIGVsc2UgJX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgeyUgaWYgbm90IHVzZXIuaXNfYXV0aGVudGljYXRlZCAlfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgeyUgZW5kaWYgJX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBrd2FyZ3NbJ3VzZXInXQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICMgZGVmIGdldF9mb3JtKHNlbGYsIGZvcm1fY2xhc3M9Tm9uZSk6CiAgICAjICAgICBwYXNz</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
