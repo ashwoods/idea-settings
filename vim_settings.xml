@@ -1673,6 +1673,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="5" column="34" />
       </file>
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/core/cinema_detail.html" timestamp="1484592070280">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+        <mark key="." line="2" column="16" />
+      </file>
       <file name="$USER_HOME$/code/oliphaunts/.pre-commit-config.yaml" timestamp="1436430298492">
         <mark key="[" line="6" column="35" />
         <mark key="]" line="6" column="35" />
@@ -3546,10 +3552,11 @@
         <mark key="^" line="25" column="26" />
         <mark key="." line="25" column="26" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/project.py" timestamp="1484586601890">
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="0" />
-        <mark key="." line="177" column="0" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/project.py" timestamp="1484591935526">
+        <mark key="[" line="180" column="39" />
+        <mark key="]" line="181" column="17" />
+        <mark key="." line="181" column="17" />
+        <mark key="^" line="181" column="17" />
       </file>
       <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/roles/app/main.yml" timestamp="1478788676296">
         <mark key="[" line="46" column="0" />
@@ -4665,11 +4672,10 @@
         <mark key="^" line="75" column="49" />
         <mark key="." line="75" column="49" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/middleware.py" timestamp="1484588015910">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="57" column="36" />
-        <mark key="." line="57" column="36" />
-        <mark key="^" line="57" column="36" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/middleware.py" timestamp="1484591326367">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitz/core/voting/models/__init__.py" timestamp="1442308165645">
         <mark key="[" line="1" column="0" />
@@ -6255,7 +6261,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -6267,7 +6273,7 @@
         <text encoding="base64">ICAgICAgICAgc2VsZi5maWVsZHNbJ2JpcnRoX2RhdGUnXS5yZXF1aXJlZCA9IFRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -6276,22 +6282,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB7JSBlbmRpZiAlfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB7JSBpZiB1c2VyLmlzX2F1dGhlbnRpY2F0ZWQgJX0K</text>
+        <text encoding="base64">ICB7JSBlbmRpZiAlfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgancuZ2V0UGx1Z2luKCJkaXNwbGF5IikuaGlkZSgpOwo=</text>
+        <text encoding="base64">ICB7JSBpZiB1c2VyLmlzX2F1dGhlbnRpY2F0ZWQgJX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpY29uczogZmFsc2UsCg==</text>
+        <text encoding="base64">ICAgICAgancuZ2V0UGx1Z2luKCJkaXNwbGF5IikuaGlkZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">eyMgICAgICAgIDwvZmlndXJlPiN9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpY29uczogZmFsc2UsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">eyMgICAgICAgICAgeyUgZW5kaWYgJX0jfQo=</text>
+        <text encoding="base64">eyMgICAgICAgIDwvZmlndXJlPiN9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
