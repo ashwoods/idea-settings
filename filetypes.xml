@@ -34,6 +34,7 @@
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="pip" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
