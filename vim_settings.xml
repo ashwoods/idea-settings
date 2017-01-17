@@ -2823,11 +2823,6 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/base.py" timestamp="1484568262521">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-      </file>
       <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/cinema/contrib/__init__.py" timestamp="1474540986671">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
@@ -2881,6 +2876,11 @@
         <mark key="]" line="30" column="38" />
         <mark key="^" line="30" column="38" />
         <mark key="." line="30" column="38" />
+      </file>
+      <file name="$USER_HOME$/code/BurgtheaterWebsite/docker-compose.yml" timestamp="1484669351229">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/src/django-oscar-viveum/opp/copyandpay/gateway.py" timestamp="1480341448472">
         <mark key="[" line="2" column="0" />
@@ -6273,8 +6273,19 @@
       <jump line="8" column="6" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/shop/partials/basket_form.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>#  mysql:
+#    image: mysql:5.7
+#    volumes:
+#      - mysql_data:/var/lib/mysql
+#    restart: always
+#    ports:
+#      - &quot;3306:3306&quot;
+#    environment:
+#      MYSQL_ROOT_PASSWORD: password
+#      MYSQL_DATABASE: dispo
+#      MYSQL_USER: dispo
+#      MYSQL_PASSWORD: password</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PGgyIGNsYXNzPSJoZWFkbGluZSBoZWFkbGluZS0tYm9sZCBoZWFkbGluZS0tc21hbGwgaGVhZGxpbmUtLXNwYWNlZCI+UmVjaG51bmdzZGF0ZW48L2gyPg==</text>
@@ -6285,23 +6296,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgc2VsZi5maWVsZHNbJ2JpcnRoX2RhdGUnXS5yZXF1aXJlZCA9IFRydWUK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>#  mysql:
+#    image: mysql:5.7
+#    volumes:
+#      - mysql_data:/var/lib/mysql
+#    restart: always
+#    ports:
+#      - &quot;3306:3306&quot;
+#    environment:
+#      MYSQL_ROOT_PASSWORD: password
+#      MYSQL_DATABASE: dispo
+#      MYSQL_USER: dispo
+#      MYSQL_PASSWORD: password</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgeyUgaW5jbHVkZSAnc2hvcC9wYXJ0aWFscy9iYXNrZXRfZm9ybS5odG1sJyAlfQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgeyUgaW5jbHVkZSAnc2hvcC9wYXJ0aWFscy9iYXNrZXRfZm9ybS5odG1sJyAlfQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -6310,7 +6332,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB7JSBlbmRpZiAlfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
