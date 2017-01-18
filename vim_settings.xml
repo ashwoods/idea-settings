@@ -42,6 +42,12 @@
         <mark key="^" line="72" column="24" />
         <mark key="." line="72" column="24" />
       </file>
+      <file name="/a.dummy" timestamp="1484741095151">
+        <mark key="e" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/nemesis/submitto/core/clients/admin.py" timestamp="1446458996629">
         <mark key="[" line="9" column="102" />
         <mark key="]" line="9" column="104" />
@@ -1584,11 +1590,11 @@
         <mark key="^" line="5" column="52" />
         <mark key="." line="5" column="52" />
       </file>
-      <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/roles/app/templates/uwsgi.ini.j2" timestamp="1484738751827">
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="15" column="15" />
-        <mark key="." line="15" column="15" />
-        <mark key="^" line="15" column="15" />
+      <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/roles/app/templates/uwsgi.ini.j2" timestamp="1484741197034">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="17" column="41" />
+        <mark key="." line="17" column="41" />
+        <mark key="^" line="17" column="41" />
       </file>
       <file name="$USER_HOME$/Work/submitz-nemesis/submitz/apps/dashboard/templates/dashboard/award_list.haml" timestamp="1413220579853">
         <mark key="[" line="19" column="37" />
@@ -2900,11 +2906,11 @@
         <mark key="^" line="22" column="50" />
         <mark key="." line="22" column="50" />
       </file>
-      <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/site.yml" timestamp="1484739697288">
+      <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/site.yml" timestamp="1484741162303">
         <mark key="[" line="13" column="22" />
-        <mark key="]" line="18" column="15" />
-        <mark key="^" line="18" column="15" />
-        <mark key="." line="18" column="15" />
+        <mark key="]" line="60" column="21" />
+        <mark key="^" line="60" column="21" />
+        <mark key="." line="60" column="21" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitto/contrib/wizards/views.py" timestamp="1442993974033">
         <mark key="[" line="111" column="33" />
@@ -5561,11 +5567,10 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/roles/app/tasks/main.yml" timestamp="1484739382695">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="84" column="24" />
-        <mark key="^" line="84" column="24" />
-        <mark key="." line="84" column="24" />
+      <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/roles/app/tasks/main.yml" timestamp="1484741062225">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/code/django-flowjs/setup.py" timestamp="1461146859192">
         <mark key="[" line="11" column="5" />
@@ -6265,11 +6270,11 @@
       <jump line="8" column="6" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/shop/partials/basket_form.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZW52ID0gREpBTkdPX1NFVFRJTkdTX01PRFVMRT1sZWFkc2lmdF9hcHAuc2V0dGluZ3Muc3RhZ2luZwo=</text>
+      <register name="&quot;" type="4">
+        <text>oscar_o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PGgyIGNsYXNzPSJoZWFkbGluZSBoZWFkbGluZS0tYm9sZCBoZWFkbGluZS0tc21hbGwgaGVhZGxpbmUtLXNwYWNlZCI+UmVjaG51bmdzZGF0ZW48L2gyPg==</text>
+        <text>oscar_o</text>
       </register>
       <register name="/" type="4">
         <text>notimplemented</text>
@@ -6278,39 +6283,28 @@
         <text encoding="base64">ICAgICAgICAgc2VsZi5maWVsZHNbJ2JpcnRoX2RhdGUnXS5yZXF1aXJlZCA9IFRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZW52ID0gREpBTkdPX1NFVFRJTkdTX01PRFVMRT1sZWFkc2lmdF9hcHAuc2V0dGluZ3Muc3RhZ2luZwo=</text>
+        <text encoding="base64">b3NjYXJfb3BwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">REVCVUc9RmFsc2UK</text>
+        <text encoding="base64">ICAgIGhvbWU6IC9hcHAK</text>
       </register>
-      <register name="3" type="4">
-        <text>#  mysql:
-#    image: mysql:5.7
-#    volumes:
-#      - mysql_data:/var/lib/mysql
-#    restart: always
-#    ports:
-#      - &quot;3306:3306&quot;
-#    environment:
-#      MYSQL_ROOT_PASSWORD: password
-#      MYSQL_DATABASE: dispo
-#      MYSQL_USER: dispo
-#      MYSQL_PASSWORD: password</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGFwcGVuZDogeWVzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdyb3VwczogYWRtaW5zLGRldmVsb3BlcnMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgeyUgaW5jbHVkZSAnc2hvcC9wYXJ0aWFscy9iYXNrZXRfZm9ybS5odG1sJyAlfQo=</text>
+        <text encoding="base64">ICAgIC0gYm9vdHN0cmFwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gYm9vdHN0cmFwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICB0YWdzOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
