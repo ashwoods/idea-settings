@@ -42,12 +42,6 @@
         <mark key="^" line="72" column="24" />
         <mark key="." line="72" column="24" />
       </file>
-      <file name="/a.dummy" timestamp="1484579237983">
-        <mark key="e" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/nemesis/submitto/core/clients/admin.py" timestamp="1446458996629">
         <mark key="[" line="9" column="102" />
         <mark key="]" line="9" column="104" />
@@ -1590,11 +1584,11 @@
         <mark key="^" line="5" column="52" />
         <mark key="." line="5" column="52" />
       </file>
-      <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/roles/app/templates/uwsgi.ini.j2" timestamp="1480431723286">
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="11" column="21" />
-        <mark key="^" line="11" column="21" />
-        <mark key="." line="11" column="21" />
+      <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/roles/app/templates/uwsgi.ini.j2" timestamp="1484738751827">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="15" column="15" />
+        <mark key="." line="15" column="15" />
+        <mark key="^" line="15" column="15" />
       </file>
       <file name="$USER_HOME$/Work/submitz-nemesis/submitz/apps/dashboard/templates/dashboard/award_list.haml" timestamp="1413220579853">
         <mark key="[" line="19" column="37" />
@@ -2906,11 +2900,11 @@
         <mark key="^" line="22" column="50" />
         <mark key="." line="22" column="50" />
       </file>
-      <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/site.yml" timestamp="1480965882521">
-        <mark key="[" line="16" column="62" />
-        <mark key="]" line="16" column="61" />
-        <mark key="^" line="16" column="61" />
-        <mark key="." line="16" column="61" />
+      <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/site.yml" timestamp="1484737668687">
+        <mark key="[" line="20" column="43" />
+        <mark key="]" line="21" column="37" />
+        <mark key="^" line="21" column="37" />
+        <mark key="." line="21" column="37" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitto/contrib/wizards/views.py" timestamp="1442993974033">
         <mark key="[" line="111" column="33" />
@@ -3331,7 +3325,7 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/code/ansible-fullstack-django/test.sh" timestamp="1481558651203">
+      <file name="$USER_HOME$/code/ansible-fullstack-django/test.sh" timestamp="1484736065791">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="2" column="153" />
         <mark key="^" line="2" column="153" />
@@ -5567,11 +5561,11 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/roles/app/tasks/main.yml" timestamp="1481558633773">
-        <mark key="[" line="60" column="34" />
-        <mark key="]" line="73" column="30" />
-        <mark key="^" line="73" column="30" />
-        <mark key="." line="73" column="30" />
+      <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/roles/app/tasks/main.yml" timestamp="1484738521282">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="77" column="24" />
+        <mark key="^" line="77" column="24" />
+        <mark key="." line="77" column="24" />
       </file>
       <file name="$USER_HOME$/code/django-flowjs/setup.py" timestamp="1461146859192">
         <mark key="[" line="11" column="5" />
@@ -5716,9 +5710,6 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/contrib/profiles/models.py" timestamp="1484571472226">
-        <mark key="^" line="35" column="86" />
-      </file>
       <file name="$USER_HOME$/code/Bildrecht_backend/src/django-monkeytranslate/monkeytranslate/apps.py" timestamp="1479746400052">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="7" column="0" />
@@ -5737,6 +5728,7 @@
         <mark key="^" line="11" column="34" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/roles/app/templates/env.j2" timestamp="1484738668980" />
       <file name="$USER_HOME$/code/Bildrecht_backend/src/django-monkeytranslate/monkeytranslate/utils.py" timestamp="1479808939770">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="0" />
@@ -6273,19 +6265,8 @@
       <jump line="8" column="6" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/shop/partials/basket_form.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#  mysql:
-#    image: mysql:5.7
-#    volumes:
-#      - mysql_data:/var/lib/mysql
-#    restart: always
-#    ports:
-#      - &quot;3306:3306&quot;
-#    environment:
-#      MYSQL_ROOT_PASSWORD: password
-#      MYSQL_DATABASE: dispo
-#      MYSQL_USER: dispo
-#      MYSQL_PASSWORD: password</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZW52ID0gREpBTkdPX1NFVFRJTkdTX01PRFVMRT1sZWFkc2lmdF9hcHAuc2V0dGluZ3Muc3RhZ2luZwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PGgyIGNsYXNzPSJoZWFkbGluZSBoZWFkbGluZS0tYm9sZCBoZWFkbGluZS0tc21hbGwgaGVhZGxpbmUtLXNwYWNlZCI+UmVjaG51bmdzZGF0ZW48L2gyPg==</text>
@@ -6296,7 +6277,13 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgc2VsZi5maWVsZHNbJ2JpcnRoX2RhdGUnXS5yZXF1aXJlZCA9IFRydWUK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ZW52ID0gREpBTkdPX1NFVFRJTkdTX01PRFVMRT1sZWFkc2lmdF9hcHAuc2V0dGluZ3Muc3RhZ2luZwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">REVCVUc9RmFsc2UK</text>
+      </register>
+      <register name="3" type="4">
         <text>#  mysql:
 #    image: mysql:5.7
 #    volumes:
@@ -6310,26 +6297,20 @@
 #      MYSQL_USER: dispo
 #      MYSQL_PASSWORD: password</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgeyUgaW5jbHVkZSAnc2hvcC9wYXJ0aWFscy9iYXNrZXRfZm9ybS5odG1sJyAlfQo=</text>
-      </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgeyUgaW5jbHVkZSAnc2hvcC9wYXJ0aWFscy9iYXNrZXRfZm9ybS5odG1sJyAlfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
