@@ -2906,11 +2906,11 @@
         <mark key="^" line="22" column="50" />
         <mark key="." line="22" column="50" />
       </file>
-      <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/site.yml" timestamp="1484747923921">
-        <mark key="[" line="10" column="56" />
-        <mark key="]" line="11" column="5" />
-        <mark key="^" line="11" column="5" />
-        <mark key="." line="11" column="5" />
+      <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/site.yml" timestamp="1484751367790">
+        <mark key="[" line="29" column="40" />
+        <mark key="]" line="30" column="68" />
+        <mark key="^" line="30" column="68" />
+        <mark key="." line="30" column="68" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitto/contrib/wizards/views.py" timestamp="1442993974033">
         <mark key="[" line="111" column="33" />
@@ -6271,7 +6271,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgLSB1c2VyOiBuYW1lPSd7eyByZW1vdGVfdXNlciB9fScgZ3JvdXBzPWFwcCBhcHBlbmQ9eWVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>oscar_o</text>
@@ -6283,31 +6283,31 @@
         <text encoding="base64">ICAgICAgICAgc2VsZi5maWVsZHNbJ2JpcnRoX2RhdGUnXS5yZXF1aXJlZCA9IFRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgLSB1c2VyOiBuYW1lPSd7eyByZW1vdGVfdXNlciB9fScgZ3JvdXBzPWFwcCBhcHBlbmQ9eWVzCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSBiZWNvbWU6IHllcwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0aF9iYXNpY191c2VyX2ZpbGUgL2V0Yy9uZ2lueC8uaHRwYXNzd2Q7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0aF9iYXNpYyAiUHJpdmF0ZSI7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgLSB7IHJvbGU6IGJvb3RzdHJhcCwgdGFnczogWydib290c3RyYXAnXX0K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">IyAgICAtIGNvcHk6IGRlc3Q9L2FwcC8uZGprZXkgY29udGVudD17e2Rqa2V5fX0gZm9yY2U9bm8gbW9kZT03MDAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyAgICAtIGNvcHk6IGRlc3Q9L2FwcC8uZGJwYXNzIGNvbnRlbnQ9e3tkYnBhc3N9fSBmb3JjZT1ubyBtb2RlPTcwMAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgcmVnaXN0ZXI6IGRqa2V5Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgcmVnaXN0ZXI6IGRqa2V5Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC0gbG9jYWxfYWN0aW9uOiBzaGVsbCBvcGVuc3NsIHBhc3N3ZCAtMSAtaW4gL2Rldi91cmFuZG9tIHwgaGVhZCAtMQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgcmVnaXN0ZXI6IGRicGFzcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gZmlsZTogcGF0aD0vYXBwIG1vZGU9MDc3NQo=</text>
+        <text encoding="base64">ICAgIC0gbG9jYWxfYWN0aW9uOiBzaGVsbCBvcGVuc3NsIHBhc3N3ZCAtMSAtaW4gL2Rldi91cmFuZG9tIHwgaGVhZCAtMQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNob3duIC1SIHd3dy1kYXRhIC9hcHAvbWVkaWEK</text>
+        <text encoding="base64">ICAgICAgbXNnOiAiR2VuZXJhdGVkIGRqYW5nbyBrZXkge3tkamtleX19Igo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
