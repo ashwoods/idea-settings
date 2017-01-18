@@ -2906,11 +2906,11 @@
         <mark key="^" line="22" column="50" />
         <mark key="." line="22" column="50" />
       </file>
-      <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/site.yml" timestamp="1484741162303">
-        <mark key="[" line="13" column="22" />
-        <mark key="]" line="60" column="21" />
-        <mark key="^" line="60" column="21" />
-        <mark key="." line="60" column="21" />
+      <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/site.yml" timestamp="1484741788385">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="18" column="4" />
+        <mark key="^" line="18" column="4" />
+        <mark key="." line="18" column="4" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitto/contrib/wizards/views.py" timestamp="1442993974033">
         <mark key="[" line="111" column="33" />
