@@ -888,11 +888,11 @@
         <mark key="." line="1" column="75" />
         <mark key="^" line="1" column="75" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/shop/basket_detail.html" timestamp="1484836383949">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="21" column="9" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/shop/basket_detail.html" timestamp="1484838057112">
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="9" column="35" />
+        <mark key="." line="9" column="35" />
+        <mark key="^" line="9" column="35" />
       </file>
       <file name="$USER_HOME$/code/submitto-phoenix/submitto/core/voting/views.py" timestamp="1470120160321">
         <mark key="[" line="64" column="115" />
@@ -6295,11 +6295,11 @@
       <jump line="8" column="6" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/shop/partials/basket_form.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHslIGlmICAlfQo=</text>
+      <register name="&quot;" type="4">
+        <text>Empfohlene Filme findest Du auf der Startseite.</text>
       </register>
       <register name="-" type="4">
-        <text>oscar_o</text>
+        <text>Empfohlene Filme findest Du auf der Startseite.</text>
       </register>
       <register name="/" type="4">
         <text>notimplemented</text>
@@ -6308,31 +6308,31 @@
         <text encoding="base64">ICAgICAgICAgc2VsZi5maWVsZHNbJ2JpcnRoX2RhdGUnXS5yZXF1aXJlZCA9IFRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHslIGlmICAlfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udmlld3MuZGVjb3JhdG9ycy5jc3JmIGltcG9ydCBjc3JmX3Byb3RlY3QK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udGVtcGxhdGUgaW1wb3J0IFJlcXVlc3RDb250ZXh0Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gQmFza2V0IC0tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHslIGlmICAlfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiNAY3NyZl9wcm90ZWN0CiNkZWYgcmVuZGVyKHJlcXVlc3QsIHBhdGgpOgojICAgIHJldHVybiByZW5kZXJfdG9fcmVzcG9uc2UocGF0aCwge30sCiMgICAgICAgIGNvbnRleHRfaW5zdGFuY2U9UmVxdWVzdENvbnRleHQocmVxdWVzdCkp</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBkamFuZ28udmlld3MuZGVjb3JhdG9ycy5jc3JmIGltcG9ydCBjc3JmX3Byb3RlY3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">REVCVUc9RmFsc2UK</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udGVtcGxhdGUgaW1wb3J0IFJlcXVlc3RDb250ZXh0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIERBVEFCQVNFX1VSTD1wb3N0Z3Jlc3FsOi8ve3tQUk9KRUNUX05BTUV9fTp7e3Bhc3N3b3JkfX1AbG9jYWxob3N0OjU0MzIve3tQUk9KRUNUX05BTUV9fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">REVCVUc9RmFsc2UK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiNAY3NyZl9wcm90ZWN0CiNkZWYgcmVuZGVyKHJlcXVlc3QsIHBhdGgpOgojICAgIHJldHVybiByZW5kZXJfdG9fcmVzcG9uc2UocGF0aCwge30sCiMgICAgICAgIGNvbnRleHRfaW5zdGFuY2U9UmVxdWVzdENvbnRleHQocmVxdWVzdCkp</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBiZWNvbWVfdXNlcjogYXBwCg==</text>
+        <text encoding="base64">REVCVUc9RmFsc2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
