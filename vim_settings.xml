@@ -2906,10 +2906,11 @@
         <mark key="^" line="22" column="50" />
         <mark key="." line="22" column="50" />
       </file>
-      <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/site.yml" timestamp="1484818153768">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/site.yml" timestamp="1484819199475">
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="22" column="3" />
+        <mark key="." line="22" column="3" />
+        <mark key="^" line="22" column="3" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitto/contrib/wizards/views.py" timestamp="1442993974033">
         <mark key="[" line="111" column="33" />
@@ -5566,11 +5567,10 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/roles/app/tasks/main.yml" timestamp="1484817924347">
-        <mark key="[" line="42" column="4" />
-        <mark key="]" line="26" column="2" />
-        <mark key="." line="26" column="2" />
-        <mark key="^" line="26" column="2" />
+      <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/roles/app/tasks/main.yml" timestamp="1484819793779">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="18" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/code/django-flowjs/setup.py" timestamp="1461146859192">
         <mark key="[" line="11" column="5" />
@@ -6270,7 +6270,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICBiZWNvbWVfdXNlcjogYXBwCg==</text>
       </register>
       <register name="-" type="4">
         <text>oscar_o</text>
@@ -6282,31 +6282,31 @@
         <text encoding="base64">ICAgICAgICAgc2VsZi5maWVsZHNbJ2JpcnRoX2RhdGUnXS5yZXF1aXJlZCA9IFRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICBiZWNvbWVfdXNlcjogYXBwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgYW5zaWJsZS1nYWxheHkgaW5zdGFsbCBrb3RhNjU1MzUucHllbnYK</text>
+        <text encoding="base64">ICBiZWNvbWVfdXNlcjogYXBwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0ga290YTY1NTM1LnB5ZW52Cg==</text>
+        <text encoding="base64">ICBiZWNvbWVfdXNlcjogYXBwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByb2xlczoK</text>
+        <text encoding="base64">ICBiZWNvbWVfdXNlcjogYXBwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSB0ZXN0MDIK</text>
+        <text encoding="base64">ICAgIGNoZGlyOiAvYXBwLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBweV92ZXJzaW9uOiAzLjUueAo=</text>
+        <text encoding="base64">ICAgIC0gbGlic3NsLWRldgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSB2ZW52X25hbWU6IHRoZS1sYXRlc3QK</text>
+        <text encoding="base64">ICAgIHZpcnR1YWxlbnY6IC9hcHAvdmVudgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBweV92ZXJzaW9uOiAyLjcuMTIK</text>
+        <text encoding="base64">ICAgIHZpcnR1YWxlbnZfcHl0aG9uOiBweXRob24zLjQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLSB2ZW52X25hbWU6IHRoZS1jb252ZW50aW9uYWwK</text>
+        <text encoding="base64">ICAgICAgIyBkZC0gY2xpZW50X21heF9ib2R5X3NpemUgMUcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -6363,8 +6363,8 @@
         <entry>%s/__title__/TITLE/gc</entry>
         <entry>wq</entry>
         <entry>qw</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
