@@ -402,11 +402,11 @@
         <mark key="^" line="24" column="32" />
         <mark key="." line="24" column="32" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/shop/checkout/views.py" timestamp="1484059634407">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="5" column="53" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/shop/checkout/views.py" timestamp="1484923332469">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="32" />
+        <mark key="^" line="0" column="32" />
       </file>
       <file name="$USER_HOME$/code/ansible-fullstack-django/README.rst" timestamp="1479119496024">
         <mark key="[" line="36" column="39" />
@@ -498,11 +498,11 @@
         <mark key="." line="23" column="13" />
         <mark key="^" line="23" column="13" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/src/django-oscar-opp/oscar_opp/copyandpay/facade.py" timestamp="1481309685057">
-        <mark key="[" line="35" column="57" />
-        <mark key="]" line="38" column="41" />
-        <mark key="." line="38" column="41" />
-        <mark key="^" line="38" column="41" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/src/django-oscar-opp/oscar_opp/copyandpay/facade.py" timestamp="1484923737459">
+        <mark key="[" line="56" column="8" />
+        <mark key="]" line="56" column="36" />
+        <mark key="." line="56" column="36" />
+        <mark key="^" line="56" column="36" />
       </file>
       <file name="$USER_HOME$/code/Bildrecht_backend/.gitignore" timestamp="1469523952286">
         <mark key="[" line="130" column="0" />
@@ -1305,11 +1305,11 @@
         <mark key="." line="35" column="2" />
         <mark key="^" line="35" column="2" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/src/django-oscar-opp/oscar_opp/templates/oscar_opp/form.html" timestamp="1484594778867">
-        <mark key="[" line="11" column="3" />
-        <mark key="]" line="11" column="4" />
-        <mark key="." line="11" column="4" />
-        <mark key="^" line="11" column="4" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/src/django-oscar-opp/oscar_opp/templates/oscar_opp/form.html" timestamp="1484922836487">
+        <mark key="[" line="29" column="76" />
+        <mark key="]" line="29" column="88" />
+        <mark key="." line="29" column="88" />
+        <mark key="^" line="29" column="88" />
       </file>
       <file name="$USER_HOME$/code/nemesis/src/django-formulator/formulator/models.py" timestamp="1456829752164">
         <mark key="[" line="36" column="0" />
@@ -1749,10 +1749,11 @@
         <mark key="^" line="505" column="49" />
         <mark key="." line="505" column="49" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/src/django-oscar-opp/oscar_opp/views.py" timestamp="1484058377549">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/src/django-oscar-opp/oscar_opp/views.py" timestamp="1484924385336">
+        <mark key="[" line="73" column="8" />
+        <mark key="]" line="74" column="36" />
+        <mark key="." line="74" column="36" />
+        <mark key="^" line="74" column="36" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitz/apps/invoices/admin.py" timestamp="1441893584800">
         <mark key="[" line="68" column="18" />
@@ -4779,11 +4780,10 @@
         <mark key="^" line="7" column="73" />
         <mark key="." line="7" column="73" />
       </file>
-      <file name="$USER_HOME$/code/django-oscar-opp/oscar_opp/views.py" timestamp="1484910923963">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="57" column="36" />
+      <file name="$USER_HOME$/code/django-oscar-opp/oscar_opp/views.py" timestamp="1484923877062">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/code/perfect_gift_backend_neu/.gitignore" timestamp="1479313817096">
         <mark key="[" line="89" column="0" />
@@ -5779,7 +5779,6 @@
         <mark key="^" line="11" column="34" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/roles/app/templates/env.j2" timestamp="1484820682943" />
       <file name="$USER_HOME$/code/Bildrecht_backend/src/django-monkeytranslate/monkeytranslate/utils.py" timestamp="1479808939770">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="0" />
@@ -6317,10 +6316,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Empfohlene Filme findest Du auf der Startseite.</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="/" type="4">
         <text>handle_payment</text>
@@ -6329,35 +6328,32 @@
         <text encoding="base64">ICAgICAgICAgc2VsZi5maWVsZHNbJ2JpcnRoX2RhdGUnXS5yZXF1aXJlZCA9IFRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9jYWxlPSdkZScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdHhbJ2Zvcm0nXSA9ZmFjYWRlLmdldF9mb3JtKAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY3R4Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>class BasketView(SiteMixin, TemplateView):
-    template_name = 'html/basket.html'
-
-
-basket_view = BasketView.as_view()</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VEVNUExBVEVfREVCVUcgPSBERUJVRwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+      <register name="9" type="4">
+        <text>def get(self, request, *args, **kwargs):
+        import ipdb; ipdb.set_trace()</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
