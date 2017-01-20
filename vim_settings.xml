@@ -1092,6 +1092,9 @@
         <mark key="^" line="5" column="8" />
         <mark key="." line="5" column="8" />
       </file>
+      <file name="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/oscar/apps/checkout/views.py" timestamp="1484910360096">
+        <mark key="'" line="457" column="8" />
+      </file>
       <file name="$USER_HOME$/code/nemesis/submitz/apps/simpleasset/encoder.py" timestamp="1425410773538">
         <mark key="[" line="29" column="55" />
         <mark key="]" line="29" column="55" />
@@ -1127,6 +1130,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/views.py" timestamp="1484909845285">
+        <mark key="[" line="5" column="56" />
+        <mark key="]" line="5" column="32" />
+        <mark key="." line="5" column="32" />
+        <mark key="^" line="5" column="32" />
       </file>
       <file name="$USER_HOME$/Work/pywhale/image/devheaders.sh" timestamp="1403706304802">
         <mark key="[" line="2" column="42" />
@@ -4770,6 +4779,12 @@
         <mark key="^" line="7" column="73" />
         <mark key="." line="7" column="73" />
       </file>
+      <file name="$USER_HOME$/code/django-oscar-opp/oscar_opp/views.py" timestamp="1484910923963">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="57" column="36" />
+      </file>
       <file name="$USER_HOME$/code/perfect_gift_backend_neu/.gitignore" timestamp="1479313817096">
         <mark key="[" line="89" column="0" />
         <mark key="]" line="91" column="6" />
@@ -6199,11 +6214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="292" column="20" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/base.py" />
-      <jump line="22" column="24" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/requirements/local.txt" />
-      <jump line="167" column="0" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/utils/bootstrap.py" />
-      <jump line="180" column="4" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/utils/bootstrap.py" />
-      <jump line="181" column="4" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/utils/bootstrap.py" />
       <jump line="182" column="4" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/utils/bootstrap.py" />
       <jump line="183" column="4" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/utils/bootstrap.py" />
       <jump line="184" column="4" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/utils/bootstrap.py" />
@@ -6299,55 +6309,64 @@
       <jump line="29" column="16" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/requirements/local.txt" />
       <jump line="216" column="20" filename="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/873869026/-1836821748/oscar/apps/basket/views.py" />
       <jump line="8" column="6" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/shop/partials/basket_form.html" />
+      <jump line="468" column="33" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/oscar/apps/checkout/views.py" />
+      <jump line="534" column="58" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/oscar/apps/checkout/views.py" />
+      <jump line="578" column="17" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/oscar/apps/checkout/views.py" />
+      <jump line="440" column="20" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/oscar/apps/checkout/views.py" />
+      <jump line="457" column="8" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/oscar/apps/checkout/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">VEVNUExBVEVfREVCVUcgPSBERUJVRwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Empfohlene Filme findest Du auf der Startseite.</text>
       </register>
       <register name="/" type="4">
-        <text>notimplemented</text>
+        <text>handle_payment</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgc2VsZi5maWVsZHNbJ2JpcnRoX2RhdGUnXS5yZXF1aXJlZCA9IFRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VEVNUExBVEVfREVCVUcgPSBERUJVRwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJzaXRlLXdpZHRoIj4K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHslIGVuZGlmICV9Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text>class BasketView(SiteMixin, TemplateView):
+    template_name = 'html/basket.html'
+
+
+basket_view = BasketView.as_view()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">VEVNUExBVEVfREVCVUcgPSBERUJVRwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwhLS0gQmFza2V0IC0tPgo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>notimplemented</last-search>
+      <last-search>handle_payment</last-search>
       <last-offset />
-      <last-pattern>notimplemented</last-pattern>
+      <last-pattern>handle_payment</last-pattern>
       <last-replace>TITLE</last-replace>
       <last-substitute>__title__</last-substitute>
       <last-dir>1</last-dir>
@@ -6355,7 +6374,6 @@
     </search>
     <history>
       <history-search>
-        <entry>send</entry>
         <entry>Choices</entry>
         <entry>CLAIM_SOURCE</entry>
         <entry>validated</entry>
@@ -6375,6 +6393,7 @@
         <entry>fsm</entry>
         <entry>move_line</entry>
         <entry>notimplemented</entry>
+        <entry>handle_payment</entry>
       </history-search>
       <history-cmd>
         <entry>3</entry>
