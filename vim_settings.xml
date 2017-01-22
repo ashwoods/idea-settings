@@ -403,10 +403,10 @@
         <mark key="^" line="24" column="32" />
         <mark key="." line="24" column="32" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/shop/checkout/views.py" timestamp="1484923332469">
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="32" />
-        <mark key="." line="0" column="32" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/shop/checkout/views.py" timestamp="1485106831626">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
         <mark key="^" line="0" column="32" />
       </file>
       <file name="$USER_HOME$/code/ansible-fullstack-django/README.rst" timestamp="1479119496024">
@@ -6332,7 +6332,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>F</text>
@@ -6344,31 +6344,31 @@
         <text encoding="base64">ICAgICAgICAgc2VsZi5maWVsZHNbJ2JpcnRoX2RhdGUnXS5yZXF1aXJlZCA9IFRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5yZXF1ZXN0LnVzZXIucHJvZmlsZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5yZXF1ZXN0LnVzZXIucHJvZmlsZQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9jb3JyZWxhdGlvbl9pZCA9IGNvcnJlbGF0aW9uX2lkCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jb3JyZWxhdGlvbl9pZCA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9jb3JyZWxhdGlvbl9pZCA9IGNvcnJlbGF0aW9uX2lkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvcnJlbGF0aW9uX2lkPWNvcnJlbGF0aW9uX2lkLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jb3JyZWxhdGlvbl9pZCA9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvcnJlbGF0aW9uX2lkPWNvcnJlbGF0aW9uX2lkLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
