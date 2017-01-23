@@ -2129,7 +2129,7 @@
         <mark key="^" line="18" column="81" />
         <mark key="." line="18" column="81" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/models/movies.py" timestamp="1485188446033">
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/models/movies.py" timestamp="1485190610265">
         <mark key="[" line="171" column="17" />
         <mark key="]" line="171" column="35" />
         <mark key="." line="171" column="35" />
@@ -2189,11 +2189,11 @@
         <mark key="^" line="209" column="17" />
         <mark key="." line="209" column="17" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/shop/basket/views.py" timestamp="1485189190031">
-        <mark key="[" line="95" column="30" />
-        <mark key="]" line="97" column="7" />
-        <mark key="^" line="97" column="7" />
-        <mark key="." line="97" column="7" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/shop/basket/views.py" timestamp="1485191368956">
+        <mark key="[" line="105" column="71" />
+        <mark key="]" line="105" column="81" />
+        <mark key="." line="105" column="81" />
+        <mark key="^" line="105" column="81" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitz/apps/carton/tests/test_transitions.py" timestamp="1440490265928">
         <mark key="[" line="1" column="5" />
@@ -3616,11 +3616,10 @@
         <mark key="." line="182" column="43" />
         <mark key="^" line="182" column="43" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/core/account_detail.html" timestamp="1485111920797">
-        <mark key="[" line="35" column="10" />
-        <mark key="]" line="35" column="10" />
-        <mark key="^" line="28" column="56" />
-        <mark key="." line="35" column="10" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/core/account_detail.html" timestamp="1485191446431">
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="8" />
+        <mark key="." line="20" column="8" />
       </file>
       <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/roles/app/main.yml" timestamp="1478788676296">
         <mark key="[" line="46" column="0" />
@@ -4833,6 +4832,11 @@
         <mark key="^" line="7" column="73" />
         <mark key="." line="7" column="73" />
       </file>
+      <file name="$USER_HOME$/code/django-oscar-opp/oscar_opp/views.py" timestamp="1484923877062">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+      </file>
       <file name="$USER_HOME$/code/perfect_gift_backend_neu/.gitignore" timestamp="1479313817096">
         <mark key="[" line="89" column="0" />
         <mark key="]" line="91" column="6" />
@@ -5810,7 +5814,7 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/contrib/profiles/models.py" timestamp="1485185180759">
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/contrib/profiles/models.py" timestamp="1485189915044">
         <mark key="[" line="68" column="58" />
         <mark key="]" line="68" column="59" />
         <mark key="." line="68" column="59" />
@@ -6377,8 +6381,8 @@
       <jump line="144" column="0" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/src/django-oscar-opp/oscar_opp/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0idGFic19fdGFiIGFjdGl2ZSIgaWQ9ImZpbG1lIiBkYXRhLXRhYi10YWI+CiAgICAgICAgICA8ZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJtb3ZpZS1saXN0Ij4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJtb3ZpZS1saXN0X19yb3cgbW92aWUtbGlzdF9fcm93LS1oZWFkaW5nIj4KICAgICAgICAgICAgICAgIDxoMj5HZWthdWZ0PC9oMj4KICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgeyUgZm9yIG1vdmllIGluIHJlcXVlc3QudXNlci5wcm9maWxlLmdldF9tb3ZpZXMgJX0KICAgICAgICAgICAgICAgIHslIGluY2x1ZGUgJ2NvcmUvcGFydGlhbHMvbW92aWVfbGlzdF9pdGVtLmh0bWwnIHdpdGggbW92aWU9bW92aWUgb25seSAlfQogICAgICAgICAgICAgIHslIGVuZGZvciAlfQogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2Pg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -6389,29 +6393,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgc2VsZi5maWVsZHNbJ2JpcnRoX2RhdGUnXS5yZXF1aXJlZCA9IFRydWUK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0idGFic19fdGFiIGFjdGl2ZSIgaWQ9ImZpbG1lIiBkYXRhLXRhYi10YWI+CiAgICAgICAgICA8ZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJtb3ZpZS1saXN0Ij4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJtb3ZpZS1saXN0X19yb3cgbW92aWUtbGlzdF9fcm93LS1oZWFkaW5nIj4KICAgICAgICAgICAgICAgIDxoMj5HZWthdWZ0PC9oMj4KICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgeyUgZm9yIG1vdmllIGluIHJlcXVlc3QudXNlci5wcm9maWxlLmdldF9tb3ZpZXMgJX0KICAgICAgICAgICAgICAgIHslIGluY2x1ZGUgJ2NvcmUvcGFydGlhbHMvbW92aWVfbGlzdF9pdGVtLmh0bWwnIHdpdGggbW92aWU9bW92aWUgb25seSAlfQogICAgICAgICAgICAgIHslIGVuZGZvciAlfQogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2Pg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb3ZpZV9hY3RpdmUgPSBGYWxzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW92aWUgPSBmb3JtLnByb2R1Y3QubW92aWVfcHVyY2hhc2UuZ2V0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBtb3ZpZV9hY3RpdmUgPSBGYWxzZQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
