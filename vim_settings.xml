@@ -2864,11 +2864,11 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/base.py" timestamp="1484842425270">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="120" column="26" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/base.py" timestamp="1485347303731">
+        <mark key="[" line="150" column="22" />
+        <mark key="]" line="150" column="22" />
+        <mark key="^" line="150" column="22" />
+        <mark key="." line="150" column="22" />
       </file>
       <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/cinema/contrib/__init__.py" timestamp="1474540986671">
         <mark key="[" line="0" column="0" />
@@ -5828,11 +5828,11 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/contrib/profiles/models.py" timestamp="1485343027389">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="49" column="36" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/contrib/profiles/models.py" timestamp="1485347656197">
+        <mark key="[" line="88" column="32" />
+        <mark key="]" line="88" column="32" />
+        <mark key="^" line="88" column="32" />
+        <mark key="." line="88" column="32" />
       </file>
       <file name="$USER_HOME$/code/Bildrecht_backend/src/django-monkeytranslate/monkeytranslate/apps.py" timestamp="1479746400052">
         <mark key="[" line="5" column="0" />
@@ -6395,52 +6395,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZpZWxkc1sndG9zX2FjY2VwdGVkJ10ucmVxdWlyZWQgPSBUcnVlCg==</text>
+        <text encoding="base64">ZnJvbSBhY3NwLmFwcHMuY29yZS5tb2RlbHMubW92aWVzIGltcG9ydCBNb3ZpZQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>ProfileForm</text>
+        <text>LANG</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgc2VsZi5maWVsZHNbJ2JpcnRoX2RhdGUnXS5yZXF1aXJlZCA9IFRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZpZWxkc1sndG9zX2FjY2VwdGVkJ10ucmVxdWlyZWQgPSBUcnVlCg==</text>
+        <text encoding="base64">ZnJvbSBhY3NwLmFwcHMuY29yZS5tb2RlbHMubW92aWVzIGltcG9ydCBNb3ZpZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0PUZhbHNlLCBoZWxwX3RleHQ9IkljaCBiaW4gZWludmVyc3RhbmRlbiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRvc19hY2NlcHRlZCA9IG1vZGVscy5Cb29sZWFuRmllbGQoCg==</text>
+        <text encoding="base64">ZGVmIG15X2hhbmRsZXIoc2VuZGVyLCAqKmt3YXJncyk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">QHJlY2VpdmVyKHByZV9zYXZlLCBzZW5kZXI9TXlNb2RlbCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8cD5TaWUgaGFiZW4gbnVuIDMwIFRhZ2UsIHVtIGRlbiBGaWxtIHp1IHN0YXJ0ZW4gdW5kIDMwIFN0dW5kZW4sIGlobiBhbnp1c2VoZW4uPC9wPgo=</text>
+        <text encoding="base64">ZnJvbSBteWFwcC5tb2RlbHMgaW1wb3J0IE15TW9kZWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8cD5WaWVsZW4gRGFuayBmw7xyIGRpZSBMZWloZSBkZXMgRmlsbXMgRGVyIEtub2NoZW5tYW5uITwvcD4K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZpZWxkc1sndG9zX2FjY2VwdGVkJ10ucmVxdWlyZWQgPSBUcnVlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bWVzc2FnZXMuQ09SRSA9IDUwCg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2VzLklORk86ICcnLAo=</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0PUZhbHNlLCBoZWxwX3RleHQ9IkljaCBiaW4gZWludmVyc3RhbmRlbiIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ProfileForm</last-search>
+      <last-search>LANG</last-search>
       <last-offset />
-      <last-pattern>ProfileForm</last-pattern>
+      <last-pattern>LANG</last-pattern>
       <last-replace>TITLE</last-replace>
       <last-substitute>__title__</last-substitute>
       <last-dir>1</last-dir>
@@ -6448,7 +6448,6 @@
     </search>
     <history>
       <history-search>
-        <entry>__title__</entry>
         <entry>TITLE</entry>
         <entry>self.object</entry>
         <entry>session</entry>
@@ -6468,6 +6467,7 @@
         <entry>currency</entry>
         <entry>signals</entry>
         <entry>ProfileForm</entry>
+        <entry>LANG</entry>
       </history-search>
       <history-cmd>
         <entry>3</entry>
