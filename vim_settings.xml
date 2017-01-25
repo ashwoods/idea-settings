@@ -42,7 +42,7 @@
         <mark key="^" line="72" column="24" />
         <mark key="." line="72" column="24" />
       </file>
-      <file name="/a.dummy" timestamp="1485267211261">
+      <file name="/a.dummy" timestamp="1485340203400">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -762,11 +762,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/base/base.html" timestamp="1485180540042">
-        <mark key="[" line="41" column="78" />
-        <mark key="]" line="41" column="81" />
-        <mark key="." line="41" column="81" />
-        <mark key="^" line="41" column="81" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/base/base.html" timestamp="1485339626849">
+        <mark key="[" line="33" column="56" />
+        <mark key="]" line="33" column="46" />
+        <mark key="." line="33" column="46" />
+        <mark key="^" line="33" column="46" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitz/apps/carton/urls.py" timestamp="1441892454641">
         <mark key="[" line="2" column="19" />
@@ -3619,8 +3619,11 @@
         <mark key="^" line="25" column="26" />
         <mark key="." line="25" column="26" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/project.py" timestamp="1485247966779">
-        <mark key="^" line="16" column="3" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/project.py" timestamp="1485339520563">
+        <mark key="[" line="178" column="13" />
+        <mark key="]" line="178" column="49" />
+        <mark key="^" line="178" column="49" />
+        <mark key="." line="178" column="49" />
       </file>
       <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/core/account_detail.html" timestamp="1485194530226">
         <mark key="[" line="6" column="0" />
@@ -4790,11 +4793,11 @@
         <mark key="^" line="75" column="49" />
         <mark key="." line="75" column="49" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/middleware.py" timestamp="1485188519543">
-        <mark key="[" line="61" column="47" />
-        <mark key="]" line="62" column="7" />
-        <mark key="." line="62" column="7" />
-        <mark key="^" line="62" column="7" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/middleware.py" timestamp="1485339650292">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="24" column="3" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitz/core/voting/models/__init__.py" timestamp="1442308165645">
         <mark key="[" line="1" column="0" />
@@ -6393,10 +6396,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29udHJpYi5hdXRoIGltcG9ydCB1cGRhdGVfc2Vzc2lvbl9hdXRoX2hhc2gK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Lyog</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>ProfileForm</text>
@@ -6405,31 +6408,31 @@
         <text encoding="base64">ICAgICAgICAgc2VsZi5maWVsZHNbJ2JpcnRoX2RhdGUnXS5yZXF1aXJlZCA9IFRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29udHJpYi5hdXRoIGltcG9ydCB1cGRhdGVfc2Vzc2lvbl9hdXRoX2hhc2gK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dHJ5Ogo=</text>
+        <text encoding="base64">ZWFzeV90aHVtYm5haWxzLmZpbGVzLmdldF90aHVtYm5haWxlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5pbnN0YW5jZQo=</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29udHJpYi5hdXRoIGltcG9ydCB1cGRhdGVfc2Vzc2lvbl9hdXRoX2hhc2gK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmluc3RhbmNlLnNhdmUoKQo=</text>
+        <text encoding="base64">dHJ5Ogo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">eyMgICAgICAgICAgPGlucHV0IHR5cGU9InBhc3N3b3JkIiBuYW1lPSJ1c2VyLW5ldy1wYXNzLXJlcCIgcGxhY2Vob2xkZXI9IlBhc3N3b3J0IGJlc3TDpHRpZ2VuIiBjbGFzcz0iZm9ybV9faW5wdXQiIHJlcXVpcmVkIC8+I30K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5pbnN0YW5jZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">eyMgICAgICAgICAgPGlucHV0IHR5cGU9InBhc3N3b3JkIiBuYW1lPSJ1c2VyLW5ldy1wYXNzIiBwbGFjZWhvbGRlcj0iTmV1ZXMgUGFzc3dvcnQiIGNsYXNzPSJmb3JtX19pbnB1dCIgcmVxdWlyZWQgLz4jfQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmluc3RhbmNlLnNhdmUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">eyMgICAgICAgICAgPGlucHV0IHR5cGU9InBhc3N3b3JkIiBuYW1lPSJ1c2VyLW9sZC1wYXNzIiBwbGFjZWhvbGRlcj0iQWx0ZXMgUGFzc3dvcnQiIGNsYXNzPSJmb3JtX19pbnB1dCIgcmVxdWlyZWQgLz4gI30K</text>
+        <text encoding="base64">eyMgICAgICAgICAgPGlucHV0IHR5cGU9InBhc3N3b3JkIiBuYW1lPSJ1c2VyLW5ldy1wYXNzLXJlcCIgcGxhY2Vob2xkZXI9IlBhc3N3b3J0IGJlc3TDpHRpZ2VuIiBjbGFzcz0iZm9ybV9faW5wdXQiIHJlcXVpcmVkIC8+I30K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAjICdiaXJ0aF9kYXRlJzogRGF0ZVNlbGVjdG9yV2lkZ2V0KCksCg==</text>
+        <text encoding="base64">eyMgICAgICAgICAgPGlucHV0IHR5cGU9InBhc3N3b3JkIiBuYW1lPSJ1c2VyLW5ldy1wYXNzIiBwbGFjZWhvbGRlcj0iTmV1ZXMgUGFzc3dvcnQiIGNsYXNzPSJmb3JtX19pbnB1dCIgcmVxdWlyZWQgLz4jfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAjICAgbGFiZWw9XygiUGFzc3dvcmQgY29uZmlybWF0aW9uIiksCg==</text>
+        <text encoding="base64">eyMgICAgICAgICAgPGlucHV0IHR5cGU9InBhc3N3b3JkIiBuYW1lPSJ1c2VyLW9sZC1wYXNzIiBwbGFjZWhvbGRlcj0iQWx0ZXMgUGFzc3dvcnQiIGNsYXNzPSJmb3JtX19pbnB1dCIgcmVxdWlyZWQgLz4gI30K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
