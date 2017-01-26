@@ -1140,11 +1140,12 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/views.py" timestamp="1485447478029">
-        <mark key="[" line="8" column="34" />
-        <mark key="]" line="9" column="31" />
-        <mark key="." line="9" column="31" />
-        <mark key="^" line="9" column="31" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/views.py" timestamp="1485450605339">
+        <mark key="'" line="14" column="17" />
+        <mark key="[" line="29" column="36" />
+        <mark key="]" line="29" column="20" />
+        <mark key="." line="29" column="20" />
+        <mark key="^" line="29" column="20" />
       </file>
       <file name="$USER_HOME$/Work/pywhale/image/devheaders.sh" timestamp="1403706304802">
         <mark key="[" line="2" column="42" />
@@ -6304,7 +6305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="43" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/base.py" />
       <jump line="296" column="23" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/base.py" />
       <jump line="8" column="28" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/base.py" />
       <jump line="7" column="16" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/src/django-oscar-opp/oscar_opp/tests/test_gateway.py" />
@@ -6404,6 +6404,7 @@
       <jump line="40" column="64" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/views.py" />
       <jump line="9" column="57" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/views.py" />
       <jump line="79" column="24" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/views.py" />
+      <jump line="14" column="17" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -6413,7 +6414,7 @@
         <text encoding="base64">ICAgICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text>LANG</text>
+        <text>super</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgc2VsZi5maWVsZHNbJ2JpcnRoX2RhdGUnXS5yZXF1aXJlZCA9IFRydWUK</text>
@@ -6450,9 +6451,9 @@
       </register>
     </registers>
     <search>
-      <last-search>LANG</last-search>
+      <last-search>super</last-search>
       <last-offset />
-      <last-pattern>LANG</last-pattern>
+      <last-pattern>super</last-pattern>
       <last-replace>TITLE</last-replace>
       <last-substitute>__title__</last-substitute>
       <last-dir>1</last-dir>
@@ -6460,7 +6461,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TITLE</entry>
         <entry>self.object</entry>
         <entry>session</entry>
         <entry>LOGIN</entry>
@@ -6480,6 +6480,7 @@
         <entry>signals</entry>
         <entry>ProfileForm</entry>
         <entry>LANG</entry>
+        <entry>super</entry>
       </history-search>
       <history-cmd>
         <entry>3</entry>
