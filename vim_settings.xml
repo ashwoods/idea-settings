@@ -1442,6 +1442,12 @@
         <mark key="^" line="1" column="81" />
         <mark key="." line="1" column="81" />
       </file>
+      <file name="$USER_HOME$/code/BurgtheaterWebsite/burg/apps/dispo/base.py" timestamp="1485865846653">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+      </file>
       <file name="$USER_HOME$/code/Bildrecht_backend/brecht/templates/frontend/account/profile_contact_address_delete.html" timestamp="1479811650266">
         <mark key="[" line="9" column="31" />
         <mark key="]" line="9" column="52" />
