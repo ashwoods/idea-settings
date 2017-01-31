@@ -1116,6 +1116,7 @@
         <mark key="^" line="5" column="8" />
         <mark key="." line="5" column="8" />
       </file>
+      <file name="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/oscar/apps/checkout/views.py" timestamp="1485709854503" />
       <file name="$USER_HOME$/code/nemesis/submitz/apps/simpleasset/encoder.py" timestamp="1425410773538">
         <mark key="[" line="29" column="55" />
         <mark key="]" line="29" column="55" />
@@ -1507,6 +1508,7 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
+      <file name="$USER_HOME$/code/BurgtheaterWebsite/README.rst" timestamp="1485859811771" />
       <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/shop/checkout/checkout/__init__.py" timestamp="1480338523621">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="36" />
