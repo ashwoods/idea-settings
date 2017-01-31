@@ -1507,6 +1507,12 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
+      <file name="$USER_HOME$/code/BurgtheaterWebsite/README.rst" timestamp="1485854634860">
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="18" />
+        <mark key="." line="13" column="18" />
+        <mark key="^" line="13" column="18" />
+      </file>
       <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/shop/checkout/checkout/__init__.py" timestamp="1480338523621">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="36" />
@@ -6394,7 +6400,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGxpbmUub3JkZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -6406,31 +6412,46 @@
         <text encoding="base64">ICAgIHRvcyA9IG1vZGVscy5GaWxlRmllbGQodXBsb2FkX3RvPWNvbnRlbnRfZmlsZV9uYW1lLCBtYXhfbGVuZ3RoPTIwMCwgYmxhbms9VHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGxpbmUub3JkZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsaW5lOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eyMgICAgICAgICAgPGlucHV0IHR5cGU9InBhc3N3b3JkIiBuYW1lPSJwYXNzd29yZCIgcGxhY2Vob2xkZXI9IlBhc3N3b3J0KiIgY2xhc3M9ImZvcm1fX2lucHV0IiByZXF1aXJlZD4jfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">eyMgICAgICAgICAgPGlucHV0IHR5cGU9ImVtYWlsIiBuYW1lPSJ1c2VybmFtZSIgcGxhY2Vob2xkZXI9IkUtTWFpbCoiIGNsYXNzPSJmb3JtX19pbnB1dCIgcmVxdWlyZWQ+I30K</text>
+      <register name="4" type="4">
+        <text>Manual setup for advanced users
+-------------------------------
+
+You might want to run python and/or the services in your local machine. We
+recommend using pyenv (https://github.com/yyuu/pyenv) for managing virtualenvs
+and python versions.
+
+Make sure you have all the necesary headers for building python and the projects
+dependencies.
+
+- Install requirements `pip install -r requirements/vagrant.txt`
+- Install the project package `pip install -e ./`
+- Create a superuser `manage.py createsuperuser`
+- Migrate db `manage.py migrate`
+- Runserver `manage.py runserver`
+- Run `manage.py bootsrap_fixtures`</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt7IGZvcm0gfX0K</text>
+        <text encoding="base64">ICBgY3AgLmVudi5leGFtcGxlIC5lbnZgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSBDb3B5IGFuZCBlZGl0IChpZiBuZWNlc2FyeSkgdGhlIC5lbnYtZXhhbXBsZSBmaWxlIHRvIC5lbnYK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGxpbmUub3JkZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBsaW5lOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eyMgICAgICAgICAgPGlucHV0IHR5cGU9InBhc3N3b3JkIiBuYW1lPSJwYXNzd29yZCIgcGxhY2Vob2xkZXI9IlBhc3N3b3J0KiIgY2xhc3M9ImZvcm1fX2lucHV0IiByZXF1aXJlZD4jfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
