@@ -1153,11 +1153,12 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/views.py" timestamp="1485874198574">
-        <mark key="'" line="18" column="17" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/views.py" timestamp="1485876266196">
+        <mark key="'" line="23" column="17" />
+        <mark key="[" line="198" column="4" />
+        <mark key="]" line="199" column="32" />
+        <mark key="." line="199" column="32" />
+        <mark key="^" line="199" column="32" />
       </file>
       <file name="$USER_HOME$/Work/pywhale/image/devheaders.sh" timestamp="1403706304802">
         <mark key="[" line="2" column="42" />
@@ -1261,11 +1262,11 @@
         <mark key="." line="5" column="44" />
         <mark key="^" line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/urls.py" timestamp="1485193602858">
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="14" column="21" />
-        <mark key="^" line="14" column="21" />
-        <mark key="." line="14" column="21" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/urls.py" timestamp="1485875831066">
+        <mark key="[" line="6" column="59" />
+        <mark key="]" line="16" column="24" />
+        <mark key="^" line="16" column="24" />
+        <mark key="." line="16" column="24" />
       </file>
       <file name="$USER_HOME$/code/perfect_gift_backend_neu/README.rst" timestamp="1478959026733">
         <mark key="[" line="46" column="0" />
@@ -1795,12 +1796,6 @@
         <mark key="]" line="505" column="49" />
         <mark key="^" line="505" column="49" />
         <mark key="." line="505" column="49" />
-      </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/src/django-oscar-opp/oscar_opp/views.py" timestamp="1485766214429">
-        <mark key="'" line="147" column="0" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/requirements/project.txt" timestamp="1485774192024">
         <mark key="[" line="7" column="0" />
@@ -4179,11 +4174,11 @@
         <mark key="^" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/core/invoice_list.html" timestamp="1485874581309">
-        <mark key="[" line="17" column="12" />
-        <mark key="]" line="20" column="9" />
-        <mark key="^" line="20" column="9" />
-        <mark key="." line="20" column="9" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/core/invoice_list.html" timestamp="1485875876522">
+        <mark key="[" line="22" column="22" />
+        <mark key="]" line="22" column="68" />
+        <mark key="^" line="22" column="68" />
+        <mark key="." line="22" column="68" />
       </file>
       <file name="$USER_HOME$/Work/submitz-nemesis/submitz/apps/invoices/admin.py" timestamp="1413797476069">
         <mark key="[" line="15" column="0" />
@@ -6039,12 +6034,6 @@
         <mark key="^" line="179" column="30" />
         <mark key="." line="179" column="30" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/core/players/teaser.js" timestamp="1485771750787">
-        <mark key="'" line="13" column="2" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/code/nemesis/supervisord.conf" timestamp="1455021598923">
         <mark key="[" line="17" column="17" />
         <mark key="]" line="17" column="12" />
@@ -6395,8 +6384,8 @@
       <jump line="13" column="2" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/core/players/teaser.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PHNwYW4gY2xhc3M9InN0YXR1cyI+R2VsaWVoZW48L3NwYW4+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBkamFuZ28udGVtcGxhdGUubG9hZGVyIGltcG9ydCBnZXRfdGVtcGxhdGUK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PHNwYW4gY2xhc3M9InN0YXR1cyI+R2VsaWVoZW48L3NwYW4+</text>
@@ -6408,31 +6397,31 @@
         <text encoding="base64">ICAgIHRvcyA9IG1vZGVscy5GaWxlRmllbGQodXBsb2FkX3RvPWNvbnRlbnRfZmlsZV9uYW1lLCBtYXhfbGVuZ3RoPTIwMCwgYmxhbms9VHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udGVtcGxhdGUubG9hZGVyIGltcG9ydCBnZXRfdGVtcGxhdGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29uZiBpbXBvcnQgc2V0dGluZ3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvYT4K</text>
+        <text encoding="base64">ICAgIHVzZXIgPSByZXF1ZXN0LnVzZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUERGCg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfcmVwb3J0KHJlcXVlc3QpOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWRvd25sb2FkIiBhcmlhLWhpZGRlbj0idHJ1ZSI+PC9pPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxhIGhyZWY9IiMiIGRvd25sb2FkPSJkb3dubG9hZCI+Cg==</text>
+        <text encoding="base64">ICAgIHJlcXVpcmVkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJpbnZvaWNlc19fZG93bmxvYWQiPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ZGQgICAgQGxvZ2luCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzcGFuPkRvbmF1wq1kYW1wZnNjaGlmZmFocnRzwq1lbGVrdHJpeml0w6R0ZW7CrWhhdXB0YmV0cmllYnN3ZXJrwq1iYXV1bnRlcmJlYW10ZW7CrWdlc2VsbHNjaGFmdDwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
