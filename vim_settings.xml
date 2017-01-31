@@ -42,7 +42,7 @@
         <mark key="^" line="72" column="24" />
         <mark key="." line="72" column="24" />
       </file>
-      <file name="/a.dummy" timestamp="1485864646872">
+      <file name="/a.dummy" timestamp="1485874323079">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1153,12 +1153,11 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/views.py" timestamp="1485873142308">
-        <mark key="'" line="16" column="17" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="6" column="62" />
-        <mark key="^" line="6" column="62" />
-        <mark key="." line="6" column="62" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/views.py" timestamp="1485874198574">
+        <mark key="'" line="18" column="17" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="." line="128" column="0" />
       </file>
       <file name="$USER_HOME$/Work/pywhale/image/devheaders.sh" timestamp="1403706304802">
         <mark key="[" line="2" column="42" />
@@ -2163,7 +2162,7 @@
         <mark key="^" line="18" column="81" />
         <mark key="." line="18" column="81" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/models/movies.py" timestamp="1485781144189">
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/models/movies.py" timestamp="1485873511384">
         <mark key="[" line="163" column="8" />
         <mark key="]" line="175" column="42" />
         <mark key="." line="175" column="42" />
@@ -4180,11 +4179,11 @@
         <mark key="^" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/core/invoice_list.html" timestamp="1485192594744">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="1" />
-        <mark key="." line="4" column="1" />
-        <mark key="^" line="4" column="1" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/core/invoice_list.html" timestamp="1485874581309">
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="20" column="9" />
+        <mark key="^" line="20" column="9" />
+        <mark key="." line="20" column="9" />
       </file>
       <file name="$USER_HOME$/Work/submitz-nemesis/submitz/apps/invoices/admin.py" timestamp="1413797476069">
         <mark key="[" line="15" column="0" />
@@ -6396,11 +6395,11 @@
       <jump line="13" column="2" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/core/players/teaser.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PHNwYW4gY2xhc3M9InN0YXR1cyI+R2VsaWVoZW48L3NwYW4+</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">PHNwYW4gY2xhc3M9InN0YXR1cyI+R2VsaWVoZW48L3NwYW4+</text>
       </register>
       <register name="/" type="4">
         <text>Basket</text>
@@ -6409,46 +6408,31 @@
         <text encoding="base64">ICAgIHRvcyA9IG1vZGVscy5GaWxlRmllbGQodXBsb2FkX3RvPWNvbnRlbnRfZmlsZV9uYW1lLCBtYXhfbGVuZ3RoPTIwMCwgYmxhbms9VHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvYT4K</text>
       </register>
-      <register name="4" type="4">
-        <text>Manual setup for advanced users
--------------------------------
-
-You might want to run python and/or the services in your local machine. We
-recommend using pyenv (https://github.com/yyuu/pyenv) for managing virtualenvs
-and python versions.
-
-Make sure you have all the necesary headers for building python and the projects
-dependencies.
-
-- Install requirements `pip install -r requirements/vagrant.txt`
-- Install the project package `pip install -e ./`
-- Create a superuser `manage.py createsuperuser`
-- Migrate db `manage.py migrate`
-- Runserver `manage.py runserver`
-- Run `manage.py bootsrap_fixtures`</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUERGCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBgY3AgLmVudi5leGFtcGxlIC5lbnZgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWRvd25sb2FkIiBhcmlhLWhpZGRlbj0idHJ1ZSI+PC9pPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LSBDb3B5IGFuZCBlZGl0IChpZiBuZWNlc2FyeSkgdGhlIC5lbnYtZXhhbXBsZSBmaWxlIHRvIC5lbnYK</text>
+        <text encoding="base64">ICAgICAgICAgIDxhIGhyZWY9IiMiIGRvd25sb2FkPSJkb3dubG9hZCI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGxpbmUub3JkZXIK</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJpbnZvaWNlc19fZG93bmxvYWQiPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsaW5lOgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">eyMgICAgICAgICAgPGlucHV0IHR5cGU9InBhc3N3b3JkIiBuYW1lPSJwYXNzd29yZCIgcGxhY2Vob2xkZXI9IlBhc3N3b3J0KiIgY2xhc3M9ImZvcm1fX2lucHV0IiByZXF1aXJlZD4jfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxzcGFuPkRvbmF1wq1kYW1wZnNjaGlmZmFocnRzwq1lbGVrdHJpeml0w6R0ZW7CrWhhdXB0YmV0cmllYnN3ZXJrwq1iYXV1bnRlcmJlYW10ZW7CrWdlc2VsbHNjaGFmdDwvc3Bhbj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
