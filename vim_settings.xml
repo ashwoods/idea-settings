@@ -630,11 +630,11 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/code/lustro/lustro/utils.py" timestamp="1485949289084">
-        <mark key="[" line="6" column="9" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/code/lustro/lustro/utils.py" timestamp="1485950498534">
+        <mark key="[" line="33" column="39" />
+        <mark key="]" line="38" column="12" />
+        <mark key="." line="38" column="12" />
+        <mark key="^" line="38" column="12" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitto/utils/sqldebug/pytest-sql-logger.py" timestamp="1447665741918">
         <mark key="[" line="0" column="0" />
@@ -6469,8 +6469,8 @@
       <jump line="199" column="4" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cmVzcG9uc2UgPSBjbGlfcnVubmVyLmludm9rZShjbGksIFsnMTY6MTAnXSwgIGlucHV0PXNhbXBsZSkKICAgIGFzc2VydCBub3QgcmVzcG9uc2UuZXhjZXB0aW9uCiAgICBhc3NlcnQgc3RyKHJlc3BvbnNlLm91dHB1dCkucnN0cmlwKCkgPT0gc3RyKHJlc3VsdCkucnN0cmlwKCkg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">4oCo</text>
@@ -6481,34 +6481,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRvcyA9IG1vZGVscy5GaWxlRmllbGQodXBsb2FkX3RvPWNvbnRlbnRfZmlsZV9uYW1lLCBtYXhfbGVuZ3RoPTIwMCwgYmxhbms9VHJ1ZSkK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">cmVzcG9uc2UgPSBjbGlfcnVubmVyLmludm9rZShjbGksIFsnMTY6MTAnXSwgIGlucHV0PXNhbXBsZSkKICAgIGFzc2VydCBub3QgcmVzcG9uc2UuZXhjZXB0aW9uCiAgICBhc3NlcnQgc3RyKHJlc3BvbnNlLm91dHB1dCkucnN0cmlwKCkgPT0gc3RyKHJlc3VsdCkucnN0cmlwKCkg</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>with open(os.path.join(current_path, 'result.txt')) as f:
         content = f.read()
     return content</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHJldHVybiBjb250ZW50Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBjb250ZW50ID0gZi5yZWFkKCkK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHdpdGggb3Blbihvcy5wYXRoLmpvaW4oY3VycmVudF9wYXRoLCAnc2FtcGxlLnR4dCcpKSBhcyBmOgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">TUFYX1NJWkUgPSAxMDI0KjEwMDAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnJvbSAudXRpbHMgaW1wb3J0IHBhcnNlX2Nyb24K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbXBmaWxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
