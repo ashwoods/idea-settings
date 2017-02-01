@@ -630,11 +630,10 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/code/lustro/lustro/utils.py" timestamp="1485950498534">
-        <mark key="[" line="33" column="39" />
-        <mark key="]" line="38" column="12" />
-        <mark key="." line="38" column="12" />
-        <mark key="^" line="38" column="12" />
+      <file name="$USER_HOME$/code/lustro/lustro/utils.py" timestamp="1485954368662">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitto/utils/sqldebug/pytest-sql-logger.py" timestamp="1447665741918">
         <mark key="[" line="0" column="0" />
@@ -1860,8 +1859,11 @@
         <mark key="^" line="10" column="32" />
         <mark key="." line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/code/lustro/setup.py" timestamp="1485946781551">
-        <mark key="[" line="12" column="16" />
+      <file name="$USER_HOME$/code/lustro/setup.py" timestamp="1485954415932">
+        <mark key="[" line="29" column="39" />
+        <mark key="]" line="13" column="20" />
+        <mark key="." line="13" column="20" />
+        <mark key="^" line="13" column="20" />
       </file>
       <file name="$USER_HOME$/code/submitto-phoenix/submitto/urls.py" timestamp="1467980195988">
         <mark key="[" line="35" column="15" />
@@ -1911,6 +1913,7 @@
         <mark key="^" line="92" column="12" />
         <mark key="." line="92" column="12" />
       </file>
+      <file name="$USER_HOME$/code/lustro/lustro/db.py" timestamp="1485954329420" />
       <file name="$USER_HOME$/code/Bildrecht_backend/brecht/core/profiles/models/accounting.py" timestamp="1470045852092">
         <mark key="[" line="122" column="16" />
         <mark key="]" line="122" column="12" />
@@ -6470,7 +6473,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnUHJvZ3JhbW1pbmcgTGFuZ3VhZ2UgOjogUHl0aG9uIDo6IDIuNycsCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">4oCo</text>
@@ -6482,33 +6485,31 @@
         <text encoding="base64">ICAgIHRvcyA9IG1vZGVscy5GaWxlRmllbGQodXBsb2FkX3RvPWNvbnRlbnRfZmlsZV9uYW1lLCBtYXhfbGVuZ3RoPTIwMCwgYmxhbms9VHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnUHJvZ3JhbW1pbmcgTGFuZ3VhZ2UgOjogUHl0aG9uIDo6IDIuNycsCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">cmVzcG9uc2UgPSBjbGlfcnVubmVyLmludm9rZShjbGksIFsnMTY6MTAnXSwgIGlucHV0PXNhbXBsZSkKICAgIGFzc2VydCBub3QgcmVzcG9uc2UuZXhjZXB0aW9uCiAgICBhc3NlcnQgc3RyKHJlc3BvbnNlLm91dHB1dCkucnN0cmlwKCkgPT0gc3RyKHJlc3VsdCkucnN0cmlwKCkg</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGN4X09yYWNsZQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>with open(os.path.join(current_path, 'result.txt')) as f:
-        content = f.read()
-    return content</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGN4X09yYWNsZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjb250ZW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gZi5yZWFkKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3Blbihvcy5wYXRoLmpvaW4oY3VycmVudF9wYXRoLCAnc2FtcGxlLnR4dCcpKSBhcyBmOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TUFYX1NJWkUgPSAxMDI0KjEwMDAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
