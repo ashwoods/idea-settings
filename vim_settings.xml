@@ -630,6 +630,12 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
+      <file name="$USER_HOME$/code/lustro/lustro/utils.py" timestamp="1485949289084">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/code/nemesis/submitto/utils/sqldebug/pytest-sql-logger.py" timestamp="1447665741918">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
@@ -737,6 +743,12 @@
         <mark key="]" line="324" column="62" />
         <mark key="^" line="324" column="62" />
         <mark key="." line="324" column="62" />
+      </file>
+      <file name="$USER_HOME$/code/lustro/tests/test_cli.py" timestamp="1485948213093">
+        <mark key="[" line="3" column="39" />
+        <mark key="]" line="3" column="54" />
+        <mark key="." line="3" column="54" />
+        <mark key="^" line="3" column="54" />
       </file>
       <file name="$USER_HOME$/code/submitto-phoenix/submitto/templates/core/entries/templatetags/records.html" timestamp="1467202217206">
         <mark key="[" line="0" column="23" />
@@ -1116,7 +1128,6 @@
         <mark key="^" line="5" column="8" />
         <mark key="." line="5" column="8" />
       </file>
-      <file name="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/oscar/apps/checkout/views.py" timestamp="1485709854503" />
       <file name="$USER_HOME$/code/nemesis/submitz/apps/simpleasset/encoder.py" timestamp="1425410773538">
         <mark key="[" line="29" column="55" />
         <mark key="]" line="29" column="55" />
@@ -1513,7 +1524,6 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/code/BurgtheaterWebsite/README.rst" timestamp="1485860792316" />
       <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/shop/checkout/checkout/__init__.py" timestamp="1480338523621">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="36" />
@@ -1850,6 +1860,9 @@
         <mark key="^" line="10" column="32" />
         <mark key="." line="10" column="32" />
       </file>
+      <file name="$USER_HOME$/code/lustro/setup.py" timestamp="1485946781551">
+        <mark key="[" line="12" column="16" />
+      </file>
       <file name="$USER_HOME$/code/submitto-phoenix/submitto/urls.py" timestamp="1467980195988">
         <mark key="[" line="35" column="15" />
         <mark key="]" line="35" column="10" />
@@ -2166,6 +2179,12 @@
         <mark key="]" line="175" column="42" />
         <mark key="." line="175" column="42" />
         <mark key="^" line="175" column="42" />
+      </file>
+      <file name="$USER_HOME$/code/lustro/tests/conftest.py" timestamp="1485948221910">
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="9" column="9" />
+        <mark key="." line="9" column="9" />
+        <mark key="^" line="9" column="9" />
       </file>
       <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/shop/checkout/app.py" timestamp="1485111775524">
         <mark key="[" line="7" column="0" />
@@ -5464,6 +5483,12 @@
         <mark key="^" line="3" column="56" />
         <mark key="." line="3" column="56" />
       </file>
+      <file name="$USER_HOME$/code/lustro/lustro/cli.py" timestamp="1485948596768">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="9" column="39" />
+      </file>
       <file name="$USER_HOME$/code/django-polla/tests/app/factories.py" timestamp="1436463388837">
         <mark key="[" line="6" column="5" />
         <mark key="]" line="6" column="4" />
@@ -6445,60 +6470,61 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">4oCo</text>
+        <text encoding="base64">cmVzcG9uc2UgPSBjbGlfcnVubmVyLmludm9rZShjbGksIFsnMTY6MTAnXSwgIGlucHV0PXNhbXBsZSkKICAgIGFzc2VydCBub3QgcmVzcG9uc2UuZXhjZXB0aW9uCiAgICBhc3NlcnQgc3RyKHJlc3BvbnNlLm91dHB1dCkucnN0cmlwKCkgPT0gc3RyKHJlc3VsdCkucnN0cmlwKCkg</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">4oCo</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdHlsZXNoZWV0XD4=</text>
+        <text>ascntr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRvcyA9IG1vZGVscy5GaWxlRmllbGQodXBsb2FkX3RvPWNvbnRlbnRfZmlsZV9uYW1lLCBtYXhfbGVuZ3RoPTIwMCwgYmxhbms9VHJ1ZSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">cmVzcG9uc2UgPSBjbGlfcnVubmVyLmludm9rZShjbGksIFsnMTY6MTAnXSwgIGlucHV0PXNhbXBsZSkKICAgIGFzc2VydCBub3QgcmVzcG9uc2UuZXhjZXB0aW9uCiAgICBhc3NlcnQgc3RyKHJlc3BvbnNlLm91dHB1dCkucnN0cmlwKCkgPT0gc3RyKHJlc3VsdCkucnN0cmlwKCkg</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+      <register name="2" type="4">
+        <text>with open(os.path.join(current_path, 'result.txt')) as f:
+        content = f.read()
+    return content</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udGVtcGxhdGUubG9hZGVyIGltcG9ydCBnZXRfdGVtcGxhdGUK</text>
+        <text encoding="base64">ICAgIHJldHVybiBjb250ZW50Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29uZiBpbXBvcnQgc2V0dGluZ3MK</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gZi5yZWFkKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVzZXIgPSByZXF1ZXN0LnVzZXIK</text>
+        <text encoding="base64">ICAgIHdpdGggb3Blbihvcy5wYXRoLmpvaW4oY3VycmVudF9wYXRoLCAnc2FtcGxlLnR4dCcpKSBhcyBmOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfcmVwb3J0KHJlcXVlc3QpOgo=</text>
+        <text encoding="base64">TUFYX1NJWkUgPSAxMDI0KjEwMDAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmVkCg==</text>
+        <text encoding="base64">ZnJvbSAudXRpbHMgaW1wb3J0IHBhcnNlX2Nyb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHRlbXBmaWxlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdHlsZXNoZWV0XD4=</last-search>
+      <last-search>ascntr</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdHlsZXNoZWV0XD4=</last-pattern>
-      <last-replace>TITLE</last-replace>
-      <last-substitute>__title__</last-substitute>
+      <last-pattern>ascntr</last-pattern>
+      <last-replace>lustro</last-replace>
+      <last-substitute>ascntr</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx9XD4=</entry>
         <entry>ipdb</entry>
         <entry>self.instance4</entry>
         <entry>instance</entry>
@@ -6518,9 +6544,9 @@
         <entry>basket</entry>
         <entry>Basket</entry>
         <entry encoding="base64">XDxzdHlsZXNoZWV0XD4=</entry>
+        <entry>ascntr</entry>
       </history-search>
       <history-cmd>
-        <entry>3</entry>
         <entry>w2</entry>
         <entry>q</entry>
         <entry>243</entry>
@@ -6539,6 +6565,7 @@
         <entry>ew</entry>
         <entry>W</entry>
         <entry>wq</entry>
+        <entry>s/ascntr/lustro</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
