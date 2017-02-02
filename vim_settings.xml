@@ -1915,10 +1915,11 @@
         <mark key="^" line="92" column="12" />
         <mark key="." line="92" column="12" />
       </file>
-      <file name="$USER_HOME$/code/lustro/lustro/db.py" timestamp="1485969884800">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/code/lustro/lustro/db.py" timestamp="1486027788167">
+        <mark key="[" line="59" column="24" />
+        <mark key="]" line="59" column="46" />
+        <mark key="." line="59" column="46" />
+        <mark key="^" line="59" column="46" />
       </file>
       <file name="$USER_HOME$/code/Bildrecht_backend/brecht/core/profiles/models/accounting.py" timestamp="1470045852092">
         <mark key="[" line="122" column="16" />
