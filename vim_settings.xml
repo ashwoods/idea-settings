@@ -876,10 +876,11 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/code/BurgtheaterWebsite/burg/apps/main/wagtail_hooks.py" timestamp="1487085359235">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/code/BurgtheaterWebsite/burg/apps/main/wagtail_hooks.py" timestamp="1487088675753">
+        <mark key="[" line="8" column="48" />
+        <mark key="]" line="8" column="48" />
+        <mark key="^" line="34" column="19" />
+        <mark key="." line="8" column="48" />
       </file>
       <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/cinema/urls.py" timestamp="1475257232969">
         <mark key="[" line="21" column="52" />
@@ -965,11 +966,11 @@
         <mark key="^" line="71" column="50" />
         <mark key="." line="71" column="50" />
       </file>
-      <file name="$USER_HOME$/code/BurgtheaterWebsite/burg/contrib/dispo/wagtail_hooks.py" timestamp="1487086516622">
-        <mark key="[" line="28" column="18" />
-        <mark key="]" line="28" column="17" />
-        <mark key="^" line="28" column="17" />
-        <mark key="." line="28" column="17" />
+      <file name="$USER_HOME$/code/BurgtheaterWebsite/burg/contrib/dispo/wagtail_hooks.py" timestamp="1487091228654">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="30" column="0" />
       </file>
       <file name="$USER_HOME$/code/submitto-phoenix/Vagrantfile" timestamp="1474012120487">
         <mark key="[" line="29" column="2" />
@@ -2144,6 +2145,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="6" column="33" />
       </file>
+      <file name="$USER_HOME$/code/BurgtheaterWebsite/burg/apps/main/models/__init__.py" timestamp="1487088825982">
+        <mark key="[" line="1" column="49" />
+        <mark key="]" line="1" column="48" />
+        <mark key="^" line="1" column="48" />
+        <mark key="." line="1" column="48" />
+      </file>
       <file name="$USER_HOME$/code/nemesis/submitto/core/entries/mixins/views.py" timestamp="1448301592637">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -2240,6 +2247,11 @@
         <mark key="]" line="1" column="4" />
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/BurgtheaterWebsite/burg/apps/main/models/snippets.py" timestamp="1487088775748">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="145" column="0" />
       </file>
       <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/core/partials/message_box.html" timestamp="1485342885127">
         <mark key="[" line="4" column="0" />
@@ -3330,11 +3342,11 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/code/BurgtheaterWebsite/burg/contrib/dispo/models.py" timestamp="1487085276641">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="32" column="25" />
-        <mark key="." line="32" column="25" />
-        <mark key="^" line="32" column="25" />
+      <file name="$USER_HOME$/code/BurgtheaterWebsite/burg/contrib/dispo/models.py" timestamp="1487090150291">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="16" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitto/contrib/profiles/urls.py" timestamp="1453736051819">
         <mark key="[" line="10" column="134" />
@@ -4025,7 +4037,7 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/code/BurgtheaterWebsite/burg/settings/project.py" timestamp="1487084187333">
+      <file name="$USER_HOME$/code/BurgtheaterWebsite/burg/settings/project.py" timestamp="1487087225319">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="25" />
         <mark key="." line="14" column="0" />
@@ -5509,6 +5521,11 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
+      <file name="$USER_HOME$/code/BurgtheaterWebsite/burg/apps/main/migrations/0024_abo2_sponsor2.py" timestamp="1487088643851">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/submitz-nemesis/submitz/apps/dashboards/urls.py" timestamp="1406888238577">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="5" column="26" />
@@ -6514,10 +6531,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQcm9kdWt0aW9uTW9kZWxBZG1pbiwK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICA=</text>
+        <text>pancakies</text>
       </register>
       <register name="/" type="4">
         <text>ascntr</text>
@@ -6526,31 +6543,31 @@
         <text encoding="base64">ICAgICAgICAnUHJvZ3JhbW1pbmcgTGFuZ3VhZ2UgOjogUHl0aG9uIDo6IDIuNycsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQcm9kdWt0aW9uTW9kZWxBZG1pbiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBCZXNldHp1bmdNb2RlbEFkbWluLAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICBkZWYgZ2V0X21lbnVfaXRlbShzZWxmLCBvcmRlcj1Ob25lKToKICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBFdmVudE1vZGVsQWRtaW4sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfbWVudV9pY29uKHNlbGYsIG9yZGVyPU5vbmUpOgo=</text>
+        <text encoding="base64">ICAgIG1lbnVfb3JkZXIgPSAyMDUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4Y2x1ZGVfZnJvbV9leHBsb3JlciA9IEZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICBBYm9Nb2RlbEFkbWluCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1lbnVfb3JkZXIgPSAyMDAgICMgd2lsbCBwdXQgaW4gM3JkIHBsYWNlICgwMDAgYmVpbmcgMXN0LCAxMDAgMm5kKQo=</text>
+        <text encoding="base64">ICAgIGV4Y2x1ZGVfZnJvbV9leHBsb3JlciA9IEZhbHNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFkZF90b19zZXR0aW5nc19tZW51ID0gVHJ1ZQo=</text>
+        <text encoding="base64">ICAgIGFkZF90b19zZXR0aW5nc19tZW51ID0gRmFsc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFkZAo=</text>
+        <text encoding="base64">QHJlZ2lzdGVyX3NuaXBwZXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bW9kZWxhZG1pbl9yZWdpc3RlcihNaXNjRGlzcG9Nb2RlbEFkbWluKQo=</text>
+        <text encoding="base64">QHJlZ2lzdGVyX3NuaXBwZXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
