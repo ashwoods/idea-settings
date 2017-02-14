@@ -15,6 +15,7 @@
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="development" type="PLAIN_TEXT" />
       <mapping pattern="_bak" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".coverage" type="PLAIN_TEXT" />
       <mapping pattern="medienzukunfstpreis.py" type="PLAIN_TEXT" />
       <mapping pattern="teamcity" type="PLAIN_TEXT" />
