@@ -966,11 +966,11 @@
         <mark key="^" line="71" column="50" />
         <mark key="." line="71" column="50" />
       </file>
-      <file name="$USER_HOME$/code/BurgtheaterWebsite/burg/contrib/dispo/wagtail_hooks.py" timestamp="1487091228654">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="30" column="0" />
+      <file name="$USER_HOME$/code/BurgtheaterWebsite/burg/contrib/dispo/wagtail_hooks.py" timestamp="1487093460431">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="3" />
       </file>
       <file name="$USER_HOME$/code/submitto-phoenix/Vagrantfile" timestamp="1474012120487">
         <mark key="[" line="29" column="2" />
@@ -6531,7 +6531,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9kdWt0aW9uTW9kZWxBZG1pbiwK</text>
+        <text encoding="base64">ICAgIDp3Cg==</text>
       </register>
       <register name="-" type="4">
         <text>pancakies</text>
@@ -6543,28 +6543,28 @@
         <text encoding="base64">ICAgICAgICAnUHJvZ3JhbW1pbmcgTGFuZ3VhZ2UgOjogUHl0aG9uIDo6IDIuNycsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9kdWt0aW9uTW9kZWxBZG1pbiwK</text>
+        <text encoding="base64">ICAgIDp3Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBCZXNldHp1bmdNb2RlbEFkbWluLAo=</text>
+        <text encoding="base64">ICAgICAgICBQcm9kdWt0aW9uTW9kZWxBZG1pbiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBFdmVudE1vZGVsQWRtaW4sCg==</text>
+        <text encoding="base64">ICAgICAgICBCZXNldHp1bmdNb2RlbEFkbWluLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1lbnVfb3JkZXIgPSAyMDUK</text>
+        <text encoding="base64">ICAgICAgICBFdmVudE1vZGVsQWRtaW4sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBYm9Nb2RlbEFkbWluCg==</text>
+        <text encoding="base64">ICAgIG1lbnVfb3JkZXIgPSAyMDUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4Y2x1ZGVfZnJvbV9leHBsb3JlciA9IEZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICBBYm9Nb2RlbEFkbWluCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFkZF90b19zZXR0aW5nc19tZW51ID0gRmFsc2UK</text>
+        <text encoding="base64">ICAgIGV4Y2x1ZGVfZnJvbV9leHBsb3JlciA9IEZhbHNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QHJlZ2lzdGVyX3NuaXBwZXQK</text>
+        <text encoding="base64">ICAgIGFkZF90b19zZXR0aW5nc19tZW51ID0gRmFsc2UK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">QHJlZ2lzdGVyX3NuaXBwZXQK</text>
