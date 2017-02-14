@@ -2983,10 +2983,11 @@
         <mark key="^" line="30" column="38" />
         <mark key="." line="30" column="38" />
       </file>
-      <file name="$USER_HOME$/code/BurgtheaterWebsite/docker-compose.yml" timestamp="1484669351229">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/code/BurgtheaterWebsite/docker-compose.yml" timestamp="1487065467026">
+        <mark key="[" line="28" column="35" />
+        <mark key="]" line="29" column="7" />
+        <mark key="." line="29" column="7" />
+        <mark key="^" line="29" column="7" />
       </file>
       <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/src/django-oscar-viveum/opp/copyandpay/gateway.py" timestamp="1480341448472">
         <mark key="[" line="2" column="0" />
@@ -5257,11 +5258,11 @@
         <mark key="^" line="3" column="4" />
         <mark key="." line="3" column="4" />
       </file>
-      <file name="$USER_HOME$/code/BurgtheaterWebsite/.env" timestamp="1487064319498">
+      <file name="$USER_HOME$/code/BurgtheaterWebsite/.env" timestamp="1487065435591">
         <mark key="[" line="8" column="24" />
-        <mark key="]" line="8" column="24" />
-        <mark key="^" line="8" column="24" />
-        <mark key="." line="8" column="24" />
+        <mark key="]" line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+        <mark key="." line="8" column="31" />
       </file>
       <file name="$USER_HOME$/Work/submitz-nemesis/submitz/templates/admin/import_export/change_list_import_export.html" timestamp="1397742246025">
         <mark key="[" line="3" column="29" />
