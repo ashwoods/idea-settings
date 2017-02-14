@@ -42,12 +42,6 @@
         <mark key="^" line="72" column="24" />
         <mark key="." line="72" column="24" />
       </file>
-      <file name="/a.dummy" timestamp="1485874984397">
-        <mark key="e" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/nemesis/submitto/core/clients/admin.py" timestamp="1446458996629">
         <mark key="[" line="9" column="102" />
         <mark key="]" line="9" column="104" />
@@ -2258,6 +2252,12 @@
         <mark key="." line="37" column="22" />
         <mark key="^" line="37" column="22" />
       </file>
+      <file name="$USER_HOME$/code/BurgtheaterWebsite/.env.example" timestamp="1487064355081">
+        <mark key="[" line="8" column="39" />
+        <mark key="]" line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+        <mark key="." line="8" column="31" />
+      </file>
       <file name="$USER_HOME$/code/nemesis/submitz/apps/carton/tests/test_transitions.py" timestamp="1440490265928">
         <mark key="[" line="1" column="5" />
         <mark key="]" line="1" column="24" />
@@ -3472,12 +3472,6 @@
         <mark key="]" line="19" column="4" />
         <mark key="^" line="19" column="4" />
         <mark key="." line="19" column="4" />
-      </file>
-      <file name="$USER_HOME$/code/BurgtheaterWebsite/requirements/project.in" timestamp="1485864694870">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="19" />
-        <mark key="^" line="10" column="19" />
-        <mark key="." line="10" column="19" />
       </file>
       <file name="$USER_HOME$/code/ansible-uwsgi-emperor/tasks/install-pip3.yml" timestamp="1478858122834">
         <mark key="[" line="6" column="12" />
@@ -5262,6 +5256,12 @@
         <mark key="]" line="3" column="4" />
         <mark key="^" line="3" column="4" />
         <mark key="." line="3" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/BurgtheaterWebsite/.env" timestamp="1487064319498">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="24" />
+        <mark key="^" line="8" column="24" />
+        <mark key="." line="8" column="24" />
       </file>
       <file name="$USER_HOME$/Work/submitz-nemesis/submitz/templates/admin/import_export/change_list_import_export.html" timestamp="1397742246025">
         <mark key="[" line="3" column="29" />
