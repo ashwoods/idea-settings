@@ -708,6 +708,12 @@
         <mark key="^" line="36" column="45" />
         <mark key="." line="36" column="45" />
       </file>
+      <file name="$USER_HOME$/code/BurgtheaterWebsite/burg/templates/base.html" timestamp="1487171106287">
+        <mark key="[" line="60" column="7" />
+        <mark key="]" line="62" column="14" />
+        <mark key="." line="62" column="14" />
+        <mark key="^" line="62" column="14" />
+      </file>
       <file name="$USER_HOME$/Work/submitz-nemesis/submitz/apps/awards/factories.py" timestamp="1422360518378">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="12" column="0" />
@@ -786,7 +792,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/base/base.html" timestamp="1485520967385">
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/base/base.html" timestamp="1487170940433">
         <mark key="[" line="33" column="56" />
         <mark key="]" line="33" column="46" />
         <mark key="." line="33" column="46" />
@@ -869,6 +875,13 @@
         <mark key="]" line="18" column="47" />
         <mark key="." line="18" column="47" />
         <mark key="^" line="18" column="47" />
+      </file>
+      <file name="$USER_HOME$/code/BurgtheaterWebsite/burg/templates/main/production_page.html" timestamp="1487171570912">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="0" column="41" />
+        <mark key="^" line="0" column="41" />
+        <mark key="." line="0" column="41" />
       </file>
       <file name="$USER_HOME$/code/submitto-phoenix/submitto/conf/02-backends.py" timestamp="1473705691974">
         <mark key="[" line="11" column="0" />
@@ -1759,7 +1772,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/core/cinema_detail.html" timestamp="1485109623702">
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/core/cinema_detail.html" timestamp="1487171158567">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="16" />
         <mark key="^" line="2" column="16" />
@@ -3712,7 +3725,7 @@
         <mark key="^" line="25" column="26" />
         <mark key="." line="25" column="26" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/core/account_detail.html" timestamp="1485194530226">
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/core/account_detail.html" timestamp="1487170980354">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="5" column="46" />
@@ -6426,7 +6439,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="5" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/project.py" />
       <jump line="54" column="15" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/project.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/requirements/local.txt" />
       <jump line="435" column="8" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
@@ -6526,6 +6538,7 @@
       <jump line="199" column="4" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/views.py" />
       <jump line="32" column="34" filename="$USER_HOME$/code/lustro/setup.py" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/706d839f-0683-4e31-b848-150960e0aa26/console.sql" />
+      <jump line="2" column="0" filename="$USER_HOME$/code/BurgtheaterWebsite/burg/templates/main/production_page.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -6546,26 +6559,26 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ICBkZWYgZ2V0X3F1ZXJ5c2V0KHNlbGYsIHJlcXVlc3QpOgogICAgICAgIHFzID0gc3VwZXIoKS5nZXRfcXVlcnlzZXQocmVxdWVzdCkKICAgICAgICAjIHFzID0gcXMuYW5ub3RhdGUocHJvZHVrdGlvbl9kaXNwbGF5PVJhd1NRTCgKICAgICAgICAjICAgICAiU0VMRUNUIERJU1RJTkNUIHdlYmludGVyZmFjZV9wcm9kdWt0aW9uZW4udGl0ZWwgZnJvbSB3ZWJpbnRlcmZhY2VfcHJvZHVrdGlvbmVuLCB3ZWJpbnRlcmZhY2VfZXZlbnRzIgogICAgICAgICMgICAgICIgV0hFUkUgd2ViaW50ZXJmYWNlX3Byb2R1a3Rpb25lbi5wcm9kdWt0aW9uX2lkID0gd2ViaW50ZXJmYWNlX2V2ZW50cy5wcm9kdWt0aW9uX2lkIiwKICAgICAgICAjICAgICBwYXJhbXM9KCkpKQogICAgICAgICMgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkKICAgICAgICByZXR1cm4gcXM=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIDp3Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBQcm9kdWt0aW9uTW9kZWxBZG1pbiwK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBCZXNldHp1bmdNb2RlbEFkbWluLAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBFdmVudE1vZGVsQWRtaW4sCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIG1lbnVfb3JkZXIgPSAyMDUK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBYm9Nb2RlbEFkbWluCg==</text>
+        <text encoding="base64">ICAgIG1lbnVfb3JkZXIgPSAyMDUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
