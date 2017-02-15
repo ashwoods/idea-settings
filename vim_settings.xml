@@ -1609,9 +1609,6 @@
         <mark key="." line="24" column="21" />
         <mark key="^" line="24" column="21" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/706d839f-0683-4e31-b848-150960e0aa26/console.sql" timestamp="1486031570410">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/submitz-nemesis/submitz/apps/accounts/templates/accounts/profile.haml" timestamp="1418383498250">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
@@ -2258,6 +2255,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/code/BurgtheaterWebsite/burg/apps/main/models/pages/detail.py" timestamp="1487168116978" />
       <file name="$USER_HOME$/code/opera.core/opli/core/content/models.py" timestamp="1466774462644">
         <mark key="[" line="47" column="44" />
         <mark key="]" line="47" column="29" />
