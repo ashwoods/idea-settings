@@ -42,7 +42,7 @@
         <mark key="^" line="72" column="24" />
         <mark key="." line="72" column="24" />
       </file>
-      <file name="/a.dummy" timestamp="1487243555327">
+      <file name="/a.dummy" timestamp="1487271786936">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -786,11 +786,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/base/base.html" timestamp="1487170940433">
-        <mark key="[" line="33" column="56" />
-        <mark key="]" line="33" column="46" />
-        <mark key="." line="33" column="46" />
-        <mark key="^" line="33" column="46" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/base/base.html" timestamp="1487271834478">
+        <mark key="[" line="78" column="43" />
+        <mark key="]" line="78" column="43" />
+        <mark key="^" line="78" column="43" />
+        <mark key="." line="78" column="43" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitz/apps/carton/urls.py" timestamp="1441892454641">
         <mark key="[" line="2" column="19" />
@@ -3729,10 +3729,10 @@
         <mark key="." line="25" column="26" />
       </file>
       <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/core/account_detail.html" timestamp="1487170980354">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="5" column="46" />
-        <mark key="." line="6" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="10" column="46" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/code/ansible-fullstack-django/provisioning/roles/app/main.yml" timestamp="1478788676296">
         <mark key="[" line="46" column="0" />
@@ -6556,7 +6556,7 @@
         <text>pancakies</text>
       </register>
       <register name="/" type="4">
-        <text>allowed</text>
+        <text>abmelden</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnUHJvZ3JhbW1pbmcgTGFuZ3VhZ2UgOjogUHl0aG9uIDo6IDIuNycsCg==</text>
@@ -6593,9 +6593,9 @@
       </register>
     </registers>
     <search>
-      <last-search>allowed</last-search>
+      <last-search>abmelden</last-search>
       <last-offset />
-      <last-pattern>allowed</last-pattern>
+      <last-pattern>abmelden</last-pattern>
       <last-replace>lustro</last-replace>
       <last-substitute>ascntr</last-substitute>
       <last-dir>1</last-dir>
@@ -6603,7 +6603,6 @@
     </search>
     <history>
       <history-search>
-        <entry>self.instance4</entry>
         <entry>instance</entry>
         <entry>SITE</entry>
         <entry>visa</entry>
@@ -6623,6 +6622,7 @@
         <entry encoding="base64">XDxzdHlsZXNoZWV0XD4=</entry>
         <entry>ascntr</entry>
         <entry>allowed</entry>
+        <entry>abmelden</entry>
       </history-search>
       <history-cmd>
         <entry>w2</entry>
