@@ -42,7 +42,7 @@
         <mark key="^" line="72" column="24" />
         <mark key="." line="72" column="24" />
       </file>
-      <file name="/a.dummy" timestamp="1487084687370">
+      <file name="/a.dummy" timestamp="1487243555327">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -707,12 +707,6 @@
         <mark key="]" line="36" column="45" />
         <mark key="^" line="36" column="45" />
         <mark key="." line="36" column="45" />
-      </file>
-      <file name="$USER_HOME$/code/BurgtheaterWebsite/burg/templates/base.html" timestamp="1487171106287">
-        <mark key="[" line="60" column="7" />
-        <mark key="]" line="62" column="14" />
-        <mark key="." line="62" column="14" />
-        <mark key="^" line="62" column="14" />
       </file>
       <file name="$USER_HOME$/Work/submitz-nemesis/submitz/apps/awards/factories.py" timestamp="1422360518378">
         <mark key="[" line="17" column="0" />
@@ -1549,7 +1543,12 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/code/BurgtheaterWebsite/README.rst" timestamp="1487078749829" />
+      <file name="$USER_HOME$/code/BurgtheaterWebsite/README.rst" timestamp="1487243022855">
+        <mark key="[" line="64" column="45" />
+        <mark key="]" line="65" column="50" />
+        <mark key="." line="65" column="50" />
+        <mark key="^" line="65" column="50" />
+      </file>
       <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/shop/checkout/checkout/__init__.py" timestamp="1480338523621">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="36" />
@@ -2293,11 +2292,10 @@
         <mark key="." line="37" column="22" />
         <mark key="^" line="37" column="22" />
       </file>
-      <file name="$USER_HOME$/code/BurgtheaterWebsite/.env.example" timestamp="1487064355081">
-        <mark key="[" line="8" column="39" />
-        <mark key="]" line="8" column="31" />
-        <mark key="^" line="8" column="31" />
-        <mark key="." line="8" column="31" />
+      <file name="$USER_HOME$/code/BurgtheaterWebsite/.env.example" timestamp="1487242879170">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitz/apps/carton/tests/test_transitions.py" timestamp="1440490265928">
         <mark key="[" line="1" column="5" />
@@ -3024,11 +3022,11 @@
         <mark key="^" line="30" column="38" />
         <mark key="." line="30" column="38" />
       </file>
-      <file name="$USER_HOME$/code/BurgtheaterWebsite/docker-compose.yml" timestamp="1487082275586">
-        <mark key="[" line="33" column="7" />
-        <mark key="]" line="33" column="5" />
-        <mark key="." line="33" column="5" />
-        <mark key="^" line="33" column="5" />
+      <file name="$USER_HOME$/code/BurgtheaterWebsite/docker-compose.yml" timestamp="1487242198325">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="32" column="5" />
       </file>
       <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/src/django-oscar-viveum/opp/copyandpay/gateway.py" timestamp="1480341448472">
         <mark key="[" line="2" column="0" />
@@ -3353,11 +3351,11 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/code/BurgtheaterWebsite/burg/contrib/dispo/models.py" timestamp="1487090150291">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="16" />
+      <file name="$USER_HOME$/code/BurgtheaterWebsite/burg/contrib/dispo/models.py" timestamp="1487240864983">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="19" column="15" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitto/contrib/profiles/urls.py" timestamp="1453736051819">
         <mark key="[" line="10" column="134" />
@@ -3520,6 +3518,11 @@
         <mark key="]" line="19" column="4" />
         <mark key="^" line="19" column="4" />
         <mark key="." line="19" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/BurgtheaterWebsite/requirements/project.in" timestamp="1487242929346">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/code/ansible-uwsgi-emperor/tasks/install-pip3.yml" timestamp="1478858122834">
         <mark key="[" line="6" column="12" />
@@ -3773,11 +3776,11 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/code/BurgtheaterWebsite/Vagrantfile" timestamp="1484648245507">
-        <mark key="[" line="49" column="116" />
-        <mark key="]" line="49" column="114" />
-        <mark key="^" line="49" column="114" />
-        <mark key="." line="49" column="114" />
+      <file name="$USER_HOME$/code/BurgtheaterWebsite/Vagrantfile" timestamp="1487243602095">
+        <mark key="[" line="11" column="49" />
+        <mark key="]" line="11" column="46" />
+        <mark key="^" line="11" column="46" />
+        <mark key="." line="11" column="46" />
       </file>
       <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/src/setup.py" timestamp="1479899286220">
         <mark key="[" line="14" column="18" />
@@ -4048,9 +4051,9 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/code/BurgtheaterWebsite/burg/settings/project.py" timestamp="1487087225319">
+      <file name="$USER_HOME$/code/BurgtheaterWebsite/burg/settings/project.py" timestamp="1487242905115">
         <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="25" />
+        <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Work/submitz-nemesis/provisioning/vagrant.yml" timestamp="1423477103539">
@@ -4202,6 +4205,11 @@
         <mark key="]" line="22" column="30" />
         <mark key="^" line="22" column="30" />
         <mark key="." line="22" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/BurgtheaterWebsite/burg/settings/base.py" timestamp="1487243378390">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Work/submitz-nemesis/submitz/conf/03-media.py" timestamp="1422549372792">
         <mark key="[" line="30" column="44" />
@@ -6542,60 +6550,59 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdkaXNwbyc6IGVudi5kYignRElTUE9fVVJMJykK</text>
       </register>
       <register name="-" type="4">
         <text>pancakies</text>
       </register>
       <register name="/" type="4">
-        <text>ascntr</text>
+        <text>allowed</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnUHJvZ3JhbW1pbmcgTGFuZ3VhZ2UgOjogUHl0aG9uIDo6IDIuNycsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdkaXNwbyc6IGVudi5kYignRElTUE9fVVJMJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiAxYjM3MWQ0YmJjYTJkMzUxYTc0NTAwZWQxODg0NGE3ZTNmMmIxMGRlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bXlzcWxjbGllbnQ9PTEuMy45Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBkZWYgZ2V0X3F1ZXJ5c2V0KHNlbGYsIHJlcXVlc3QpOgogICAgICAgIHFzID0gc3VwZXIoKS5nZXRfcXVlcnlzZXQocmVxdWVzdCkKICAgICAgICAjIHFzID0gcXMuYW5ub3RhdGUocHJvZHVrdGlvbl9kaXNwbGF5PVJhd1NRTCgKICAgICAgICAjICAgICAiU0VMRUNUIERJU1RJTkNUIHdlYmludGVyZmFjZV9wcm9kdWt0aW9uZW4udGl0ZWwgZnJvbSB3ZWJpbnRlcmZhY2VfcHJvZHVrdGlvbmVuLCB3ZWJpbnRlcmZhY2VfZXZlbnRzIgogICAgICAgICMgICAgICIgV0hFUkUgd2ViaW50ZXJmYWNlX3Byb2R1a3Rpb25lbi5wcm9kdWt0aW9uX2lkID0gd2ViaW50ZXJmYWNlX2V2ZW50cy5wcm9kdWt0aW9uX2lkIiwKICAgICAgICAjICAgICBwYXJhbXM9KCkpKQogICAgICAgICMgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkKICAgICAgICByZXR1cm4gcXM=</text>
+      <register name="4" type="2">
+        <text encoding="base64">IyBuZWVkZWQgZm9yIGRpc3BvIG15c3FsIGRiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDp3Cg==</text>
+        <text encoding="base64">ZWxhc3RpY3NlYXJjaD49MS4wLjAsPDIuMC4wCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9kdWt0aW9uTW9kZWxBZG1pbiwK</text>
+        <text encoding="base64">IyBFbGFzdGljc2VhcmNoIDEueCwgVE9ETzogZXZhbHVhdGUgMi54Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBCZXNldHp1bmdNb2RlbEFkbWluLAo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBFdmVudE1vZGVsQWRtaW4sCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1lbnVfb3JkZXIgPSAyMDUK</text>
+        <text encoding="base64">Pj4+Pj4+PiAxYjM3MWQ0YmJjYTJkMzUxYTc0NTAwZWQxODg0NGE3ZTNmMmIxMGRlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ascntr</last-search>
+      <last-search>allowed</last-search>
       <last-offset />
-      <last-pattern>ascntr</last-pattern>
+      <last-pattern>allowed</last-pattern>
       <last-replace>lustro</last-replace>
       <last-substitute>ascntr</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ipdb</entry>
         <entry>self.instance4</entry>
         <entry>instance</entry>
         <entry>SITE</entry>
@@ -6615,6 +6622,7 @@
         <entry>Basket</entry>
         <entry encoding="base64">XDxzdHlsZXNoZWV0XD4=</entry>
         <entry>ascntr</entry>
+        <entry>allowed</entry>
       </history-search>
       <history-cmd>
         <entry>w2</entry>
