@@ -42,7 +42,7 @@
         <mark key="^" line="72" column="24" />
         <mark key="." line="72" column="24" />
       </file>
-      <file name="/a.dummy" timestamp="1487274115788">
+      <file name="/a.dummy" timestamp="1487336701950">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -240,11 +240,11 @@
         <mark key="^" line="315" column="54" />
         <mark key="." line="315" column="54" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/core/movie_detail.html" timestamp="1485772161258">
-        <mark key="[" line="11" column="52" />
-        <mark key="]" line="12" column="36" />
-        <mark key="." line="12" column="36" />
-        <mark key="^" line="12" column="36" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/core/movie_detail.html" timestamp="1487337160304">
+        <mark key="[" line="37" column="3" />
+        <mark key="]" line="39" column="37" />
+        <mark key="." line="39" column="37" />
+        <mark key="^" line="39" column="37" />
       </file>
       <file name="$USER_HOME$/code/submitto-phoenix/submitto/contrib/forms/forms.py" timestamp="1464351431719">
         <mark key="[" line="89" column="0" />
@@ -1183,12 +1183,12 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/views.py" timestamp="1487282535216">
-        <mark key="'" line="213" column="15" />
-        <mark key="[" line="211" column="39" />
-        <mark key="]" line="211" column="30" />
-        <mark key="." line="211" column="30" />
-        <mark key="^" line="211" column="30" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/views.py" timestamp="1487336655334">
+        <mark key="'" line="218" column="15" />
+        <mark key="[" line="215" column="47" />
+        <mark key="]" line="215" column="45" />
+        <mark key="." line="215" column="45" />
+        <mark key="^" line="215" column="45" />
       </file>
       <file name="$USER_HOME$/Work/pywhale/image/devheaders.sh" timestamp="1403706304802">
         <mark key="[" line="2" column="42" />
@@ -1292,11 +1292,11 @@
         <mark key="." line="5" column="44" />
         <mark key="^" line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/urls.py" timestamp="1485875831066">
-        <mark key="[" line="6" column="59" />
-        <mark key="]" line="16" column="24" />
-        <mark key="^" line="16" column="24" />
-        <mark key="." line="16" column="24" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/urls.py" timestamp="1487336662263">
+        <mark key="[" line="6" column="82" />
+        <mark key="]" line="14" column="93" />
+        <mark key="^" line="14" column="93" />
+        <mark key="." line="14" column="93" />
       </file>
       <file name="$USER_HOME$/code/perfect_gift_backend_neu/README.rst" timestamp="1478959026733">
         <mark key="[" line="46" column="0" />
@@ -2289,11 +2289,11 @@
         <mark key="^" line="209" column="17" />
         <mark key="." line="209" column="17" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/shop/basket/views.py" timestamp="1487280876271">
-        <mark key="[" line="85" column="11" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
-        <mark key="^" line="87" column="0" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/shop/basket/views.py" timestamp="1487336088034">
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="143" column="52" />
+        <mark key="." line="143" column="52" />
+        <mark key="^" line="143" column="52" />
       </file>
       <file name="$USER_HOME$/code/BurgtheaterWebsite/.env.example" timestamp="1487242879170">
         <mark key="[" line="9" column="0" />
