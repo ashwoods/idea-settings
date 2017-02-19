@@ -42,7 +42,7 @@
         <mark key="^" line="72" column="24" />
         <mark key="." line="72" column="24" />
       </file>
-      <file name="/a.dummy" timestamp="1487523228784">
+      <file name="/a.dummy" timestamp="1487528022615">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -2239,12 +2239,12 @@
         <mark key="^" line="18" column="81" />
         <mark key="." line="18" column="81" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/models/movies.py" timestamp="1487525111898">
-        <mark key="'" line="29" column="7" />
-        <mark key="[" line="401" column="0" />
-        <mark key="]" line="87" column="4" />
-        <mark key="." line="87" column="4" />
-        <mark key="^" line="29" column="15" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/models/movies.py" timestamp="1487527634790">
+        <mark key="'" line="36" column="7" />
+        <mark key="[" line="166" column="47" />
+        <mark key="]" line="158" column="8" />
+        <mark key="." line="158" column="8" />
+        <mark key="^" line="158" column="8" />
       </file>
       <file name="$USER_HOME$/code/lustro/tests/conftest.py" timestamp="1485954537981">
         <mark key="[" line="10" column="56" />
@@ -2307,11 +2307,10 @@
         <mark key="^" line="209" column="17" />
         <mark key="." line="209" column="17" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/shop/basket/views.py" timestamp="1487336088034">
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="143" column="52" />
-        <mark key="." line="143" column="52" />
-        <mark key="^" line="143" column="52" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/shop/basket/views.py" timestamp="1487527945594">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/code/BurgtheaterWebsite/.env.example" timestamp="1487242879170">
         <mark key="[" line="9" column="0" />
@@ -2702,11 +2701,11 @@
         <mark key="^" line="33" column="22" />
         <mark key="." line="33" column="22" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/templatetags/movies.py" timestamp="1485769933669">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="22" column="35" />
-        <mark key="." line="22" column="35" />
-        <mark key="^" line="22" column="35" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/templatetags/movies.py" timestamp="1487528036497">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="17" column="35" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/code/ig/features/steps/login.py" timestamp="1435763788085">
         <mark key="[" line="3" column="32" />
@@ -3343,11 +3342,11 @@
         <mark key="^" line="14" column="28" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/utils.py" timestamp="1487523301098">
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="10" column="31" />
-        <mark key="." line="10" column="31" />
-        <mark key="^" line="10" column="31" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/utils.py" timestamp="1487525453420">
+        <mark key="[" line="16" column="35" />
+        <mark key="]" line="17" column="19" />
+        <mark key="." line="17" column="19" />
+        <mark key="^" line="17" column="19" />
       </file>
       <file name="$USER_HOME$/code/opera.core/vm/vagrant.yml" timestamp="1466108620046">
         <mark key="[" line="55" column="29" />
@@ -3750,12 +3749,12 @@
         <mark key="^" line="25" column="26" />
         <mark key="." line="25" column="26" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/project.py" timestamp="1487521834015">
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/settings/project.py" timestamp="1487528392979">
         <mark key="'" line="127" column="52" />
-        <mark key="[" line="42" column="18" />
-        <mark key="]" line="44" column="14" />
-        <mark key="." line="44" column="14" />
-        <mark key="^" line="44" column="14" />
+        <mark key="[" line="208" column="0" />
+        <mark key="]" line="211" column="11" />
+        <mark key="." line="211" column="11" />
+        <mark key="^" line="211" column="11" />
       </file>
       <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/core/account_detail.html" timestamp="1487170980354">
         <mark key="[" line="11" column="0" />
@@ -4549,6 +4548,13 @@
         <mark key="]" line="4" column="21" />
         <mark key="^" line="4" column="21" />
         <mark key="." line="4" column="21" />
+      </file>
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/shop/partials/basket_lines.html" timestamp="1487528159694">
+        <mark key="'" line="20" column="38" />
+        <mark key="[" line="22" column="20" />
+        <mark key="]" line="22" column="112" />
+        <mark key="." line="22" column="112" />
+        <mark key="^" line="22" column="112" />
       </file>
       <file name="$USER_HOME$/code/nemesis/submitz/core/voting/tests/test_views.py" timestamp="1441961648514">
         <mark key="[" line="47" column="8" />
@@ -6017,11 +6023,10 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/contrib/profiles/models.py" timestamp="1487523407526">
-        <mark key="[" line="20" column="16" />
-        <mark key="]" line="20" column="15" />
-        <mark key="." line="20" column="15" />
-        <mark key="^" line="20" column="15" />
+      <file name="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/contrib/profiles/models.py" timestamp="1487528540954">
+        <mark key="[" line="81" column="12" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/code/Bildrecht_backend/src/django-monkeytranslate/monkeytranslate/apps.py" timestamp="1479746400052">
         <mark key="[" line="5" column="0" />
@@ -6480,23 +6485,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="449" column="38" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
-      <jump line="450" column="17" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
-      <jump line="456" column="20" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
-      <jump line="590" column="20" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
-      <jump line="591" column="46" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
-      <jump line="592" column="20" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
-      <jump line="621" column="41" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
-      <jump line="624" column="34" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
-      <jump line="625" column="47" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
-      <jump line="629" column="37" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
-      <jump line="634" column="69" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
-      <jump line="635" column="46" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
-      <jump line="659" column="46" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
-      <jump line="671" column="31" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
-      <jump line="746" column="14" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
-      <jump line="749" column="23" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
-      <jump line="760" column="22" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
       <jump line="763" column="21" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
       <jump line="791" column="59" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
       <jump line="798" column="46" filename="$USER_HOME$/.pyenv/versions/cinema_3.5.2/lib/python3.5/site-packages/django/forms/models.py" />
@@ -6580,22 +6568,39 @@
       <jump line="28" column="15" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/models/movies.py" />
       <jump line="29" column="7" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/models/movies.py" />
       <jump line="13" column="31" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/apps/core/middleware.py" />
+      <jump line="22" column="113" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/shop/partials/basket_lines.html" />
+      <jump line="23" column="28" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/shop/partials/basket_lines.html" />
+      <jump line="26" column="39" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/shop/partials/basket_lines.html" />
+      <jump line="29" column="39" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/shop/partials/basket_lines.html" />
+      <jump line="32" column="39" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/shop/partials/basket_lines.html" />
+      <jump line="45" column="28" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/shop/partials/basket_lines.html" />
+      <jump line="46" column="31" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/shop/partials/basket_lines.html" />
+      <jump line="49" column="31" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/shop/partials/basket_lines.html" />
+      <jump line="56" column="31" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/shop/partials/basket_lines.html" />
+      <jump line="5" column="8" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/shop/partials/basket_lines.html" />
+      <jump line="10" column="23" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/shop/partials/basket_lines.html" />
+      <jump line="14" column="20" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/shop/partials/basket_lines.html" />
+      <jump line="15" column="39" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/shop/partials/basket_lines.html" />
+      <jump line="16" column="33" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/shop/partials/basket_lines.html" />
+      <jump line="18" column="39" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/shop/partials/basket_lines.html" />
+      <jump line="19" column="54" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/shop/partials/basket_lines.html" />
+      <jump line="20" column="38" filename="$USER_HOME$/code/AustriaCinemaServicePlatform/acsp/templates/shop/partials/basket_lines.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgeyUgbW92aWVfZm9yX3Byb2R1Y3QgcHJvZHVjdCBhcyBtb3ZpZSAlfQo=</text>
       </register>
       <register name="-" type="4">
         <text>models</text>
       </register>
       <register name="/" type="4">
-        <text>get_class</text>
+        <text>movie</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnUHJvZ3JhbW1pbmcgTGFuZ3VhZ2UgOjogUHl0aG9uIDo6IDIuNycsCg==</text>
+        <text encoding="base64">ICAgICAgICBfXyA9IGdldF9vcl9jcmVhdGVfc2hvcF9wcm9kdWN0KAogICAgICAgICAgICBtb3ZpZT1pbnN0YW5jZSwKICAgICAgICAgICAgcHJvZHVjdF9jbGFzcz1jbHNfcmVudGFsLAogICAgICAgICAgICBwcmljZT1pbnN0YW5jZS5zaG9wX2NhdGVnb3J5LnByaWNlX3JlbnRhbAogICAgICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgeyUgbW92aWVfZm9yX3Byb2R1Y3QgcHJvZHVjdCBhcyBtb3ZpZSAlfQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -6603,41 +6608,32 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>catalogue_movie_purchase = models.ForeignKey(
-        get_class('catalogue.models', 'Product'),
-        related_name='movie_purchase',
-        null=True,
-    )
-    catalogue_movie_rental = models.ForeignKey(
-        get_class('catalogue.models', 'Product'),
-        related_name='movie_rental',
-        null=True,
-    )</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBnZXRhdHRyKHByb2R1Y3QsICdtb3ZpZV8lcycgJSBwcm9kdWN0LnByb2R1Y3RfY2xhc3Muc2x1ZykuZ2V0KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIG1vdmllX2Zvcl9wcm9kdWN0KHByb2R1Y3QpOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QHJlZ2lzdGVyLnNpbXBsZV90YWcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgUHJvZHVjdENsYXNzKEFic3RyYWN0UHJvZHVjdENsYXNzKToK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbW92aWVzX2luX2Jhc2tldAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get_class</last-search>
+      <last-search>movie</last-search>
       <last-offset />
-      <last-pattern>get_class</last-pattern>
+      <last-pattern>movie</last-pattern>
       <last-replace>lustro</last-replace>
       <last-substitute>ascntr</last-substitute>
       <last-dir>1</last-dir>
@@ -6645,7 +6641,6 @@
     </search>
     <history>
       <history-search>
-        <entry>SITE</entry>
         <entry>visa</entry>
         <entry>fsm</entry>
         <entry>move_line</entry>
@@ -6665,6 +6660,7 @@
         <entry>allowed</entry>
         <entry>abmelden</entry>
         <entry>get_class</entry>
+        <entry>movie</entry>
       </history-search>
       <history-cmd>
         <entry>w2</entry>
